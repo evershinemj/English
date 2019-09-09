@@ -5,7 +5,7 @@ practicality
   Your suggestion is appealing in theory, but it lacks practicality. 
 ---
 practicalities 
-- 实际情况；实际
-  The practicalities of having two young children and working full time meant we had to employ a nanny. 
+- 实际情况；实际<br>
+  The practicalities of having two young children and working full time meant we had to employ a nanny. <br>
   It sounds like a good idea, but you should consider the practicalities before you put it into action. 
 ---
