@@ -31,3 +31,15 @@ freak out
 whine
 - To produce a sustained, high-pitched, plaintive sound, as in pain, fear, or complaint.
 ---
+dismiss
+- To stop considering; rid one's mind of; dispel 不予考虑
+- To refuse to accept or recognize; reject
+  dismissed the claim as highly improbable.
+- To direct or allow to leave 解散；遣散
+  dismissed troops after the inspection; dismissed the student after reprimanding him.
+---
+routinely
+- In an expected or customary manner; for the most part 通常地
+  Any outside criticism is routinely dismissed as interference. 
+  He routinely works late into the night.
+---
