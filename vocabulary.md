@@ -28,3 +28,6 @@ freak out
 - n. a wild delusion (especially one induced by a hallucinogenic drug)
   She sort of had a nervous freak out after it all happened. 
 ---
+whine
+- To produce a sustained, high-pitched, plaintive sound, as in pain, fear, or complaint.
+---
