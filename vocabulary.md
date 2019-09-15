@@ -43,3 +43,5 @@ routinely
   Any outside criticism is routinely dismissed as interference. 
   He routinely works late into the night.
 ---
+viewport
+- A scrollable region on screen. йс©з
