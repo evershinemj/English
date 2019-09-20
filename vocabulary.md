@@ -52,4 +52,6 @@ norm
 resilient
 - 有弹力的，恢复性强的
 ---
-
+perverse
+- 叛逆的
+---
