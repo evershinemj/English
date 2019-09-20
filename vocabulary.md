@@ -55,3 +55,6 @@ resilient
 perverse
 - 叛逆的
 ---
+behind the scene
+- 在幕后
+---
