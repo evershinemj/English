@@ -49,4 +49,7 @@ viewport
 norm 
 - 规范，惯例
 ---
+resilient
+- 有弹力的，恢复性强的
+---
 
