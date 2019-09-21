@@ -57,3 +57,7 @@ routinely
 ---
 viewport
 - A scrollable region on screen. 视口
+---
+hoodie
+- 帽衫
+---
