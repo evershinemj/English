@@ -67,3 +67,33 @@ feasible
 practicable
 - feasible
 ---
+impoverish
+- make poor
+---
+slacken
+- slow down
+- loosen
+- ease
+---
+relent
+- To become more lenient, compassionate, or forgiving 变缓和；变温和
+- To become less severe or intense; slacken 减弱
+  The storm finally relented.
+---
+skew
+- 歪曲，偏离
+  The arithmetic of nuclear running costs has been skewed by the fall in the cost of other fuels.
+  The estimate could be incorrect if there is data skew on the column.
+---
+jocular
+- characterized by joking; humorous; joking
+---
+jesting
+- characterized by jokes and good humor
+---
+baseless
+- Having no basis or foundation in fact; unfounded.
+---
+rootless
+- Not belonging to a particular place or society
+  rootless refugees in a strange country.
