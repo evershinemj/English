@@ -61,3 +61,9 @@ viewport
 hoodie
 - 帽衫
 ---
+feasible
+- 可行的
+---
+practicable
+- feasible
+---
