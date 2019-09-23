@@ -113,3 +113,7 @@ vituperation
 invective
 - Denunciatory or abusive language; vituperation 辱骂，咒骂
 ---
+anteroom
+- An outer room that opens into another room, often used as a waiting room. ante-: before
+  synonyms: lobby, hall, waiting room, outer room, reception room
+---
