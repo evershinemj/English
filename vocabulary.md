@@ -107,3 +107,9 @@ control freak
 devotee
 - 狂热爱好者，热衷者 One who is ardently devoted to something; an enthusiast or advocate: a devotee of sports.
 ---
+vituperation
+- abusive language or venomous censure 辱骂
+---
+invective
+- Denunciatory or abusive language; vituperation 辱骂，咒骂
+---
