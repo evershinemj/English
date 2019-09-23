@@ -101,3 +101,6 @@ rootless
 nerd
 - 呆子; 书呆子
 ---
+control freak
+- Someone who has an obsessive or compulsive need to control every aspect of a situation and/or the ways in which others act. 控制狂
+---
