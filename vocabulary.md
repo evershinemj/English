@@ -104,3 +104,6 @@ nerd
 control freak
 - Someone who has an obsessive or compulsive need to control every aspect of a situation and/or the ways in which others act. 控制狂
 ---
+devotee
+- 狂热爱好者，热衷者 One who is ardently devoted to something; an enthusiast or advocate: a devotee of sports.
+---
