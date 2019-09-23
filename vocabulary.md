@@ -97,3 +97,7 @@ baseless
 rootless
 - Not belonging to a particular place or society
   rootless refugees in a strange country.
+---
+nerd
+- 呆子; 书呆子
+---
