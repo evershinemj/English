@@ -117,3 +117,13 @@ anteroom
 - An outer room that opens into another room, often used as a waiting room. ante-: before
   synonyms: lobby, hall, waiting room, outer room, reception room
 ---
+wherefore
+- (usually plural) an explanation or reason (esp in the phrase **the whys and wherefores**)
+---
+mendaciously
+- untruthfully 虚假地
+---
+amiss
+- Out of proper order 不对劲的: What is amiss?
+- Not in perfect shape; faulty.
+---
