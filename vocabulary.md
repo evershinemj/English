@@ -127,3 +127,6 @@ amiss
 - Out of proper order 不对劲的: What is amiss?
 - Not in perfect shape; faulty.
 ---
+presume
+- to take (something) for granted; assume 想，认为
+---
