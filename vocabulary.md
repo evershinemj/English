@@ -140,7 +140,7 @@ amiable
 itty-bitty
 - very small; tweensy-weensy. Probably alteration of little bit
 ---
-tweensy-weensy(tweeny-weeny)
+teensy-weensy(teeny-weeny)
 - (baby talk)tiny
 ---
 unblemished
