@@ -165,3 +165,11 @@ mar
 blemish
 - 瑕疵
 ---
+gregarious
+- sociable, outgoing 爱交际的，合群的
+---
+unlettered
+- uneducated; illiterate
+---
+sneaky
+- 鬼鬼祟祟的
