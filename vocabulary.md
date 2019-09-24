@@ -130,3 +130,38 @@ amiss
 presume
 - to take (something) for granted; assume 想，认为
 ---
+belly-up
+- financially ruined; bankrupt
+  The struggling grocery store was forced to lay off several employees to avoid going belly-up.
+---
+amiable
+- friendly and pleasant in temperament
+---
+itty-bitty
+- very small; tweensy-weensy. Probably alteration of little bit
+---
+tweensy-weensy(tweeny-weeny)
+- (baby talk)tiny
+---
+unblemished
+- unmarred; Free from physical or moral spots or stains. 
+His unblemished reputation as a man of honor and principle follows him wherever he goes.
+---
+unmarred
+- unblemished
+---
+inflict
+- To cause (something injurious or harmful), as to a person, group, or area
+  claws that inflicted a deep wound; an attack that inflicted heavy losses; a storm that inflicted widespread damage.
+---
+afflict
+- To cause grievous physical or mental suffering to. torment
+---
+mar
+- To inflict damage, especially disfiguring damage, on. 损毁
+- To impair the soundness, perfection, or integrity of; spoil. 损害
+- n. blemish
+---
+blemish
+- 瑕疵
+---
