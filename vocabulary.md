@@ -259,3 +259,6 @@ sniff
 ---
 sniffle
 - (尤指因哭泣或患感冒) 抽鼻子
+---
+inhale
+- breathe in
