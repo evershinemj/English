@@ -173,3 +173,19 @@ unlettered
 ---
 sneaky
 - 鬼鬼祟祟的
+---
+facilities
+- buildings, services, equipment, etc. that are provided for a particular purpose 设施
+  sports/leisure facilities
+---
+faculty
+- [C, usually pl.] 官能 any of the physical or mental abilities that a person is born with
+  the faculty of sight
+  She retained her mental faculties (= the ability to think and understand) until the day she died.
+- [sing.] ~ of/for (doing) sth (formal) 才能；能力 a particular ability for doing sth
+  the faculty of understanding complex issues
+- [C] （高等院校的）系，院
+  the Faculty of Law
+- [C + sing./pl. v.] （高等院校中院、系的）全体教师  
+  the Law School faculty
+  a faculty meeting
