@@ -253,3 +253,9 @@ chuckle
 ---
 giggle
 - 咯咯笑
+---
+sniff
+- 嗅 To inhale a short, audible breath through the nose, as in smelling something.
+---
+sniffle
+- (尤指因哭泣或患感冒) 抽鼻子
