@@ -262,3 +262,6 @@ sniffle
 ---
 inhale
 - breathe in
+---
+adept
+- 内行的，擅长的
