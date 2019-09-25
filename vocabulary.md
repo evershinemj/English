@@ -229,3 +229,6 @@ censer
 ---
 thurible
 - censer
+---
+infidelity
+- 不忠 fidelity: 忠贞
