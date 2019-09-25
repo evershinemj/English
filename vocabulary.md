@@ -241,3 +241,7 @@ dreadful
 - Extremely bad, unpleasant, or distasteful; awful
 - Inspiring dread; terrible
 ---
+trepidation
+- Trepidation is fear or anxiety about something that you are going to do or experience. 惶恐
+  grapple with trepidation
+---
