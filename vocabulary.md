@@ -220,3 +220,12 @@ grapple with
 - To struggle or work hard to deal with something 竭力解决
   grappled with their consciences; grapple with the political realities of our time.
   The economy is just one of several critical problems the country is grappling with.
+---
+incense
+- n. 香
+---
+censer
+- 香炉
+---
+thurible
+- censer
