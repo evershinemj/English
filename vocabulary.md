@@ -189,3 +189,7 @@ faculty
 - [C + sing./pl. v.] （高等院校中院、系的）全体教师  
   the Law School faculty
   a faculty meeting
+---
+blow away
+- To thoroughly impress, overwhelm, or excite. In this usage, a noun can be used between "blow" and "away." 
+  The show of support from everyone just blew me away. I was blown away by how good that movie was!
