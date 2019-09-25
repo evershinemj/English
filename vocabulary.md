@@ -202,3 +202,12 @@ overwhelm
   The army was overwhelmed by the rebels.
 - 使应接不暇 to be so bad or so great that a person cannot deal with it; to give too much of a thing to a person
   We were overwhelmed by requests for information.
+---
+overwhelming
+- 压倒性的；极强烈的；无法抗拒的 If something is overwhelming, it affects you very strongly, and you do not know how to deal with it.
+  The task won't feel so overwhelming if you break it down into small, easy-to-accomplish steps...
+  The overwhelming majority of those present were in favour of the plan.
+  an overwhelming sense of loss
+---
+overwhelmingly
+- irresistibly, overpoweringly  
