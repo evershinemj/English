@@ -232,3 +232,12 @@ thurible
 ---
 infidelity
 - 不忠 fidelity: 忠贞
+---
+dread
+- To be in terror of; fear intensely
+  What I most dreaded as a child was the close danger of the atomic bomb
+---
+dreadful
+- Extremely bad, unpleasant, or distasteful; awful
+- Inspiring dread; terrible
+---
