@@ -193,3 +193,12 @@ faculty
 blow away
 - To thoroughly impress, overwhelm, or excite. In this usage, a noun can be used between "blow" and "away." 
   The show of support from everyone just blew me away. I was blown away by how good that movie was!
+---
+overwhelm
+- 感情或感觉）充溢，难以禁受 to have such a strong emotional effect on sb that it is difficult for them to resist or know how to react
+  She was overwhelmed by feelings of guilt.
+  The beauty of the landscape overwhelmed me.
+- 压倒；击败；征服
+  The army was overwhelmed by the rebels.
+- 使应接不暇 to be so bad or so great that a person cannot deal with it; to give too much of a thing to a person
+  We were overwhelmed by requests for information.
