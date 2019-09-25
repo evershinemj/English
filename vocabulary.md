@@ -247,3 +247,9 @@ trepidation
 ---
 snooze
 - 打盹
+---
+chuckle
+- laugh quietly
+---
+giggle
+- 咯咯笑
