@@ -294,3 +294,7 @@ epoch
 ---
 arena
 - 舞台 enclosed area for the presentation of sports events and spectacles.
+---
+draw back
+- 后退，退缩 to retreat
+---
