@@ -401,3 +401,8 @@ expedient
 advisable
 - 明智的，可取的
   Because of the popularity of the region, it is advisable to book hotels or camp sites in advance
+committed
+- 尽心尽力的
+  He said the government remained committed to peace.
+  a committed socialist
+  
