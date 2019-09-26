@@ -285,3 +285,9 @@ eke out
   In old China workers and peasants could hardly eke out a living, let alone send their children to school. 
 - 节约使用
   We must try to eke out our water supply. 
+---
+era
+- 时代，纪元
+---
+epoch
+- era  
