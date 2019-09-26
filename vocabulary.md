@@ -359,3 +359,9 @@ alleviate
 ---
 assuage
 - 减轻，缓和
+---
+committed
+- 尽心尽力的
+  He said the government remained committed to peace.
+  a committed socialist
+  
