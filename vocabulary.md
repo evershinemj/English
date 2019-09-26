@@ -342,3 +342,20 @@ commit
 squall
 - v. 大声啼哭
 - n. 大风  
+---
+extenuate
+- 减轻 lessen or to try to lessen the seriousness or extent of
+  Nothing can extenuate such appalling behavior. 
+---
+mitigate
+- 减轻，缓和
+---
+palliate
+- provide physical relief, as from pain; relieve, alleviate, assuage
+- lessen or to try to lessen the seriousness or extent of; extenuate, mitigate
+---
+alleviate
+- 减轻，缓和
+---
+assuage
+- 减轻，缓和
