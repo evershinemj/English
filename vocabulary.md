@@ -334,3 +334,7 @@ custody
 ---
 consign
 - 交付
+---
+commit
+- 承诺（某事）；忠于（某人）
+  If you commit yourself to something, you say that you will definitely do it. If you commit yourself to someone, you decide that you want to have a long-term relationship with them.
