@@ -311,4 +311,12 @@ retrieve
 - 挽回（某种局面）
   He is the one man who could retrieve that situation.
 - 检索 To retrieve information from a computer or from your memory means to get it back.
-
+---
+recede
+- 后退，远离  To move back or away from a limit, point, or mark
+  waited for the floodwaters to recede.
+  Luke's footsteps receded into the night...
+- （问题或疾病等）逐渐减弱，好转 To become or seem to become more distant and fainter or less distinct
+  Eventually, my unhappy memories of the place receded.  
+  Just as I started to think that I was never going to get well, the illness began to recede...
+  
