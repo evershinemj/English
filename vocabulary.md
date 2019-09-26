@@ -319,4 +319,9 @@ recede
 - （问题或疾病等）逐渐减弱，好转 To become or seem to become more distant and fainter or less distinct
   Eventually, my unhappy memories of the place receded.  
   Just as I started to think that I was never going to get well, the illness began to recede...
-  
+---
+back off
+- recede, retreat, draw back
+  They backed off in horror. 
+- If you tell someone to back off, you are telling them to stop interfering.
+  Back off, Mom, I'm old enough to make my own decisions!  
