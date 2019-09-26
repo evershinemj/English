@@ -265,3 +265,15 @@ inhale
 ---
 adept
 - 内行的，擅长的
+---
+doze off
+- To fall into a light sleep(unintentionally).
+---
+make (both) ends meet
+- To earn just enough money to pay one's bills. ends stands for income and expenditures.
+---
+expense
+- 费用（一般支出）
+---
+expenditure
+- 支出（官方支出）；e.g.政府开支，国防开支
