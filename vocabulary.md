@@ -291,3 +291,6 @@ era
 ---
 epoch
 - era  
+---
+arena
+- 舞台 enclosed area for the presentation of sports events and spectacles.
