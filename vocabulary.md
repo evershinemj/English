@@ -325,3 +325,9 @@ back off
   They backed off in horror. 
 - If you tell someone to back off, you are telling them to stop interfering.
   Back off, Mom, I'm old enough to make my own decisions!  
+---
+boycott
+- 抵制
+---
+custody
+- 监护  
