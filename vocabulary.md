@@ -298,3 +298,17 @@ arena
 draw back
 - 后退，退缩 to retreat
 ---
+retreat
+- 撤退
+- 后退；离去 to move away or back; recede
+  He watched her retreating figure.
+  The flood waters slowly retreated.
+- 退缩 back off
+---
+retrieve
+- 取回 If you retrieve something, you get it back from the place where you left it.
+  He reached over and retrieved his jacket from the back seat...
+- 挽回（某种局面）
+  He is the one man who could retrieve that situation.
+- 检索 To retrieve information from a computer or from your memory means to get it back.
+
