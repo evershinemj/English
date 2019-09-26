@@ -277,3 +277,11 @@ expense
 ---
 expenditure
 - 支出（官方支出）；e.g.政府开支，国防开支
+---
+eke out
+- 竭力维持 eke out an existence; eke out a living
+  They eke out a bare existence on his low salary.
+  Families struggle to eke out an existence in this harsh environment.  
+  In old China workers and peasants could hardly eke out a living, let alone send their children to school. 
+- 节约使用
+  We must try to eke out our water supply. 
