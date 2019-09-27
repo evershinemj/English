@@ -388,3 +388,9 @@ engage
 ---
 engaging
 - attractive     
+---
+monaural
+- 单耳的
+---
+binaural
+- 双耳的
