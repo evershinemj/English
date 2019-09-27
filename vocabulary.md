@@ -366,4 +366,13 @@ can't be bothered(couldn't be bothered)
   A: "Did you go to Sarah's party last night?" B: "Nah, couldn't be bothered."
 ---
 dainty
-- 娇小的; 娇美的; 精致的; 小巧的  
+- 娇小的; 娇美的; 精致的; 小巧的
+---
+shipshape
+- neat and tidy 井然有序，井井有条
+---
+brusque
+- If you describe a person or their behaviour as brusque, you mean that they deal with things, or say things, quickly and shortly, so that they seem to be rude. 唐突的
+---
+gruff
+- brusque 生硬的
