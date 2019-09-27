@@ -359,3 +359,8 @@ alleviate
 ---
 assuage
 - 减轻，缓和
+---
+can't be bothered(couldn't be bothered)
+- 懒得做某事，不愿做某事 Unwilling or disinclined to make the effort necessary to do or accomplish something. (Used in the present and past tenses almost interchangeably.)
+  I can't be bothered to clean all those dishes after dinner, so I'll just leave them in the sink until the morning.
+  A: "Did you go to Sarah's party last night?" B: "Nah, couldn't be bothered."
