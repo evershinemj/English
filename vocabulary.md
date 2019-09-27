@@ -394,3 +394,10 @@ monaural
 ---
 binaural
 - 双耳的
+---
+expedient
+- 合宜的 Suitable or efficient for accomplishing a purpose
+---
+advisable
+- 明智的，可取的
+  Because of the popularity of the region, it is advisable to book hotels or camp sites in advance
