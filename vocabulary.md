@@ -376,3 +376,6 @@ brusque
 ---
 gruff
 - brusque 生硬的
+---
+engross
+- 使全神贯注
