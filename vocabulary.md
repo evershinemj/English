@@ -379,3 +379,12 @@ gruff
 ---
 engross
 - 使全神贯注
+---
+engage
+- attract
+  They never learned skills to engage the attention of the others.
+- occupy
+  Studying engages most of my time.
+---
+engaging
+- attractive     
