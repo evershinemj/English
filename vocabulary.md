@@ -448,3 +448,6 @@ incubate
 ---
 brood over
 - 念念不忘，计较
+---
+spring from
+- 源于
