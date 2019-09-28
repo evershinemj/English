@@ -457,3 +457,6 @@ barely
 ---
 momentary
 - temporary
+---
+intellectual
+- 知识分子
