@@ -405,4 +405,8 @@ committed
 - 尽心尽力的
   He said the government remained committed to peace.
   a committed socialist
-  
+---
+superfluous
+- 过剩的 n. superfluity
+---
+
