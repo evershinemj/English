@@ -454,3 +454,6 @@ spring from
 ---
 barely
 - hardly
+---
+momentary
+- temporary
