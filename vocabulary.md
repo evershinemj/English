@@ -451,3 +451,6 @@ brood over
 ---
 spring from
 - 源于
+---
+barely
+- hardly
