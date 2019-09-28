@@ -443,3 +443,8 @@ rate
 ---
 collectively
 ---  
+incubate
+- 孵化 to sit on its eggs in order to keep them warm until they hatch
+---
+brood over
+- 念念不忘，计较
