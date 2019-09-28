@@ -424,3 +424,10 @@ veneration
 ---
 arid
 - 干旱的
+---
+unkempt
+- not combed: unkempt hair
+- Disorderly or untidy in appearance: an unkempt vagabond
+---
+disheveled
+- unkempt, as hair or clothing.
