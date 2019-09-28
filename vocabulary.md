@@ -472,3 +472,11 @@ commiseration
 ---
 commiserate with
 - 同情
+---
+boom
+- A time of economic prosperity.
+- A sudden increase, as in popularity.
+---
+economic boom
+---
+baby boom
