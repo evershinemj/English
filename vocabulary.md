@@ -413,7 +413,14 @@ exuberant
 - 热情洋溢的 If you are exuberant, you are full of energy, excitement, and cheerfulness.
   an exuberant young girl who decided to become a screen actress.
   They both laughed exuberantly.
+---
 ebullient
 - 兴高采烈的，热情洋溢的 
   If you describe someone as ebullient, you mean that they are lively and full of enthusiasm or excitement about something.  
   She bursted into the room with her usual ebullience, and immediately started talking to everyone.
+---
+veneration
+- A feeling of profound respect or reverence
+---
+arid
+- 干旱的
