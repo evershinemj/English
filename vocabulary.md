@@ -440,3 +440,6 @@ rate
 - v. evaluate
   Of all the men in the survey, they rate themselves the least fun-loving and the most responsible...
   He is generally rated Italy's No. 3 industrialist...  
+---
+collectively
+---  
