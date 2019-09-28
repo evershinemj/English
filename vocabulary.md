@@ -466,3 +466,9 @@ homicide
 ---
 coercion
 - 胁迫
+---
+commiseration
+- sympathy, compassion
+---
+commiserate with
+- 同情
