@@ -460,3 +460,9 @@ momentary
 ---
 intellectual
 - 知识分子
+---
+homicide
+- The killing of one person by another, regardless of intention or legality.
+---
+coercion
+- 胁迫
