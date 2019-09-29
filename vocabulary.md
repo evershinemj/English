@@ -546,3 +546,6 @@ sentimental
 ---
 sentiment
 - 情绪
+---
+spooky
+- 阴森的
