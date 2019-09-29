@@ -506,3 +506,7 @@ urbane
 ---
 svelte
 - thin and attractive 苗条的  
+---
+pushback
+- (对变革、计划等的)推拒，抵制，拒绝
+  Any attempt to extend its iron grip to the Internet was met with regulatory pushback.
