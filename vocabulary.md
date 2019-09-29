@@ -510,3 +510,12 @@ svelte
 pushback
 - (对变革、计划等的)推拒，抵制，拒绝
   Any attempt to extend its iron grip to the Internet was met with regulatory pushback.
+---
+millennium
+- 一千年
+---
+millennial
+- A member of the generation born from the early 1980s to late 1990s 
+---
+millennial generation 
+- 千禧一代
