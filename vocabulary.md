@@ -564,4 +564,9 @@ fine
   That arrangement suits me fine 
   (BrE) An omelette will do me fine (= will be enough for me).
 ---
-doing fine  
+doing fine
+---
+penalty
+- 刑罚
+---
+death penalty  
