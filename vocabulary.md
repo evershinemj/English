@@ -556,3 +556,10 @@ crave for
 ---
 anguish
 - Agonizing physical or mental pain
+---
+fine
+- adv. in a way that is acceptable or good enough
+  Keep going like that─you're doing fine.
+  Things were going fine until you showed up.
+  That arrangement suits me fine 
+  (BrE) An omelette will do me fine (= will be enough for me).
