@@ -537,3 +537,6 @@ in jeopardy
 ---
 intriguing
 - arousing interest or curiosity 引人入胜的
+---
+shy away from
+- 回避
