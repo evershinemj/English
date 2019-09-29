@@ -519,3 +519,5 @@ millennial
 ---
 millennial generation 
 - 千禧一代
+---
+ethnic group
