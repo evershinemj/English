@@ -563,3 +563,5 @@ fine
   Things were going fine until you showed up.
   That arrangement suits me fine 
   (BrE) An omelette will do me fine (= will be enough for me).
+---
+doing fine  
