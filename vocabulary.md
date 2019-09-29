@@ -525,3 +525,15 @@ ethnic group
 poverty rate
 ---
 crime rate
+---
+predicament
+- 困境 
+  A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult.
+  The decision will leave her in a peculiar predicament.
+  It's really important that you understand the predicament you're in.
+---  
+in jeopardy
+- in danger
+---
+intriguing
+- arousing interest or curiosity 引人入胜的
