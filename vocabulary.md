@@ -569,4 +569,7 @@ doing fine
 penalty
 - 刑罚
 ---
-death penalty  
+death penalty
+---
+rating
+- 等级 A rating of something is a score or measurement of how good or popular it is.  
