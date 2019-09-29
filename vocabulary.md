@@ -553,3 +553,6 @@ spooky
 crave for
 - same as "crave"
   You may be craving for some fresh air. 
+---
+anguish
+- Agonizing physical or mental pain
