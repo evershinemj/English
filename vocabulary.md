@@ -573,3 +573,12 @@ death penalty
 ---
 rating
 - 等级 A rating of something is a score or measurement of how good or popular it is.  
+---
+make-believe
+- n. adj. 虚构（的）
+---
+pointless
+- 无意义的
+---
+sloppy
+---
