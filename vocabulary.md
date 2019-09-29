@@ -521,3 +521,7 @@ millennial generation
 - 千禧一代
 ---
 ethnic group
+---
+poverty rate
+---
+crime rate
