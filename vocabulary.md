@@ -482,3 +482,27 @@ economic boom
 baby boom
 ---
 by and large
+---
+aseptic
+- 无菌的
+---
+rubicund
+- 红润的 ruddy
+---
+sanguine
+- optimistic
+- ruddy
+---
+egregious
+- extremely bad, flagrant
+  the most egregious abuses of human rights
+---
+crying need
+- If you say that there is a crying need for something, you mean that there is a very great need    for it.
+  There is a crying need for more magistrates from the ethnic minority communities.  
+---
+urbane
+- 温文尔雅的
+---
+svelte
+- thin and attractive 苗条的  
