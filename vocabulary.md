@@ -540,3 +540,9 @@ intriguing
 ---
 shy away from
 - 回避
+---
+sentimental
+- 多愁善感的
+---
+sentiment
+- 情绪
