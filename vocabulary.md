@@ -617,3 +617,22 @@ cue
 ---
 crutch
 - 拐杖
+---
+fishy
+- 可疑的
+---
+fluffy
+- 松软的
+---
+quite a
+- Used to signify something very significant, exemplary, or impressive.
+  Thank you so much for having me over for dinner, this is quite a feast you've prepared!
+---
+take a chance
+- 冒险，碰运气
+---
+whiff
+- 一阵（气味）
+  He caught a whiff of her perfume.
+- sniff
+  a dog whiffing the air    
