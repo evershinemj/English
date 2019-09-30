@@ -596,3 +596,12 @@ megahit
 mega
 - adj. adv. super
   They're mega rich.
+---
+leniency
+- 仁慈
+---
+lenience
+- leniency
+---
+lenity
+- leniency  
