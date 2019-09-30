@@ -603,3 +603,9 @@ euphemism
 ---
 goofy
 - silly
+---
+cripple
+- 瘸子
+---
+crippled
+- 瘸的
