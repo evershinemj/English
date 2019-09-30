@@ -609,3 +609,11 @@ cripple
 ---
 crippled
 - 瘸的
+---
+hope for
+---
+cue
+- 暗示，提示
+---
+crutch
+- 拐杖
