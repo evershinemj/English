@@ -597,3 +597,9 @@ vilify
 ---
 rejuvenate
 - make young again
+---
+euphemism
+- 委婉语
+---
+goofy
+- silly
