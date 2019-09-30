@@ -586,3 +586,13 @@ epigram
 ---
 quip
 - 俏皮话
+---
+blockbuster
+- Something, such as a film or book, that sustains widespread popularity and achieves enormous sales.
+---
+megahit
+- blockbuster; A product or event, such as a movie or concert, that is exceedingly successful.
+---
+mega
+- adj. adv. super
+  They're mega rich.
