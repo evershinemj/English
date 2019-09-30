@@ -580,3 +580,9 @@ jerk
 ---
 line up
 - queue up
+---
+epigram
+- 隽语 a short poem or phrase that expresses an idea in a clever or amusing way
+---
+quip
+- 俏皮话
