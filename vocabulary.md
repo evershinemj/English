@@ -573,3 +573,10 @@ death penalty
 ---
 rating
 - 等级 A rating of something is a score or measurement of how good or popular it is.  
+---
+jerk
+- 急拉，猛推 To give a sudden quick thrust, push, pull, or twist to.
+- n. 混蛋，笨蛋 A foolish, rude, or contemptible person.
+---
+line up
+- queue up
