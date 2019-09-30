@@ -588,3 +588,12 @@ jerk
 ---
 line up
 - queue up
+---
+sanction
+- 批准
+---
+vilify
+- malign, slander
+---
+rejuvenate
+- make young again
