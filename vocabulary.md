@@ -635,4 +635,9 @@ whiff
 - 一阵（气味）
   He caught a whiff of her perfume.
 - sniff
-  a dog whiffing the air    
+  a dog whiffing the air
+---
+bend over
+---
+sum something up
+- to give a summary of something
