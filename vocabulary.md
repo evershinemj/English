@@ -806,3 +806,6 @@ disgruntled
 ---
 exceptionally
 - particularly
+---
+cramp
+- 抽筋
