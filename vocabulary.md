@@ -812,3 +812,8 @@ cramp
 ---
 Alzheimer's disease
 - 老年痴呆症
+---
+give someone credit
+- 称赞
+  We must give Samantha credit for getting the project finished on time.
+  You have to give John credit for the humility he shows regarding his financial success.
