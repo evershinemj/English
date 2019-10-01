@@ -781,3 +781,22 @@ diabetes
 ---
 asthma
 - 哮喘
+---
+jammed
+---
+cliche
+- 陈词滥调
+---
+stressed out
+- 心力交瘁的
+---
+chilly
+- 冷漠的
+---
+chill
+- chilly
+---
+chill out
+- relax
+  You know I just need to chill out. 
+  I go there about once a year to chill out for a month. 
