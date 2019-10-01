@@ -656,3 +656,13 @@ chances are (that)
 ---
 twat
 - 蠢材 (taboo, slang) an offensive word for an unpleasant or stupid person
+---
+doom
+- 厄运，劫数
+---
+doom's day
+- 末日
+---
+bureau
+- （美国政府部门）局，处，科
+  the Federal Bureau of Investigation
