@@ -832,3 +832,12 @@ coma
 ---
 hallucinate
 - 幻听，幻视      
+---
+stink
+- To emit a strong foul odor
+---
+stinking
+- smelly
+---
+stinky
+- stinking
