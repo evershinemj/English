@@ -646,3 +646,8 @@ squash
 - 压扁，压碎 crush
 - 果汁 Squash is a drink made from fruit juice, sugar, and water. Squash is sold in bottles in a     concentrated form to which you add water.
 - 瓜
+---
+wonder about
+---
+sewage
+- （下水道的）污水，污物
