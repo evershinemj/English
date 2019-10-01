@@ -704,3 +704,15 @@ raid
 preferably
 - 最好
   clean it well, preferably with warm water
+---
+filthy words
+---
+foul language
+---
+lewd
+- referring to sex in a rude and offensive way
+---
+vile
+- wicked
+---
+coarse language  
