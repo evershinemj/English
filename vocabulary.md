@@ -809,3 +809,6 @@ exceptionally
 ---
 cramp
 - 抽筋
+---
+Alzheimer's disease
+- 老年痴呆症
