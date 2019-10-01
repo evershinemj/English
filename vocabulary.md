@@ -747,3 +747,12 @@ sanitation
   The location is exceptionally poor, viewed from the sanitation point.
   Everybody should pay attention to sanitation and hygiene. 
   Many illnesses are the result of inadequate sanitation. 
+---
+lethal
+- deadly
+---
+flight attendant
+- 乘务员
+---
+prick
+- (vulgar slang) jerk, twat
