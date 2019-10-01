@@ -683,3 +683,10 @@ commitment
 - 承诺 A pledge or obligation, as to follow a certain course of action
 - 献身 The state of being emotionally or intellectually devoted, as to a belief, a course of action, or another person: 
   a profound commitment to the family.
+---
+lame
+- crippled
+---
+limp
+- v. 跛行 to walk lamely
+- n. 跛行  
