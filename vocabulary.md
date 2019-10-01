@@ -847,4 +847,7 @@ slip one's mind
    I meant to go to the grocery store on the way home, but it slipped my mind.
 ---
 period
-- 月经   
+- 月经
+---
+stand on line
+- same as 'stand in line'. Stand on line is a regionalism most common in the northeast part of the United States.
