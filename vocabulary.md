@@ -726,4 +726,12 @@ keep an eye on
 - 留意
   Keep an eye on that rascal. Don't let him run away. 
   Please keep an eye on the stove in case the milk boils. 
-  Will you please keep an eye on my luggage?  
+  Will you please keep an eye on my luggage?
+---
+baby boomer
+- (尤指第二次世界大战后) 生育高峰期出生的人
+---
+stunningly
+---    
+JFK
+- 肯尼迪 John Fitzgerald Kennedy
