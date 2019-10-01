@@ -772,3 +772,12 @@ psychotic
 ---
 colon
 - large intestine
+---
+polio
+- 小儿麻痹症
+---
+diabetes
+- 糖尿病
+---
+asthma
+- 哮喘
