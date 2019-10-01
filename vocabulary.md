@@ -689,4 +689,18 @@ lame
 ---
 limp
 - v. 跛行 to walk lamely
-- n. 跛行  
+- n. 跛行 
+---
+dumb
+- goofy
+  dumb decision; dumb idea
+---
+armed
+- 携带武器的，持枪的 Someone who is armed is carrying a weapon, usually a gun.
+---
+raid
+- 突袭 A surprise attack by a small armed force.
+---
+preferably
+- 最好
+  clean it well, preferably with warm water
