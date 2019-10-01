@@ -851,3 +851,6 @@ period
 ---
 stand on line
 - same as 'stand in line'. Stand on line is a regionalism most common in the northeast part of the United States.
+---
+twit
+- jerk, fool
