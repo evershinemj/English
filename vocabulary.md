@@ -666,3 +666,15 @@ doom's day
 bureau
 - （美国政府部门）局，处，科
   the Federal Bureau of Investigation
+---
+confute
+- 驳斥
+---
+relapse
+- To return to a former state.
+---
+immoderate
+- 无节制的 Exceeding normal or appropriate bounds
+---
+intrepid
+- 无畏的 trepid: timid  
