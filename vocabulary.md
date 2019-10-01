@@ -800,3 +800,9 @@ chill out
 - relax
   You know I just need to chill out. 
   I go there about once a year to chill out for a month. 
+---
+disgruntled
+- 不满的  
+---
+exceptionally
+- particularly
