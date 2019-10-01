@@ -651,3 +651,8 @@ wonder about
 ---
 sewage
 - （下水道的）污水，污物
+---
+chances are (that)
+---
+twat
+- 蠢材 (taboo, slang) an offensive word for an unpleasant or stupid person
