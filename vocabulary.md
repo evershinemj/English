@@ -817,3 +817,18 @@ give someone credit
 - 称赞
   We must give Samantha credit for getting the project finished on time.
   You have to give John credit for the humility he shows regarding his financial success.
+---
+fuss
+- 大惊小怪
+  I don't know why everybody makes such a fuss about a few mosquitoes
+  I don't know what all the fuss is about 
+- 忙乱
+  Simon was hungry, but felt it would be indelicate to make too much fuss about it. 
+---
+make a fuss
+---
+coma
+- 昏迷
+---
+hallucinate
+- 幻听，幻视      
