@@ -769,3 +769,6 @@ psychosis
 psychotic
 - 精神病的
 - 精神病人
+---
+colon
+- large intestine
