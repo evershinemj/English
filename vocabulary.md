@@ -841,3 +841,7 @@ stinking
 ---
 stinky
 - stinking
+---
+slip one's mind
+- to be forgotten
+   I meant to go to the grocery store on the way home, but it slipped my mind.
