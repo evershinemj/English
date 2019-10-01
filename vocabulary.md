@@ -735,3 +735,15 @@ stunningly
 ---    
 JFK
 - 肯尼迪 John Fitzgerald Kennedy
+---
+pun
+- 双关语
+---
+hygiene
+- 卫生
+---
+sanitation
+- Sanitation is the process of keeping places clean and healthy, especially by providing a sewage   system and a clean water supply. 公共卫生，卫生设备 hygiene
+  The location is exceptionally poor, viewed from the sanitation point.
+  Everybody should pay attention to sanitation and hygiene. 
+  Many illnesses are the result of inadequate sanitation. 
