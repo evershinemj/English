@@ -756,3 +756,16 @@ flight attendant
 ---
 prick
 - (vulgar slang) jerk, twat
+---
+psychopath
+- A person who engages in psychopathic behavior or is affected by antisocial personality disorder.
+---
+psychopathic
+- 精神变态的 engaging in amoral or antisocial acts without feeling remorse. 
+---
+psychosis
+- 精神病
+---
+psychotic
+- 精神病的
+- 精神病人
