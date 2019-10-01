@@ -716,3 +716,14 @@ vile
 - wicked
 ---
 coarse language  
+---
+think something over
+- 仔细考虑 
+  She said she needs time to think it over.
+  Think over the matter and then make a decision. 
+---
+keep an eye on
+- 留意
+  Keep an eye on that rascal. Don't let him run away. 
+  Please keep an eye on the stove in case the milk boils. 
+  Will you please keep an eye on my luggage?  
