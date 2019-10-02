@@ -858,3 +858,20 @@ twit
 pristine
 - 纯朴的 Remaining in a pure state, without human alteration
 - 一尘不染的 Remaining free from dirt or decay; clean: pristine mountain snow.
+---
+otiose
+- 无用的
+---
+half-baked
+- not well planned or considered 考虑不周的
+  a half-baked idea
+  This is another half-baked scheme that isn't going to work.
+---
+paunchy
+- Having a large belly.
+---
+abdomen
+- 腹部
+---
+abdominous
+- paunchy  
