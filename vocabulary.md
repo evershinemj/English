@@ -854,3 +854,7 @@ stand on line
 ---
 twit
 - jerk, fool
+---
+pristine
+- 纯朴的 Remaining in a pure state, without human alteration
+- 一尘不染的 Remaining free from dirt or decay; clean: pristine mountain snow.
