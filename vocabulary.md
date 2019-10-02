@@ -875,3 +875,13 @@ abdomen
 ---
 abdominous
 - paunchy  
+---
+flippant
+- 轻浮的
+---
+noxious
+- 有毒的，有害的
+---
+innocuous
+- 无恶意的
+- 无害的
