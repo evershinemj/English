@@ -918,3 +918,11 @@ curt
 embark
 - To go aboard a vessel or aircraft, as at the start of a journey.
 - To set out on a venture; commence: embark on a world tour.
+---
+conservative
+---
+embryo
+- 胚胎（受孕8周前）
+---
+fetus
+- 胎儿（受孕8周后）
