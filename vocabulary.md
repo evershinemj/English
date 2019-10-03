@@ -914,3 +914,7 @@ terse
 curt
 - Rudely brief or abrupt, as in speech or manner
 - Terse or condensed: a curt text message.  
+---
+embark
+- To go aboard a vessel or aircraft, as at the start of a journey.
+- To set out on a venture; commence: embark on a world tour.
