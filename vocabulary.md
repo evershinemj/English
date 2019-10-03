@@ -885,3 +885,9 @@ noxious
 innocuous
 - 无恶意的
 - 无害的
+---
+downturn
+- 衰退
+---
+downswing
+- downturn
