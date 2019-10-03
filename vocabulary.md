@@ -946,4 +946,9 @@ ordeal
 - 煎熬
   Seated beside him, I bore the ordeal for two hours.
   I just don't know why I have to undergo this ordeal. 
-  Throughout her dreadful ordeal, she behaved with great dignity.   
+  Throughout her dreadful ordeal, she behaved with great dignity. 
+---
+street crime
+---
+war-like
+- 好战的    
