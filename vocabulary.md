@@ -941,3 +941,9 @@ yuppie(yuppy)
 - (often disapproving) 雅皮士 a young professional person who lives in a city 
   and earns a lot of money that they spend on expensive and fashionable things
   词源: Formed from the first letters of the words ‘young urban professional’.
+---
+ordeal
+- 煎熬
+  Seated beside him, I bore the ordeal for two hours.
+  I just don't know why I have to undergo this ordeal. 
+  Throughout her dreadful ordeal, she behaved with great dignity.   
