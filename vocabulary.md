@@ -905,4 +905,12 @@ earthling
 ---
 tellurian
 - earthly
-- earthling  
+- earthling
+---
+terse
+- neatly brief and concise
+- curt; abrupt
+---
+curt
+- Rudely brief or abrupt, as in speech or manner
+- Terse or condensed: a curt text message.  
