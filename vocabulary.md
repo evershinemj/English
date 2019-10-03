@@ -891,3 +891,18 @@ downturn
 ---
 downswing
 - downturn
+---
+slyboots
+- a sly person
+---
+keepsake
+- souvenir
+  Please have this ring for a keepsake. 
+  My friend gave me his picture as a keepsake before going away. 
+---
+earthling
+- 地球人
+---
+tellurian
+- earthly
+- earthling  
