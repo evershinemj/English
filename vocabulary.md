@@ -926,3 +926,18 @@ embryo
 ---
 fetus
 - 胎儿（受孕8周后）
+---
+in favor of
+---
+self-esteem
+---
+profession
+- 行业，职业
+---
+professional
+- n. A person following a profession, especially a learned profession.
+---
+yuppie(yuppy)
+- (often disapproving) 雅皮士 a young professional person who lives in a city 
+  and earns a lot of money that they spend on expensive and fashionable things
+  词源: Formed from the first letters of the words ‘young urban professional’.
