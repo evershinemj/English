@@ -1009,3 +1009,10 @@ disclaim responsibility for something
 ---
 deluxe
 - 豪华的  
+---
+municipal
+- connected with or belonging to a town, city or district that has its own local government
+---
+civic
+- of or pertaining to a city; municipal. 
+- of or pertaining to citizenship; civil. 
