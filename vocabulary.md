@@ -1006,3 +1006,6 @@ disclaim knowledge of something
 disclaim responsibility for something
 - deny
   The rebels disclaimed all responsibility for the explosion.
+---
+deluxe
+- 豪华的  
