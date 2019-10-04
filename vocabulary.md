@@ -998,3 +998,11 @@ wane
 wax and wane
 - 起起伏伏
   If you ask any married person, he or she will tell you that marriages wax and wane.
+---
+disclaim knowledge of something
+- deny
+  She disclaimed any knowledge of her husband's whereabouts.
+---
+disclaim responsibility for something
+- deny
+  The rebels disclaimed all responsibility for the explosion.
