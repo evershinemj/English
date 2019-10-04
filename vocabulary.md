@@ -1023,3 +1023,13 @@ midget
 seat cushion
 ---
 at the turn of the century
+---
+boil down to
+- 归结为
+  What they want boils down to just one thing. It is land.
+  Most of the crimes may boil down to a question of money.
+  I think, learning English can boil down to three simple ingredients: persistence, proper ways and good teachers. 
+---
+attribute sth to sth
+- 把...归因于...
+  She attributes her success to hard work and a little luck.  
