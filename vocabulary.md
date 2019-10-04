@@ -977,3 +977,11 @@ street crime
 ---
 war-like
 - 好战的    
+---
+seemly
+- 得体的 Seemly behaviour or dress is appropriate in the particular circumstances.
+---
+seemly behavior
+---
+comely
+- A comely woman is attractive.
