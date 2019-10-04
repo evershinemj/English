@@ -985,3 +985,16 @@ seemly behavior
 ---
 comely
 - A comely woman is attractive.
+---
+wax
+- To increase gradually in size, number, strength, or intensity:
+  "His love affair with Mrs. Bernstein waxed and waned and waxed again" (C. Hugh Holman).
+- To show a progressively larger illuminated area, as the moon does in passing from new to full.
+---
+wane
+- To decrease gradually in size, number, strength, or intensity: Interest in the subject waned.
+- To show a progressively smaller illuminated area, as the moon does in passing from full to new.  
+---
+wax and wane
+- 起起伏伏
+  If you ask any married person, he or she will tell you that marriages wax and wane.
