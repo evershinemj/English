@@ -574,6 +574,14 @@ death penalty
 rating
 - 等级 A rating of something is a score or measurement of how good or popular it is.  
 ---
+make-believe
+- n. adj. 虚构（的）
+---
+pointless
+- 无意义的
+---
+sloppy
+---
 jerk
 - 急拉，猛推 To give a sudden quick thrust, push, pull, or twist to.
 - n. 混蛋，笨蛋 A foolish, rude, or contemptible person.
@@ -605,3 +613,367 @@ lenience
 ---
 lenity
 - leniency  
+---
+sanction
+- 批准
+---
+vilify
+- malign, slander
+---
+rejuvenate
+- make young again
+---
+euphemism
+- 委婉语
+---
+goofy
+- silly
+---
+cripple
+- 瘸子
+---
+crippled
+- 瘸的
+---
+hope for
+---
+cue
+- 暗示，提示
+---
+crutch
+- 拐杖
+---
+fishy
+- 可疑的
+---
+fluffy
+- 松软的
+---
+quite a
+- Used to signify something very significant, exemplary, or impressive.
+  Thank you so much for having me over for dinner, this is quite a feast you've prepared!
+---
+take a chance
+- 冒险，碰运气
+---
+whiff
+- 一阵（气味）
+  He caught a whiff of her perfume.
+- sniff
+  a dog whiffing the air
+---
+bend over
+---
+sum something up
+- to give a summary of something
+---
+squash
+- 压扁，压碎 crush
+- 果汁 Squash is a drink made from fruit juice, sugar, and water. Squash is sold in bottles in a     concentrated form to which you add water.
+- 瓜
+---
+wonder about
+---
+sewage
+- （下水道的）污水，污物
+---
+chances are (that)
+---
+twat
+- 蠢材 (taboo, slang) an offensive word for an unpleasant or stupid person
+---
+doom
+- 厄运，劫数
+---
+doom's day
+- 末日
+---
+bureau
+- （美国政府部门）局，处，科
+  the Federal Bureau of Investigation
+---
+confute
+- 驳斥
+---
+relapse
+- To return to a former state.
+---
+immoderate
+- 无节制的 Exceeding normal or appropriate bounds
+---
+intrepid
+- 无畏的 trepid: timid  
+---
+commitment
+- 承诺 A pledge or obligation, as to follow a certain course of action
+- 献身 The state of being emotionally or intellectually devoted, as to a belief, a course of action, or another person: 
+  a profound commitment to the family.
+---
+lame
+- crippled
+---
+limp
+- v. 跛行 to walk lamely
+- n. 跛行 
+---
+dumb
+- goofy
+  dumb decision; dumb idea
+---
+armed
+- 携带武器的，持枪的 Someone who is armed is carrying a weapon, usually a gun.
+---
+raid
+- 突袭 A surprise attack by a small armed force.
+---
+preferably
+- 最好
+  clean it well, preferably with warm water
+---
+filthy words
+---
+foul language
+---
+lewd
+- referring to sex in a rude and offensive way
+---
+vile
+- wicked
+---
+coarse language  
+---
+think something over
+- 仔细考虑 
+  She said she needs time to think it over.
+  Think over the matter and then make a decision. 
+---
+keep an eye on
+- 留意
+  Keep an eye on that rascal. Don't let him run away. 
+  Please keep an eye on the stove in case the milk boils. 
+  Will you please keep an eye on my luggage?
+---
+baby boomer
+- (尤指第二次世界大战后) 生育高峰期出生的人
+---
+stunningly
+---    
+JFK
+- 肯尼迪 John Fitzgerald Kennedy
+---
+pun
+- 双关语
+---
+hygiene
+- 卫生
+---
+sanitation
+- Sanitation is the process of keeping places clean and healthy, especially by providing a sewage   system and a clean water supply. 公共卫生，卫生设备 hygiene
+  The location is exceptionally poor, viewed from the sanitation point.
+  Everybody should pay attention to sanitation and hygiene. 
+  Many illnesses are the result of inadequate sanitation. 
+---
+lethal
+- deadly
+---
+flight attendant
+- 乘务员
+---
+prick
+- (vulgar slang) jerk, twat
+---
+psychopath
+- A person who engages in psychopathic behavior or is affected by antisocial personality disorder.
+---
+psychopathic
+- 精神变态的 engaging in amoral or antisocial acts without feeling remorse. 
+---
+psychosis
+- 精神病
+---
+psychotic
+- 精神病的
+- 精神病人
+---
+colon
+- large intestine
+---
+polio
+- 小儿麻痹症
+---
+diabetes
+- 糖尿病
+---
+asthma
+- 哮喘
+---
+jammed
+---
+cliche
+- 陈词滥调
+---
+stressed out
+- 心力交瘁的
+---
+chilly
+- 冷漠的
+---
+chill
+- chilly
+---
+chill out
+- relax
+  You know I just need to chill out. 
+  I go there about once a year to chill out for a month. 
+---
+disgruntled
+- 不满的  
+---
+exceptionally
+- particularly
+---
+cramp
+- 抽筋
+---
+Alzheimer's disease
+- 老年痴呆症
+---
+give someone credit
+- 称赞
+  We must give Samantha credit for getting the project finished on time.
+  You have to give John credit for the humility he shows regarding his financial success.
+---
+fuss
+- 大惊小怪
+  I don't know why everybody makes such a fuss about a few mosquitoes
+  I don't know what all the fuss is about 
+- 忙乱
+  Simon was hungry, but felt it would be indelicate to make too much fuss about it. 
+---
+make a fuss
+---
+coma
+- 昏迷
+---
+hallucinate
+- 幻听，幻视      
+---
+stink
+- To emit a strong foul odor
+---
+stinking
+- smelly
+---
+stinky
+- stinking
+---
+slip one's mind
+- to be forgotten
+   I meant to go to the grocery store on the way home, but it slipped my mind.
+---
+period
+- 月经
+---
+stand on line
+- same as 'stand in line'. Stand on line is a regionalism most common in the northeast part of the United States.
+---
+twit
+- jerk, fool
+---
+pristine
+- 纯朴的 Remaining in a pure state, without human alteration
+- 一尘不染的 Remaining free from dirt or decay; clean: pristine mountain snow.
+---
+otiose
+- 无用的
+---
+half-baked
+- not well planned or considered 考虑不周的
+  a half-baked idea
+  This is another half-baked scheme that isn't going to work.
+---
+paunchy
+- Having a large belly.
+---
+abdomen
+- 腹部
+---
+abdominous
+- paunchy  
+---
+flippant
+- 轻浮的
+---
+noxious
+- 有毒的，有害的
+---
+innocuous
+- 无恶意的
+- 无害的
+---
+downturn
+- 衰退
+---
+downswing
+- downturn
+---
+slyboots
+- a sly person
+---
+keepsake
+- souvenir
+  Please have this ring for a keepsake. 
+  My friend gave me his picture as a keepsake before going away. 
+---
+earthling
+- 地球人
+---
+tellurian
+- earthly
+- earthling
+---
+terse
+- neatly brief and concise
+- curt; abrupt
+---
+curt
+- Rudely brief or abrupt, as in speech or manner
+- Terse or condensed: a curt text message.  
+---
+embark
+- To go aboard a vessel or aircraft, as at the start of a journey.
+- To set out on a venture; commence: embark on a world tour.
+---
+conservative
+---
+embryo
+- 胚胎（受孕8周前）
+---
+fetus
+- 胎儿（受孕8周后）
+---
+in favor of
+---
+self-esteem
+---
+profession
+- 行业，职业
+---
+professional
+- n. A person following a profession, especially a learned profession.
+---
+yuppie(yuppy)
+- (often disapproving) 雅皮士 a young professional person who lives in a city 
+  and earns a lot of money that they spend on expensive and fashionable things
+  词源: Formed from the first letters of the words ‘young urban professional’.
+---
+ordeal
+- 煎熬
+  Seated beside him, I bore the ordeal for two hours.
+  I just don't know why I have to undergo this ordeal. 
+  Throughout her dreadful ordeal, she behaved with great dignity. 
+---
+street crime
+---
+war-like
+- 好战的    
