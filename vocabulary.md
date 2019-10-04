@@ -1016,3 +1016,6 @@ municipal
 civic
 - of or pertaining to a city; municipal. 
 - of or pertaining to citizenship; civil. 
+---
+midget
+- dwarf
