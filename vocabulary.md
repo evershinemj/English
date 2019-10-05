@@ -1032,4 +1032,7 @@ boil down to
 ---
 attribute sth to sth
 - 把...归因于...
-  She attributes her success to hard work and a little luck.  
+  She attributes her success to hard work and a little luck.
+---
+self-important
+- 自负的    
