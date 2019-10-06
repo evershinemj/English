@@ -1050,3 +1050,19 @@ sip at
 take a sip of
 - sip
   She took a sip of water to moisten her dry throat. 
+---
+cool off
+- （使）变凉，（使）凉快下来
+  Maybe he's trying to cool off out there in the rain...
+  She made a fanning motion, pretending to cool herself off 
+  Let it cool off before you eat it. 
+---
+straighten
+- If you straighten something, you make it tidy or put it in its proper position.
+  She sipped her coffee and straightened a picture on the wall.
+---
+straighten out
+- To resolve (a confusion or conflict).
+- 整顿 To make less confused or troubled
+  He would make an appointment with him to straighten out a couple of things...
+  You should straighten out your confused thinking.     
