@@ -1089,4 +1089,30 @@ glitter
 - (of a hard, wet, or polished surface) to reflect light in bright flashe
 ---
 glisten
-- (of sth wet) to shine  
+- (of sth wet) to shine
+---
+bluff
+- 吓唬人
+  The letter was a bluff 
+---
+entrance exam
+---    
+miss out on sth
+- 错过
+  We're missing out on a tremendous opportunity.
+---
+miss out sth
+- 遗漏 leave out
+  There should be an apostrophe here, and look, you've missed out the word 'men' altogether!
+  What about Sally? You've missed her out.
+---
+waffle
+- 犹豫不决 hesitate, waver
+  If someone waffles on an issue or question, they cannot decide what to do or what their 
+  opinion is about it.    
+  He's waffled on abortion and gay rights...
+---
+fritter away
+- 挥霍
+  The firm soon started frittering away the cash it was generating.  
+  I seem to fritter my time away at coffee mornings.
