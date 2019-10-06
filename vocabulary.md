@@ -1080,3 +1080,13 @@ scrub at
 scrub off  
 - If you scrub dirt or stains off something, you remove them by rubbing hard.
   I started to scrub off the dirt...
+---
+glister
+- 闪耀 an archaic word for glitter 
+  to shine brightly with little flashes of light, like a diamond  
+---
+glitter
+- (of a hard, wet, or polished surface) to reflect light in bright flashe
+---
+glisten
+- (of sth wet) to shine  
