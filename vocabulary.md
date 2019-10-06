@@ -1216,3 +1216,16 @@ drudge
 ---
 navvy
 - drudge. A navvy is a person who is employed to do hard physical work, for example building roads or canals.  
+---
+banal
+- 索然无味的 Drearily commonplace and often predictable
+---
+dreary
+- dull
+---
+table d'hote
+- 套餐的
+---
+a la carte
+- 按菜单点菜
+  The restaurant offers both table d'hôte and à la carte
