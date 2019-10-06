@@ -1116,3 +1116,21 @@ fritter away
 - 挥霍
   The firm soon started frittering away the cash it was generating.  
   I seem to fritter my time away at coffee mornings.
+---
+fool away
+- fritter away
+  Don't fool away your time in public houses.  
+  When I was young I used to fool away the summer holidays.
+---
+rankle
+- To cause persistent irritation or resentment
+  The injustice rankled her
+---
+grate
+- To irritate or annoy persistently
+---
+objurgate
+- To scold or rebuke sharply
+---
+excoriate
+- To censure strongly; denounce
