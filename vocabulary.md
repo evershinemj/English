@@ -1065,4 +1065,18 @@ straighten out
 - To resolve (a confusion or conflict).
 - 整顿 To make less confused or troubled
   He would make an appointment with him to straighten out a couple of things...
-  You should straighten out your confused thinking.     
+  You should straighten out your confused thinking.    
+---
+scrub
+- 擦洗 to clean sth by rubbing it hard, perhaps with a brush and usually with soap and water   
+  I found him in the kitchen, scrubbing the floor.
+  Scrub the vegetables clean. 
+  The walls needed a good scrub.
+---
+scrub at
+- same as 'scrub'
+  The woman scrubbed at her face with a tissue.
+---
+scrub off  
+- If you scrub dirt or stains off something, you remove them by rubbing hard.
+  I started to scrub off the dirt...
