@@ -1035,4 +1035,18 @@ attribute sth to sth
   She attributes her success to hard work and a little luck.
 ---
 self-important
-- 自负的    
+- 自负的
+---
+sip
+- 小口喝，抿
+  Jessica sipped her drink thoughtfully...
+  I tried to sip the tea but it was scalding.
+  He slowly sipped his wine.
+---
+sip at
+- same as 'sip'
+  She sat there, sipping at her tea.
+---
+take a sip of
+- sip
+  She took a sip of water to moisten her dry throat. 
