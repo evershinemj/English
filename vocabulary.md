@@ -1184,3 +1184,8 @@ snap your fingers
 ---
 a snap decision
 - 仓促的决定
+---
+tribulation
+- 苦难 You can refer to the suffering or difficulty that you experience in a particular situation as tribulations 
+  the trials and tribulations of everyday life
+  
