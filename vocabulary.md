@@ -1169,3 +1169,18 @@ cortex
 ---
 medulla
 - 髓质 the inner part of an organ or structure in plant or animal
+---
+snap
+- 折断 If something snaps or if you snap it, it breaks suddenly, usually with a sharp cracking noise.
+  He shifted his weight and a twig snapped.
+  Every minute or so I could hear a snap, a crack and a crash as another tree went down.
+- If you snap something into a particular position, or if it snaps into that position,
+  it moves quickly into that position, with a sharp sound.  
+  He snapped the notebook shut.
+  He shut the book with a snap and stood up.
+---
+snap your fingers
+- 打响指
+---
+a snap decision
+- 仓促的决定
