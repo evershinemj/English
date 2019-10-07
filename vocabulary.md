@@ -1134,3 +1134,13 @@ objurgate
 ---
 excoriate
 - To censure strongly; denounce
+---
+emblem
+- 徽章
+  national emblem
+---
+roughly
+- approximately
+---
+diarrhea
+- 腹泻
