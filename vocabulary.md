@@ -1163,3 +1163,9 @@ groggy
 logy
 - 迟缓的 stunned or confused and slow to react (as from blows or drunkenness or exhaustion)
   Everyone in the office seems a bit logy this afternoon.   
+---
+cortex
+- 皮层，大脑皮层
+---
+medulla
+- 髓质 the inner part of an organ or structure in plant or animal
