@@ -1144,3 +1144,22 @@ roughly
 ---
 diarrhea
 - 腹泻
+---
+overblown
+- 夸大的
+  Warnings of disaster may be overblown...
+---
+portent
+- 预兆
+---
+portentous
+- 装腔作势的
+---
+groggy
+- 昏昏沉沉 weak and unable to think or move well because you are ill/sick or very tired  
+  She was feeling a bit groggy when I saw her.
+  Oftentimes, you're feeling groggy in the mornings because you're not getting good-quality sleep. 
+---
+logy
+- 迟缓的 stunned or confused and slow to react (as from blows or drunkenness or exhaustion)
+  Everyone in the office seems a bit logy this afternoon.   
