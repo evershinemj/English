@@ -1188,4 +1188,9 @@ a snap decision
 tribulation
 - 苦难 You can refer to the suffering or difficulty that you experience in a particular situation as tribulations 
   the trials and tribulations of everyday life
-  
+---
+grumpy
+- bad-tempered
+  When I'm tired, I get grumpy.   
+  I don't know what was eating him all day, but he was very grumpy. 
+  I'm sorry I was grumpy yesterday; I was feeling down for some reason.
