@@ -1194,3 +1194,25 @@ grumpy
   When I'm tired, I get grumpy.   
   I don't know what was eating him all day, but he was very grumpy. 
   I'm sorry I was grumpy yesterday; I was feeling down for some reason.
+---
+glasshouse
+- 温室
+---
+greenhouse
+- glasshouse
+---
+repast
+- meal  
+---
+diadem
+- crown
+---
+drudge
+- 苦工 A laborer who is obliged to do menial work. 
+  I once thought that I would like to be a scholar, but instead I have become an office drudge. 
+- v. work hard
+  I don't want to drudge daily with no hope.
+  Mary had to drudge all day for poor wages.
+---
+navvy
+- drudge. A navvy is a person who is employed to do hard physical work, for example building roads or canals.  
