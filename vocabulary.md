@@ -1251,3 +1251,16 @@ snub
 - v.n. 冷落，怠慢
   He snubbed her in public and made her feel an idiot     
   Ryan took it as a snub 
+---
+deadening
+- 令人麻木的 A deadening situation destroys people's enthusiasm and imagination.
+  She was bored with the deadening routine of her life.
+  Alcohol can have a dangerously deadening effect on the senses. 
+  Conformity almost always leads to a deadening of individual creativity and energy. 
+---
+corpulent
+- 发福的 euphemism of fat. corp 身体 + ulent 多…的，富有…的
+   People say corpulent to avoid saying fat.    
+---
+rotund
+- round and fat, corpulent   
