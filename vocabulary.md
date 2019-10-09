@@ -1229,3 +1229,25 @@ table d'hote
 a la carte
 - 按菜单点菜
   The restaurant offers both table d'hôte and à la carte
+---
+unavailing
+- futile
+  Efforts to reach the people named in the report proved unavailing.
+  He died after a brave but unavailing fight against a terminal illness. 
+---
+snob
+- 势利小人 If you call someone a snob, you disapprove of them because they admire upper-class people and have a low opinion of lower-class people.  
+  That Rous was a snob and a social climber could scarcely be denied.
+  He is a snob who always slanders others in front of the emperor. 
+---
+snobbish
+- 势利的
+  They had a snobbish dislike for their intellectual and social inferiors
+---
+snobby
+- snobbish
+---
+snub
+- v.n. 冷落，怠慢
+  He snubbed her in public and made her feel an idiot     
+  Ryan took it as a snub 
