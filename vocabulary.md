@@ -1271,4 +1271,7 @@ tuneful
 ---
 melodious
 - tuneful
-  
+---
+sparingly
+- 节省地 to a meager degree or in a meager manner  
+  Use the milk sparingly, there's not much left. 
