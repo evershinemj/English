@@ -1264,3 +1264,11 @@ corpulent
 ---
 rotund
 - round and fat, corpulent   
+---
+tuneful
+- 悦耳的
+  The first tack on their album is surprisingly tuneful.
+---
+melodious
+- tuneful
+  
