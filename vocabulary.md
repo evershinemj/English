@@ -1275,3 +1275,32 @@ melodious
 sparingly
 - 节省地 to a meager degree or in a meager manner  
   Use the milk sparingly, there's not much left. 
+---
+muss
+- 弄乱 To muss something, especially someone's hair, or to muss it up, means to make it untidy.  
+  Hey, don't muss up my hair!
+---
+sward
+- 草地，草皮
+---
+greensward
+- sward
+---
+sod
+- sward
+- (BrE, taboo, slang) （指讨厌的人，尤指男人）讨厌鬼   
+  You stupid sod!
+- (BrE, taboo, slang) （与形容词连用，指人，尤指男人）家伙 
+  The poor old sod got the sack yesterday.
+  You lucky sod!
+---
+sack
+- to dismiss sb from a job; fire
+  She was sacked for refusing to work on Sundays.
+---
+the sack
+- [sing.] (BrE, informal) 开除；解雇；炒鱿鱼 
+  He got the sack for swearing.
+  Her work was so poor that she was given the sack.
+  Four hundred workers face the sack.
+      
