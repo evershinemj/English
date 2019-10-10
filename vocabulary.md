@@ -1352,3 +1352,9 @@ vexatious
 ---
 heterologous
 - not corresponding in structure or evolutionary origin 
+---
+sue
+- 起诉，控告
+  If you don't pay me the money, I'll sue you. 
+  This is pure slander and I'll sue him for defamation if he doesn't apologize.
+  They threatened to sue if the work was not completed.
