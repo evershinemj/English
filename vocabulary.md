@@ -1337,3 +1337,18 @@ ballyhoo
 attend
 - [VN] (formal) 伴随发生 to happen at the same time as sth     
   She dislikes the loss of privacy that attends TV celebrity.
+---
+lackadaisical
+- 无精打采的
+  That's because disgruntled employees are lackadaisical at best. 
+  The food was nice enough but the service was rather lackadaisical.  
+---
+delirious
+- in an excited state and not able to think or speak clearly, usually because of fever 
+- Marked by uncontrolled excitement or emotion; ecstatic
+---
+vexatious
+- Causing or creating vexation; annoying
+---
+heterologous
+- not corresponding in structure or evolutionary origin 
