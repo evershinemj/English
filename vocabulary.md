@@ -1318,3 +1318,15 @@ millinery
 ---
 modiste
 - One that produces, designs, or deals in dressmaking or millinery. (French, from mode）      
+---
+stopgap
+- 权宜之计 An improvised substitute for something lacking; a temporary expedient.
+  The arrangement was only intended as a stopgap.  
+  a stopgap measure
+---
+makeshift
+- stopgap
+---
+make-do
+- stopgap, makeshift
+  
