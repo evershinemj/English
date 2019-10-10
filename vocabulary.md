@@ -1329,4 +1329,11 @@ makeshift
 ---
 make-do
 - stopgap, makeshift
-  
+---
+ballyhoo
+- 喧嚣 unnecessary noise and excitement 
+  The candidate's campaign was attended with too much ballyhoo. 
+---
+attend
+- [VN] (formal) 伴随发生 to happen at the same time as sth     
+  She dislikes the loss of privacy that attends TV celebrity.
