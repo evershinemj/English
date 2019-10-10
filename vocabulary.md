@@ -1303,4 +1303,18 @@ the sack
   He got the sack for swearing.
   Her work was so poor that she was given the sack.
   Four hundred workers face the sack.
-      
+---
+turf
+- 草皮 sod, greensward
+---
+catnap
+- snooze
+---
+milliner
+- a person whose job is making and/or selling women's hats
+---
+millinery
+- 女帽
+---
+modiste
+- One that produces, designs, or deals in dressmaking or millinery. (French, from mode）      
