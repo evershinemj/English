@@ -1418,3 +1418,9 @@ acute hearing
 acute sense of smell
 ---
 acute mind
+---
+acuteness
+- 敏锐
+---
+obtuseness
+- 迟钝
