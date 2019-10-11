@@ -1392,3 +1392,29 @@ admonish
   hey admonished me for taking risks with my health 
 - to strongly advise sb to do sth
   [VN to inf] A warning voice admonished him not to let this happen.
+---
+demise
+- death
+---
+acute
+- You can use acute to indicate that an undesirable situation or feeling is very severe or       
+  intense.  
+  The war has aggravated an acute economic crisis...
+  Competition for jobs is acute.
+- （感官）灵敏的   
+  If a person's or animal's sight, hearing, or sense of smell is acute, it is sensitive and powerful.
+  In the dark my sense of hearing becomes so acute.
+- 敏锐的 keen
+  If you say that someone is acute or has an acute mind, you mean that they are quick to notice things and are able to understand them clearly.
+  Into her nineties, her thinking remained acute and her character forceful...
+  Dogs have an acute sense of smell.
+---
+acute pain
+---
+acute sight
+---
+acute hearing
+---
+acute sense of smell
+---
+acute mind
