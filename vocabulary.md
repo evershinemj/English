@@ -1363,3 +1363,32 @@ delimit
 - 界定，划定，限定 set, mark, or draw the boundaries of something
   This is not meant to delimit what approaches social researchers can adopt. 
   We need to delimit the scope of our discussion.  
+---
+demarcate
+- 给…划界 de 加强 + marc〔= mark〕记号 + ate 表动词 → 加强标志 → 划分界线
+  Plots of land have been demarcated by barbed wire.
+  A special UN commission was formed to demarcate the border.
+---
+deprecate
+- 强烈反对 criticize
+  a deprecating comment    
+  He deprecated the low quality of entrants to the profession 
+---
+hold
+- 怀有，持有 to have a belief or an opinion about sb/sth  
+  He holds strange views on education.
+  firmly-held beliefs
+- 认为；相信
+  [V that] I still hold that the government's economic policies are mistaken.
+  [VN-ADJ] Parents will be held responsible for their children's behaviour.
+  [VN to inf] (usu passive) These vases are held to be the finest examples of Greek art.  
+---
+reprove
+- 责备
+---
+admonish
+- reprove
+  She was admonished for chewing gum in class.
+  hey admonished me for taking risks with my health 
+- to strongly advise sb to do sth
+  [VN to inf] A warning voice admonished him not to let this happen.
