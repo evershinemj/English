@@ -1358,3 +1358,8 @@ sue
   If you don't pay me the money, I'll sue you. 
   This is pure slander and I'll sue him for defamation if he doesn't apologize.
   They threatened to sue if the work was not completed.
+---
+delimit
+- 界定，划定，限定 set, mark, or draw the boundaries of something
+  This is not meant to delimit what approaches social researchers can adopt. 
+  We need to delimit the scope of our discussion.  
