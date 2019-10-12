@@ -1466,3 +1466,12 @@ comport
 - To agree, correspond, or harmonize: 
   a foreign policy that comports with the principles of democracy.
   Such actions do not comport with your high status. 
+---
+kick off
+- If an event, game, series, or discussion kicks off, or is kicked off, it begins.
+  The shows kick off on October 24th...
+---
+honk
+- if a car horn honks or you honk or honk the horn , the horn makes a loud noise
+  Why did he honk at me?
+  People honked their horns as they drove past.  
