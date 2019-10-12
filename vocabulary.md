@@ -1444,3 +1444,25 @@ prefatory
 ---
 pulverize
 - 粉碎
+---
+unfurl
+- 展开 unfold. unfurl an umbrella/flag
+  The leaves slowly unfurled.
+  Well, unfurl your wings, and fly into superhuman regions.
+---
+furl
+- 卷起，收拢(帆、旗或伞) roll up
+---
+roll up
+- furl  
+---
+misbehave
+- behave badly
+---
+comport
+- To conduct or behave (oneself) in a particular manner: 
+  Comport yourself with dignity.
+  They should be able to comport themselves as they want. 
+- To agree, correspond, or harmonize: 
+  a foreign policy that comports with the principles of democracy.
+  Such actions do not comport with your high status. 
