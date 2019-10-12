@@ -1424,3 +1424,23 @@ acuteness
 ---
 obtuseness
 - 迟钝
+---
+spellbound
+- 入迷 fascinated. Having your attention fixated as though by a spell. 
+  Nobody thought about her appearance when the power and magic of her voice caught and held her listeners spellbound.
+---
+overwrought
+- very worried and upset; excited in a nervous way
+  She was tired and overwrought. 
+  Scarlett found that it relieved her overwrought nerves. 
+  She's overwrought because of all the work and difficulties. 
+---
+distraught
+- 心烦意乱的 overwrought. Deeply agitated, as from worry or grief.    
+  After 90 minutes of this torture, I was absolutely distraught. 
+---
+prefatory
+- introductory. Serving as an introduction or preface.   
+---
+pulverize
+- 粉碎
