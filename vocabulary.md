@@ -1536,4 +1536,14 @@ check out something
 ---
 mixed
 - 混血的
-  
+---
+paranoia
+- 多疑
+  If you say that someone suffers from paranoia, you think that they are too suspicious and afraid of other people.
+- 妄想症
+  In psychology, if someone suffers from paranoia, they wrongly believe that other people are trying to harm them, or believe themselves to be much more important than they really are.
+---
+paranoid
+- 多疑的
+- 有妄想症的
+- a person who suffers from paranoia      
