@@ -1521,3 +1521,9 @@ drumstick
 ---
 chicken wing
 - 鸡翅
+---
+suspenders
+- 吊带裤
+---
+braces skirt
+- 吊带裙
