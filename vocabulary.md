@@ -1518,3 +1518,6 @@ limerick
 ---
 drumstick
 - 鸡腿
+---
+chicken wing
+- 鸡翅
