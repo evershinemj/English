@@ -1475,3 +1475,24 @@ honk
 - if a car horn honks or you honk or honk the horn , the horn makes a loud noise
   Why did he honk at me?
   People honked their horns as they drove past.  
+---
+benchmark
+- 基准
+  The truck industry is a benchmark for the economy.
+  But China surpassed even this benchmark last year. 
+  Chinese prices will become benchmark prices for India. 
+---
+try out
+---
+bang
+- to hit sth in a way that makes a loud noise
+  [VN] The baby was banging the table with his spoon. 
+  [V] She banged on the door angrily.
+- slam. to close sth or to be closed with a loud noise
+  [VN] Don't bang the door when you go out!
+  [V] A window was banging somewhere (= opening and closing noisily) .
+- bump. to hit sth, especially a part of the body, against sth by accident
+---
+topping
+- a flavorful addition on top of a dish 浇汁，浇头
+    
