@@ -1495,4 +1495,16 @@ bang
 ---
 topping
 - a flavorful addition on top of a dish 浇汁，浇头
-    
+---
+malefactor
+- criminal
+---
+scathe
+- 损害
+---
+bluster
+- to talk in an aggressive or threatening way, but with little effect    
+- (of the wind) to blow violently
+---
+barefaced
+- 厚颜无耻的
