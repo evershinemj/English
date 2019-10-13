@@ -1527,3 +1527,9 @@ suspenders
 ---
 braces skirt
 - 吊带裙
+---
+check out something
+- 了解清楚;核实;查实
+  If you check out something or someone, you find out information about them to make sure that everything is correct or satisfactory.
+  Maybe we ought to go down to the library and check it out 
+  The police had to check out the call. 
