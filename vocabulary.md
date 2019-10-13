@@ -1533,3 +1533,7 @@ check out something
   If you check out something or someone, you find out information about them to make sure that everything is correct or satisfactory.
   Maybe we ought to go down to the library and check it out 
   The police had to check out the call. 
+---
+mixed
+- 混血的
+  
