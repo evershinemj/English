@@ -1508,3 +1508,10 @@ bluster
 ---
 barefaced
 - 厚颜无耻的
+---
+putt
+- （高尔夫球） 轻击
+   A putt is a stroke in golf that you make when the ball has reached the green in an attempt to get the ball in the hole.
+---
+limerick
+- 打油诗   
