@@ -1584,3 +1584,9 @@ trenchant
 ---
 hard-hitting
 - trenchant 一针见血的
+---
+expresso
+- 浓咖啡
+---
+decaf
+- 低咖(脱咖啡因咖啡)
