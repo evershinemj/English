@@ -1590,3 +1590,23 @@ expresso
 ---
 decaf
 - 低咖(脱咖啡因咖啡)
+---
+crust
+- 面包皮
+- (尤指较软或较湿的物质上的)硬层，硬皮
+  As the water evaporates, a crust of salt is left on the surface of the soil.
+- 地壳
+  Earthquakes leave scars in the earth's crust.
+---
+earn a crust
+- 谋生 If you earn a crust, you earn enough money to live on, especially by doing work you would prefer not to do.
+  In his early days, he would do almost anything to earn a crust from the sport.
+---
+tall
+- 中杯
+---
+grande
+- 大杯
+---
+venti
+- 超大杯
