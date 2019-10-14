@@ -1547,3 +1547,12 @@ paranoid
 - 多疑的
 - 有妄想症的
 - a person who suffers from paranoia      
+---
+swab
+- （医用的）拭子，药签
+  a piece of soft material used by a doctor, nurse, etc. for cleaning wounds or taking a sample from sb's body for testing
+- 用拭子擦拭 to clean or remove liquid from a wound, etc., using a swab  
+  You swab that wound on his hand yet?
+-  (用拖把、抹布等)擦洗，擦拭（地板等）
+  to clean or wash a floor, surface, etc. using water and a cloth, etc.
+  The crew were orderd to swab down the decks. 
