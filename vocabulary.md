@@ -1556,3 +1556,31 @@ swab
 -  (用拖把、抹布等)擦洗，擦拭（地板等）
   to clean or wash a floor, surface, etc. using water and a cloth, etc.
   The crew were orderd to swab down the decks. 
+---
+prideful
+- 高傲的
+---
+imperious
+- prideful, arrogant 傲慢的
+---
+rapturous
+- Filled with or characterized by great joy or rapture; ecstatic.
+  When I looked up at her, she was sitting there watching me with an almost rapturous look on her face. 
+---
+rhapsodic
+- rapturous 狂喜的
+---
+rabid
+- (disapproving) (of a type of person 某类人) 极端的；疯狂的  
+---
+fanatical
+- 狂热的
+---
+trenchant
+- 犀利的 trench 切，割 + ant …的→ 像刀切进去一样 → 一针见血的
+  He was shattered and bewildered by this trenchant criticism.
+  His comment was trenchant and perceptive. 
+  He wrote a series of trenchant articles on the state of the British theatre.
+---
+hard-hitting
+- trenchant 一针见血的
