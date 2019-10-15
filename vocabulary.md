@@ -1613,3 +1613,31 @@ venti
 ---
 condiment
 - 调味品
+---
+rectitude
+- 正直 integrity, righteousness
+---
+blowhard
+- A very boastful and talkative person. braggart
+---
+braggart
+- blowhard
+---
+garland
+- a circle of flowers and leaves that is worn on the head or around the neck or is hung in a room as decoration 花环；花冠
+---
+lei
+- a garland of flowers worn around the neck
+---
+behemoth
+- a huge or monstrous person or thing 庞然大物
+  The city is a sprawling behemoth with no heart. 
+---
+sprawl
+- If you sprawl somewhere, you sit or lie down with your legs and arms spread out in a careless way.
+- 蔓延 to spread in an untidy way; to cover a large area
+  The town sprawled along the side of the lake.
+  Another issue is urban sprawl. 
+---
+gracious
+- 和蔼可亲的  
