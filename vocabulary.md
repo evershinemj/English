@@ -1649,3 +1649,20 @@ shovel
 - 铲
 - 铲起 If you shovel earth, coal, or snow, you lift and move it with a shovel. 
   He has to get out and shovel snow.
+---
+grind
+- 磨碎  
+  to grind coffee/corn(corn for '谷物' in BrE)
+- to make sth sharp or smooth by rubbing it against a hard surface
+  a special stone for grinding knives
+---
+grind your teeth
+- 磨牙    
+---
+stall
+- 暂停
+- 拖延
+  Thomas had spent all week stalling over his decision. 
+- 拖住（某人）
+  The shop manager stalled the man until the police arrived. 
+    
