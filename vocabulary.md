@@ -1641,3 +1641,11 @@ sprawl
 ---
 gracious
 - 和蔼可亲的  
+---
+stutter
+- stammer
+---
+shovel
+- 铲
+- 铲起 If you shovel earth, coal, or snow, you lift and move it with a shovel. 
+  He has to get out and shovel snow.
