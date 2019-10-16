@@ -1680,3 +1680,11 @@ dissuade
 paradigm
 - 范例
   That is the dominant sort of paradigm of what life is all about, at least in the Western world and a good deal more of it where the West has had an influence.  
+---
+arc
+- 弧 
+  The particle is moving along this arc.  
+---
+arch
+- 拱门
+  They walked through the arch and into the cobbled courtyard.   
