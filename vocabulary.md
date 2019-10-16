@@ -1665,4 +1665,15 @@ stall
   Thomas had spent all week stalling over his decision. 
 - 拖住（某人）
   The shop manager stalled the man until the police arrived. 
-    
+---
+disparage
+- belittle 贬低
+---
+gainsay
+- 反驳
+  Nobody can gainsay his claims.
+---
+dissuade
+- 劝阻 ~ sb (from sth/from doing sth)
+  I tried to dissuade him from giving up his job.
+  
