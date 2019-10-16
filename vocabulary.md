@@ -1676,4 +1676,7 @@ gainsay
 dissuade
 - 劝阻 ~ sb (from sth/from doing sth)
   I tried to dissuade him from giving up his job.
-  
+---
+paradigm
+- 范例
+  That is the dominant sort of paradigm of what life is all about, at least in the Western world and a good deal more of it where the West has had an influence.  
