@@ -1688,3 +1688,35 @@ arc
 arch
 - 拱门
   They walked through the arch and into the cobbled courtyard.   
+---
+remunerative
+- 报酬丰厚的，有偿的
+  A doctor advised her to seek remunerative employment.
+  He is in a very remunerative job. 
+---
+remunerative work
+- Is it necessary to decide between remunerative work and meaningful work? 
+---
+engrave A with B
+- 在…上雕刻（字或图案）
+  The silver cup was engraved with his name.
+---
+engrave B on A  
+- 在…上雕刻（字或图案）
+  His name was engraved on the silver cup.
+---
+be engraved on/in your heart, memory, mind
+---
+grave
+- engrave
+---
+graven
+- past participle of grave
+---
+etch
+- engrave
+---
+libertine
+- 浪荡子 
+  a person, usually a man, who leads an immoral life and is interested in pleasure, especially sexual pleasure
+    
