@@ -1719,4 +1719,10 @@ etch
 libertine
 - 浪荡子 
   a person, usually a man, who leads an immoral life and is interested in pleasure, especially sexual pleasure
-    
+---
+equivocal
+- ambiguous
+---
+opportune
+- 恰好的，适宜的
+  I believe that I have arrived at a very opportune moment.    
