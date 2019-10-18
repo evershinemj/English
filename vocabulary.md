@@ -1726,3 +1726,23 @@ equivocal
 opportune
 - 恰好的，适宜的
   I believe that I have arrived at a very opportune moment.    
+---
+mint
+- 薄荷
+- 铸币厂
+---
+taproom
+- bar
+---
+piffle
+- nonsense
+  He talks such a load of piffle.
+---
+balderdash
+- piffle
+---
+nightfall
+- dusk
+---
+lectern
+- 讲台
