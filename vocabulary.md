@@ -1755,3 +1755,9 @@ accomodating
 ---
 obliging
 - accomodating
+---
+commander
+- 指挥官
+---
+sergeant
+- 中士
