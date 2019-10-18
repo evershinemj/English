@@ -1746,3 +1746,12 @@ nightfall
 ---
 lectern
 - 讲台
+---
+timorous
+- Full of apprehensiveness; timid
+---
+accomodating
+- 乐于助人的
+---
+obliging
+- accomodating
