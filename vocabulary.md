@@ -1761,3 +1761,15 @@ commander
 ---
 sergeant
 - 中士
+---
+flippant
+- 轻率的 showing that you do not take sth as seriously as other people think you should
+---
+light-minded
+- flippant
+---
+lighthearted
+- carefree
+---
+lightsome
+- 轻盈的 lighthearted
