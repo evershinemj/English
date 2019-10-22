@@ -1773,3 +1773,28 @@ lighthearted
 ---
 lightsome
 - 轻盈的 lighthearted
+---
+debonair
+- 温文尔雅的 urbane
+---
+suave
+- debonair, urbane. Courteous and elegant; gracious and sophisticated.
+---
+sophisticated
+- Having or showing much worldly knowledge or cultural refinement 老练的
+  You also need to put yourself into other people's shoes and think about how sophisticated are they at playing games.
+- Very complex or complicated
+  the latest and most sophisticated technology
+  This process ought to be highly sophisticated. 
+  You will be able to infer from some of our code how in fact you can implement some more sophisticated programs.
+---
+gangly
+- 身材瘦长的   
+---
+rangy
+- gangly
+---
+abiding
+- An abiding feeling, memory, or interest is one that you have for a very long time. 持久的 (感情、记忆、兴趣)
+  He has a genuine and abiding love of the craft. 
+  an abiding love of music.
