@@ -1802,3 +1802,12 @@ abiding
 reciprocal 
 - 互惠的
   That's why we talk about reciprocal love. 
+---
+invoice
+- 发票
+---
+sort out
+- 整理
+  Sort out all your bills, receipts, invoices, and expenses as quickly as possible and keep detailed accounts. 
+- 解决
+  India and Nepal have sorted out their trade and security dispute.   
