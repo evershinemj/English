@@ -1798,3 +1798,7 @@ abiding
 - An abiding feeling, memory, or interest is one that you have for a very long time. 持久的 (感情、记忆、兴趣)
   He has a genuine and abiding love of the craft. 
   an abiding love of music.
+---
+reciprocal 
+- 互惠的
+  That's why we talk about reciprocal love. 
