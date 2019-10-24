@@ -1823,4 +1823,23 @@ dab
   If you dab something, you touch it several times using quick, light movements. If you dab a substance onto a surface, you put it there using quick, light movements.
   She arrived weeping, dabbing her eyes with a tissue.
   She spread the icing over the cake, dabbing it with a knife. 
-   
+---
+antimonopoly
+- 反垄断的
+---
+antitrust
+- antimonopoly
+---
+contrite
+- remorseful
+---
+rueful
+- contrite, plaintive, woeful, grievous
+---
+venial
+- not very serious and therefore able to be forgiven; pardonable  
+  Her poverty had been a venial fault for two gallant gentlemen. 
+---
+stately
+- grand, majestic
+  
