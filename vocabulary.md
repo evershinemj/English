@@ -1810,4 +1810,17 @@ sort out
 - 整理
   Sort out all your bills, receipts, invoices, and expenses as quickly as possible and keep detailed accounts. 
 - 解决
-  India and Nepal have sorted out their trade and security dispute.   
+  India and Nepal have sorted out their trade and security dispute.  
+---
+impostor
+- 骗子，冒牌货
+  This man is an impostor, who has stolen my throne. 
+  This is not Doctor Malcolm, he is an impostor.      
+  We knew he was an impostor because he spoke with a foreign accent. 
+---
+dab
+- 轻拍;轻触;轻拭;轻敷;轻涂
+  If you dab something, you touch it several times using quick, light movements. If you dab a substance onto a surface, you put it there using quick, light movements.
+  She arrived weeping, dabbing her eyes with a tissue.
+  She spread the icing over the cake, dabbing it with a knife. 
+   
