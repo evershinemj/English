@@ -1842,4 +1842,6 @@ venial
 ---
 stately
 - grand, majestic
-  
+---
+pretermit
+- 置之不问，怠慢  
