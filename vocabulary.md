@@ -1845,3 +1845,36 @@ stately
 ---
 pretermit
 - 置之不问，怠慢  
+---
+wanderlust
+- 旅行癖 A very strong or irresistible impulse to travel.
+  His wanderlust would not allow him to stay long in one spot.    
+---
+itchy feet
+- wanderlust
+  Seeing others travelling abroad gave her itchy feet. 
+  I've got itchy feet. It's been a year since my last holiday. 
+---
+stench
+- A strong, foul odor; a stink.
+---
+malodor
+- stench, stink
+---
+reek
+- 发臭 stink
+  His breath reeked of tobacco. 
+---
+reek of
+---
+wrangle
+- v.n. dispute, quarrel  
+---
+auction
+- 拍卖
+---
+audition
+- 试演
+---
+glutton
+- 贪吃者
