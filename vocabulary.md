@@ -1892,4 +1892,17 @@ ballerina
 build
 - 体格
   He's described as around thirty years old, six feet tall and of medium build. 
-  
+---
+crackpot
+- 狂人，疯子 lunatic, nut. An eccentric person, especially one with bizarre ideas.   
+---
+cholesterol
+- 胆固醇 
+  Eating a high fat diet but one that's low in cholesterol can still potentially lead to high cholesterol levels.
+---
+be nuts about
+- If you are nuts about something or someone, you like them very much. 狂热于…的
+  They're nuts about the car. 
+---
+go nuts/be nuts
+- If you say that someone goes nuts or is nuts, you mean that they go crazy or are very foolish.     
