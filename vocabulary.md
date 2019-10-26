@@ -1884,4 +1884,12 @@ efficacious
 ---
 illicit
 - illegal
-
+---
+ballerina
+- 芭蕾舞女演员
+  She really did not have the build for a ballerina. 
+---
+build
+- 体格
+  He's described as around thirty years old, six feet tall and of medium build. 
+  
