@@ -1944,4 +1944,13 @@ prattle
 ---
 decorous
 - Decorous behaviour is very respectable, calm, and polite. 稳重端庄的
-  It's a very mannered, decorous language.        
+  It's a very mannered, decorous language.
+---
+premium
+- 高端的 Premium products are of a higher than usual quality and are often expensive.
+---
+rampant
+- 猖獗的; 泛滥的
+  If you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 
+  Inflation is rampant and industry in decline.
+            
