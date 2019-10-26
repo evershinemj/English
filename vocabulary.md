@@ -1906,3 +1906,39 @@ be nuts about
 ---
 go nuts/be nuts
 - If you say that someone goes nuts or is nuts, you mean that they go crazy or are very foolish.     
+---
+efface
+- 消除，抹去
+  He could not efface the impression from his mind. 
+  Efface the foot prints in the sands. 
+---
+obliterate
+- efface  
+- (从头脑中) 抹掉
+   There was time enough to obliterate memories of how things once were for him. 
+---
+swerve
+- 急转弯 Turn sharply; change direction abruptly. 
+  Her car swerved off the road into a 6 ft high brick wall. 
+  The driver had ample time to brake or swerve and avoid the woman.   
+---
+veer
+- swerve
+   The plane veered off the runway and crashed through the perimeter fence. 
+- 改变立场
+  He is unlikely to veer from his boss's strongly held views. 
+---
+perimeter
+- the outside edge of an area of land （土地的）外缘，边缘
+  a perimeter fence/track/wall 围绕四周的栅栏╱小径╱墙
+---
+blather
+- 喋喋不休
+  The old men blather on and on. 
+  Stop blathering.   
+---
+prattle
+- blather
+  Lou prattled on about various trivialities till I wanted to scream. 
+  Archie, shut up. You're prattling. 
+        
