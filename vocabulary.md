@@ -1941,4 +1941,7 @@ prattle
 - blather
   Lou prattled on about various trivialities till I wanted to scream. 
   Archie, shut up. You're prattling. 
-        
+---
+decorous
+- Decorous behaviour is very respectable, calm, and polite. 稳重端庄的
+  It's a very mannered, decorous language.        
