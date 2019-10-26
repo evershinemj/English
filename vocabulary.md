@@ -1953,4 +1953,5 @@ rampant
 - 猖獗的; 泛滥的
   If you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 
   Inflation is rampant and industry in decline.
-            
+  Complete disregard of life is rampant in some terrible laboratories.
+  The demonstrators say they are upset over rampant corruption, nepotism and rising prices.
