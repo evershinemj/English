@@ -1878,3 +1878,10 @@ audition
 ---
 glutton
 - 贪吃者
+---
+efficacious
+- effective
+---
+illicit
+- illegal
+
