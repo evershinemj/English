@@ -1955,3 +1955,28 @@ rampant
   Inflation is rampant and industry in decline.
   Complete disregard of life is rampant in some terrible laboratories.
   The demonstrators say they are upset over rampant corruption, nepotism and rising prices.
+---
+cut
+- 削减
+  The economy needs an immediate 2 percent cut in interest rates. 
+---
+demonstrate
+- vi. When people demonstrate, they march or gather somewhere to show their opposition to something or their support for something. 游行示威    
+  Some 30,000 angry farmers arrived in Brussels yesterday to demonstrate against possible cuts in subsidies. 
+  In the cities vast crowds have been demonstrating for change.   
+---
+demonstrate for
+---
+demonstrate against
+---
+freezer
+- 冰柜
+---
+beige
+- pale brown in colour. 淡棕色的，米黄色的
+---
+khaki
+- Khaki is a strong material of a beige colour, used especially to make uniforms for some soldiers. 卡其布
+  On each side of me was a figure in khaki. 
+- Something that is khaki is beige in colour. 卡其色的; 土黄色的
+  He was dressed in khaki trousers.     
