@@ -2023,4 +2023,8 @@ antiquated
   They attempted in vain to modernise these antiquated industries. 
 ---
 antediluvian
-- 远古的  
+- 远古的
+---
+iniquity
+- You can refer to wicked actions or very unfair situations as iniquity. 邪恶; 不公
+  the iniquity of racial prejudice   
