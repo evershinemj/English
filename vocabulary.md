@@ -1980,3 +1980,47 @@ khaki
   On each side of me was a figure in khaki. 
 - Something that is khaki is beige in colour. 卡其色的; 土黄色的
   He was dressed in khaki trousers.     
+---
+elated
+- exuberant, ebullient 兴高采烈的  
+  We're worried. We'll get elated.
+---
+gleeful
+- elated
+---
+manipulate
+- 操纵
+  She uses her charm to manipulate people. 
+  As a politician, he knows how to manipulate public opinion.
+  Voters are tired of being manipulated. I am not going to go out there and reinvent myself to manipulate somebody's vote.
+  And what it does is--one way to reproduce is to occupy other animals and manipulate their bodies so as to expel it.
+  And the second thing we're going to need, is we're going to need a way to give instructions to the computer to manipulate that data.
+  We know machines can manipulate symbols.
+---
+manipulate sb into sth/into doing sth
+- They managed to manipulate us into agreeing to help.  
+---
+manoeuvre
+- 移动
+  a complicated/skilful manoeuvre 复杂的╱熟练的移动
+- 手段
+  diplomatic manoeuvres 外交策略
+---
+libel
+- slander
+----
+calumny
+- libel
+---
+sylph
+- a slender graceful girl or young woman 西尔芙；风精灵
+---
+sylphlike
+- 窈窕的 fairylike
+---
+antiquated
+- 陈旧的，过时的
+  They attempted in vain to modernise these antiquated industries. 
+---
+antediluvian
+- 远古的  
