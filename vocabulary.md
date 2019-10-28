@@ -2028,3 +2028,16 @@ antediluvian
 iniquity
 - You can refer to wicked actions or very unfair situations as iniquity. 邪恶; 不公
   the iniquity of racial prejudice   
+---
+gourmet
+- 美食家
+---
+gourmet food
+- 美味佳肴  
+  We have to go out and eat the gourmet food to enjoy it.
+---
+allay
+- mitigate, assuage, alleviate
+---
+assiduous
+- 勤勉的 diligent, hard-working  
