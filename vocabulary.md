@@ -2041,3 +2041,31 @@ allay
 ---
 assiduous
 - 勤勉的 diligent, hard-working  
+---
+fusspot
+- 小题大做的人
+---
+fuss-budget
+- fusspot
+  Stop being such a fuss-budget, and just relax and have fun!
+---
+impecunious
+- 身无分文的
+---
+causative factors
+- Causative factors are ones which are responsible for causing something. 诱发性的
+---
+languid
+- 无精打采的  
+---
+furrow
+- 犁沟
+  A furrow is a long, thin line in the earth which a farmer makes in order to plant seeds or to allow water to flow along. 
+  furrows of roses and corn. 
+- 沟 A furrow is a deep, fairly wide line in the surface of something.   
+- 皱纹
+---
+furrowed
+---
+rugged
+- 崎岖的
