@@ -2069,3 +2069,22 @@ furrowed
 ---
 rugged
 - 崎岖的
+---
+fabricate
+- 编造
+---
+cook up
+- fabricate
+  I think that writers should tell the truth about love but not fabricate romance.
+---
+deface
+- blemish. disfigure. Mar or spoil the appearance of.   
+---
+disfigure
+- deface
+---
+protract
+- prolong 词根词缀： pro-前 + -tract-拉 → 往前拉
+---
+stupefy
+- 使惊呆
