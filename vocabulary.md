@@ -2088,3 +2088,16 @@ protract
 ---
 stupefy
 - 使惊呆
+---
+dour
+- If you describe someone as dour, you mean that they are very serious and unfriendly. 阴沉的
+  a dour, taciturn man. 
+---
+taciturn
+- 沉默寡言的
+---
+hard-pressed
+- 窘迫的 Facing or experiencing financial trouble or difficulty.   
+---
+presumptuous
+- 自以为是的
