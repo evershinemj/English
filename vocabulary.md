@@ -2110,3 +2110,10 @@ pull up
 ---
 pull over
 - 靠边停车
+---
+strike somebody
+- If an idea or thought strikes you, it suddenly comes into your mind.
+---
+strike somebody as ...
+- If something strikes you as being a particular thing, it gives you the impression of being that thing.
+  He struck me as a very serious but friendly person...
