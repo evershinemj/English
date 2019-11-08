@@ -2101,3 +2101,12 @@ hard-pressed
 ---
 presumptuous
 - 自以为是的
+---
+slap
+- 打耳光
+---
+pull up
+- 减速停车
+---
+pull over
+- 靠边停车
