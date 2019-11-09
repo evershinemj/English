@@ -2136,3 +2136,25 @@ lounge
 lobby
 - lounge
 - 游说
+---
+moron
+- twat
+---
+catch phrase
+- 名言，妙语，流行口号
+---
+punch line
+- The climactic phrase or statement of a joke, producing a sudden humorous effect.
+---
+abduct
+- kidnap
+---
+titan
+- giant mnemonic: Titanic
+---
+for free
+- free of charge
+---
+for now
+---
+for real
