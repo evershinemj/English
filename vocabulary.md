@@ -2132,3 +2132,7 @@ lounge
   Places like the Tea Lounge as an example.
 - In an airport, a lounge is a very large room where people can sit and wait for aircraft to arrive or leave. 候机厅
 - In a house, a lounge is a room where people sit and relax. 起居室    
+---
+lobby
+- lounge
+- 游说
