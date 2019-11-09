@@ -2117,3 +2117,18 @@ strike somebody
 strike somebody as ...
 - If something strikes you as being a particular thing, it gives you the impression of being that thing.
   He struck me as a very serious but friendly person...
+---
+recline
+- If you recline on something, you sit or lie on it with the upper part of your body supported at an angle. 斜靠
+  I recline my head on my soft pillow.
+  My cousin would recline on a couch, and I would seize some opportunity of edging up to him.
+---
+recliner
+- 可调式躺椅
+---
+lounge
+- In a hotel, club, or other public place, a lounge is a room where people can sit and relax. 休息厅
+  That's a beautiful new lounge that the Provost's Office allowed us to build for physicists and chemists, or whoever happens to be in the building.
+  Places like the Tea Lounge as an example.
+- In an airport, a lounge is a very large room where people can sit and wait for aircraft to arrive or leave. 候机厅
+- In a house, a lounge is a room where people sit and relax. 起居室    
