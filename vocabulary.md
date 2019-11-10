@@ -2158,3 +2158,12 @@ for free
 for now
 ---
 for real
+---
+creepy
+- scary
+---
+macho
+- ( usually disapproving ) male in an aggressive way 大男子气的
+  Men aren't the only ones who can be macho! 
+  Her new boyfriend is really macho. 
+  Beer ads tend to be macho. 
