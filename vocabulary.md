@@ -3350,3 +3350,16 @@ call up
 - If you call someone up, you telephone them. 
   You can't call up the banker and say that, but if you're playing golf it comes out perfectly naturally.
   And so the next thing you do is you call up a journal and say I've discovered a fundamental law of nature.  
+
+---
+
+outlast
+- outlive.  These naturally dried flowers will outlast a bouquet of fresh blooms. 
+  And it gives us an very nice analogy of somebody whose, you know, a coat which could outlast the owner, but it isn't immortal.
+  It turns into something durable that will outlast them. So, the problem with art is in a sense that it is immortal.
+
+---
+
+outlive
+- outlast
+  But nowadays women outlive men by about five to six years. 
