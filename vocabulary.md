@@ -2167,3 +2167,8 @@ macho
   Men aren't the only ones who can be macho! 
   Her new boyfriend is really macho. 
   Beer ads tend to be macho. 
+---
+call up
+- If you call someone up, you telephone them. 
+  You can't call up the banker and say that, but if you're playing golf it comes out perfectly naturally.
+  And so the next thing you do is you call up a journal and say I've discovered a fundamental law of nature.  
