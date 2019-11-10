@@ -3363,3 +3363,17 @@ outlast
 outlive
 - outlast
   But nowadays women outlive men by about five to six years. 
+
+---
+
+rot
+- 腐烂
+  rotting leaves
+  The window frame had rotted away completely. 
+  Too much sugar will rot your teeth.
+
+---
+
+nailed it
+- 搞定
+
