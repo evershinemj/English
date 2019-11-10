@@ -3377,3 +3377,12 @@ rot
 nailed it
 - 搞定
 
+---
+
+nasal
+- Nasal is used to describe things relating to the nose and the functions it performs. 
+
+---
+
+nostril
+- 鼻孔
