@@ -3413,3 +3413,13 @@ bump into
 - If you bump into someone you know, you meet them unexpectedly. 碰见
   I happened to bump into Mervyn Johns in the hallway. 
   And so Ialways, sort of, I was a bit excited that I'd bump into her at some point.
+
+---
+
+pensive
+- If you are pensive, you are thinking deeply about something, especially something that worries you slightly. 沉思的; 忧思的
+
+---
+
+gill
+- 鱼鳃
