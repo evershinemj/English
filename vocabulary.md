@@ -3386,3 +3386,30 @@ nasal
 
 nostril
 - 鼻孔
+
+---
+
+pen
+- If people or animals are penned somewhere or are penned up, they are forced to remain in a very small area. 关 (人或动物)
+  The cattle were penned for the night. 
+  The animals were penned up in cages. 
+
+---
+
+pent
+- pp and pt of pen
+
+---
+
+pent-up
+- repressed. Pent-up emotions, energies, or forces have been held back and not expressed, used, or released. 被压抑的
+  He still had a lot of pent-up anger to release. 
+  Her pent - up anger was released in a torrent of words. 
+  If you do not provide an outlet for his pent-up energy....he may find one! 
+
+---  
+
+bump into
+- If you bump into someone you know, you meet them unexpectedly. 碰见
+  I happened to bump into Mervyn Johns in the hallway. 
+  And so Ialways, sort of, I was a bit excited that I'd bump into her at some point.
