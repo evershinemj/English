@@ -3535,3 +3535,14 @@ flesh
   These are honors reserved exclusively for virgins, honors reserved only for those who do not defile themselves with the sins of the flesh.
 - The flesh of a fruit or vegetable is the soft inside part of it. 果肉
   Cut the flesh from the olives and discard the stones.     
+
+---
+
+dart
+- 飞镖
+
+---
+
+crooked
+- If you describe something as crooked, especially something that is usually straight, you mean that it is bent or twisted. 扭曲的
+  The picture on the wall is crooked. 
