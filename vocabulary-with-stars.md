@@ -1,18 +1,18 @@
-* one star
+# one star
 
 - muffle
 - bandage
 - hunk
 - crooked
 
-* two stars
+# two stars
 
 - sprinkle
 - flesh
 - dart
 
-* three stars
+# three stars
 
-* four stars
+# four stars
 
-* five stars
+# five stars
