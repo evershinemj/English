@@ -3472,3 +3472,14 @@ demure
 musty
 - Something that is musty smells old and damp. 有霉味的; 发霉的
   There are racks of musty clothing and piles of junk.
+
+---
+
+medication
+- [ UC ] a drug or another form of medicine that you take to prevent or to treat an illness 药；药物
+  to be on medication 进行药物治疗
+  Are you currently taking any medication?
+  When somebody comes for treatment I always ask them if they are on any medication. 
+  Medication, of course, being a major theme of how we deal with certain disorders now, particularly depression and anxiety disorders.
+  These medication mistakes included the accidental overdose of a drug or the wrong drug being given or taken. 
+  The question was, " "Does--did Freud believe in medication?"
