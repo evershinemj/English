@@ -3488,3 +3488,50 @@ medication
 
 rotten
 - decayed
+
+---
+
+batter
+- To hit heavily and repeatedly with violent blows.
+
+---
+
+Bolivia
+- 玻利维亚
+  位于南美洲中部的内陆国家，周边与巴西、秘鲁、智利、阿根廷、巴拉圭五国相邻
+
+---
+
+muffle
+- If something muffles a sound, it makes it quieter and more difficult to hear. 压低 (声音)
+
+---
+
+sprinkle
+- If you sprinkle a thing with something such as a liquid or powder, you scatter the liquid or powder over it. (给…) 洒 (液体); (给…) 撒 (粉末状物)
+  Sprinkle the meat with salt and place in the pan. 
+
+---
+
+bandage
+- A bandage is a long strip of cloth that is wrapped around a wounded part of someone's body to protect or support it. 绷带
+
+---
+
+hunk 
+- A hunk of something is a large piece of it. 大块
+  a thick hunk of bread. 
+  I just want to flag the thought that you can be the very same hunk of stuff, even if some of the constituent atoms have changed along the way.
+  And the answer, not that there aren't puzzles about it, but the answer is roughly, "It's the very same car if it's the very same hunk of metal and plastic and wires."
+
+---
+
+flesh
+- Flesh is the soft part of a person's or animal's body between the bones and the skin. 肉
+  the pale pink flesh of trout and salmon. 
+  You take a pin and you stick it through my flesh of my body and I feel pain in my soul, in my mind.
+- You can use flesh to refer to human skin and the human body, especially when you are considering it in a sexual way. 肌肤; 肉体
+  the warmth of her flesh. 
+  These are honors reserved exclusively for virgins, honors reserved only for those who do not defile themselves with the sins of the flesh.
+- The flesh of a fruit or vegetable is the soft inside part of it. 果肉
+  Cut the flesh from the olives and discard the stones.     
