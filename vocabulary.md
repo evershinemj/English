@@ -3449,4 +3449,26 @@ skim
   Now if you read down, if you sort of skim down, you'll see that kind of language applied to critics.
   He skimmed the pages quickly, then read them again more carefully. 
 - If something skims a surface, it moves quickly along just above it. 掠过
-  seagulls skimming the waves.   
+  seagulls skimming the waves. 
+
+---
+
+hefty
+- Hefty means large in size, weight, or amount. 庞大的; 沉重的
+
+---
+
+coy
+- 羞答答的 shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you
+  She gave me a coy smile.
+
+---
+
+demure
+- If you describe someone, usually a young woman, as demure, you mean they are quiet and shy, usually in a way that you like and find appealing, and behave very correctly. 娴静的
+
+---
+
+musty
+- Something that is musty smells old and damp. 有霉味的; 发霉的
+  There are racks of musty clothing and piles of junk.
