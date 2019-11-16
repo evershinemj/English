@@ -3483,3 +3483,8 @@ medication
   Medication, of course, being a major theme of how we deal with certain disorders now, particularly depression and anxiety disorders.
   These medication mistakes included the accidental overdose of a drug or the wrong drug being given or taken. 
   The question was, " "Does--did Freud believe in medication?"
+
+---
+
+rotten
+- decayed
