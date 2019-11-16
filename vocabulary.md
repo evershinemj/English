@@ -3423,3 +3423,30 @@ pensive
 
 gill
 - 鱼鳃
+
+---
+
+dip
+- 蘸
+  Dip each apple in the syrup until thickly coated. 
+- v.n. If something dips, it makes a downward movement, usually quickly. (突然) 下沉
+  Blake jumped in expertly; the boat dipped slightly under his weight. 
+  I noticed little things, a dip of the head, a twitch in the shoulder. 
+- v.n. If the amount or level of something dips, it becomes smaller or lower, usually only for a short period of time. (暂时) 下降
+  Unemployment dipped to 6.9 percent last month.   
+  the current dip in farm spending. 
+  But there are concerns that Japan and the United States could face a "double-dip" recession. 
+  A "double dip' scenario refers to a short-lived recovery, followed by another recession. 
+  Garcia says the recent dip in supply will be temporary. 
+- If you dip into a book, you take a brief look at it without reading or studying it seriously. 浏览
+  a chance to dip into a wide selection of books on Tibetan Buddhism. 
+  Well enough, I guess, of that; although if you want to understand the optimism of that time just dip into Leaves of Grass, read Whitman's Old Pioneers.  
+
+---
+
+skim
+- If you skim a piece of writing, you read through it quickly. 略读; 浏览
+  Now if you read down, if you sort of skim down, you'll see that kind of language applied to critics.
+  He skimmed the pages quickly, then read them again more carefully. 
+- If something skims a surface, it moves quickly along just above it. 掠过
+  seagulls skimming the waves.   
