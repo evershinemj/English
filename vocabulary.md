@@ -3573,3 +3573,51 @@ screw up
 
 set foot on
 - Once again, she set foot on this land. 
+
+---
+
+drain
+- If you drain a liquid from a place or object, you remove the liquid by causing it to flow somewhere else. If a liquid drains somewhere, it flows there. 使流走; 流走
+  Miners built the tunnel to drain water out of the mines. 
+  It does however serve an important function, in helping the region drain water better. 
+- If you drain a place or object, you dry it by causing water to flow out of it. If a place or object drains, water flows out of it until it is dry. 排干
+  The authorities have mobilized vast numbers of people to drain flooded land and build or repair dikes. 
+
+---
+
+dam
+- a barrier that is built across a river in order to stop the water from flowing, used especially to make a reservoir (= a lake for storing water) or to produce electricity 水坝
+
+---
+
+dike
+- A dike is a thick wall that is built to stop water flooding onto very low-lying land from a river or from the ocean 堤
+
+---
+
+drainage
+- Drainage is the system or process by which water or other liquids are drained from a place. 排水; 排水系统
+  So fixing drainage and other infrastructure, she says, is key to keeping the city business friendly. 
+
+---
+
+plumbing
+- The plumbing in a building consists of the water and drainage pipes, bathtubs, and toilets in it. 管道系统
+  The wiring and the plumbing were sound but everything else had to be cleaned up. 
+
+---
+
+wiring
+- The wiring in a building or machine is the system of wires that supply electricity to the different parts of it. 供电线路
+  Collecting diverse responsibilities in one institution is like asking the plumber to check the wiring in your basement. 
+
+---
+
+faulty
+- A faulty piece of equipment has something wrong with it and is not working properly. 出故障的
+  Clarence Ditlow at the Center for Auto Safety in Washington says the problem may be caused by faulty electronics. 
+
+---
+
+plumber
+- A plumber is a person whose job is to connect and repair things such as water and drainage pipes, bathtubs, and toilets. 管道工
