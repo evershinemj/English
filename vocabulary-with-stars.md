@@ -23,6 +23,9 @@
 - bluff
 - diaper
 - Alzheimer's disease
+- chilly
+- polio
+- polo
 
 # two stars
 
@@ -43,6 +46,8 @@
 - cholesterol
 - medication
 - clinical
+- chill
+- hockey
 
 # three stars
 

@@ -3686,3 +3686,13 @@ clinical training
 
 clinically dead
 - (= judged to be dead from the condition of the body) 临床死亡的（从身体的状况判断为死亡的）
+
+---
+
+polo
+- 马球
+
+---
+
+hockey
+- 曲棍球
