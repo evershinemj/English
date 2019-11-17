@@ -3559,3 +3559,17 @@ source or supply of it. 源泉
 erudition
 - Erudition is great academic knowledge. 博学
   I take this to be an undeniable fact, but this is easy for us to say - it's easy for us to say that it's Milton's memory which is the fount of so much of the poem's erudition.
+
+---
+
+screw up
+- To screw something up, or to screw up, means to cause something to fail or be spoiled. 弄糟; 破坏
+  You can't open the window because it screws up the air conditioning. 
+  Get out. Haven't you screwed things up enough already, you idiot! 
+  It takes time and I'm probably going to screw up.
+  But Hal thinks to himself fairly plausibly, humans really screw things up.
+
+---
+
+set foot on
+- Once again, she set foot on this land. 
