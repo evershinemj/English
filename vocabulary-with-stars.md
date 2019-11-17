@@ -49,6 +49,8 @@
 - clinical
 - chill
 - hockey
+- reservoir
+- conservation
 
 # three stars
 

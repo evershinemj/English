@@ -3724,3 +3724,14 @@ bat
 racket
 - A racket is an oval-shaped bat with strings across it. Rackets are used in tennis, squash, and badminton. (网球、壁球、羽毛球等的) 球拍
   Tennis rackets and balls are provided. 
+
+---
+
+reservoir
+- A reservoir is a lake that is used for storing water before it is supplied to people. 水库
+
+---
+
+conservation
+- Conservation is saving and protecting the environment. (对环境的) 保护
+  And he was very much into natural history. Ok? He was into a place... conservation.
