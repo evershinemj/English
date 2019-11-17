@@ -3637,3 +3637,26 @@ coating
 
 splash
 - If you splash a liquid somewhere or if it splashes, it hits someone or something and scatters in a lot of small drops. 溅落
+
+---
+
+linger
+- When something such as an idea, feeling, or illness lingers, it continues to exist for a long time, often much longer than expected. (想法、感觉、疾病) 继续存留
+  The scent of her perfume lingered on in the room. 
+- If you linger somewhere, you stay there for a longer time than is necessary, for example, because you are enjoying yourself. 继续逗留
+  Customers are welcome to linger over coffee until around midnight. 
+  And we're going to blitz through it like the hundred yard dash, and that means we can't stop and linger in too much detail on different topics.
+
+---
+
+dash
+- If you dash somewhere, you run or go there quickly and suddenly. 猛冲
+  Suddenly she dashed down to the cellar. 
+
+---
+
+blitz
+- [ Cusually sing. ] something which is done with a lot of energy 集中力量的行动；闪击式行动
+  an advertising/ a media blitz
+- [ Cusually sing. ] ~ (on sth) a sudden attack 突袭；闪电战
+  Five shops were damaged in a firebomb blitz.   

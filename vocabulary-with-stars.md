@@ -14,6 +14,8 @@
 - snore
 - coating
 - topping
+- hallway
+- blitz
 
 # two stars
 
@@ -24,10 +26,15 @@
 - giggle
 - sniff
 - splash
+- halfway
+- lounge    
+- linger
+- dash
 
 # three stars
 
 - drain
+- lobby
 
 # four stars
 
