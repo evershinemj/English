@@ -3659,4 +3659,30 @@ blitz
 - [ Cusually sing. ] something which is done with a lot of energy 集中力量的行动；闪击式行动
   an advertising/ a media blitz
 - [ Cusually sing. ] ~ (on sth) a sudden attack 突袭；闪电战
-  Five shops were damaged in a firebomb blitz.   
+  Five shops were damaged in a firebomb blitz. 
+
+---
+
+clinical
+- Clinical means involving or relating to the direct medical treatment or testing of patients. 临床的
+  In the nineteen seventies, a supervisor asked her if she would like to do clinical research about pain.
+  And at the end of the interview she gives them her own personal clinical evaluation of their personality. Okay?
+  It is the result of more than twenty years of research and ten years of clinical testing.
+  And in exceptional cases, it shows up in certain clinical symptoms.   
+  The clinical trial involved four drugs that were given to more than 270 young patients, ranging in age from four to 19. 
+  After the clinical trial it was rapidly introduced into the population.
+
+---
+
+clinical research
+- (= done on patients, not just considering theory) 临床研究
+
+---
+
+clinical training
+- (= the part of a doctor's training done in a hospital) 临床培训
+
+---
+
+clinically dead
+- (= judged to be dead from the condition of the body) 临床死亡的（从身体的状况判断为死亡的）

@@ -16,6 +16,13 @@
 - topping
 - hallway
 - blitz
+- psychotic
+- maniac
+- lunatic
+- hilarious
+- bluff
+- diaper
+- Alzheimer's disease
 
 # two stars
 
@@ -30,6 +37,12 @@
 - lounge    
 - linger
 - dash
+- jerk
+- asthma
+- diabetes
+- cholesterol
+- medication
+- clinical
 
 # three stars
 
