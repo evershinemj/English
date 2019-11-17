@@ -29,6 +29,7 @@
 - racket
 - lame
 - thrilled
+- closet
 
 # two stars
 
@@ -58,6 +59,9 @@
 - handicap
 - faculty
 - manipulate
+- subtle
+- wardrobe
+- cupboard
 
 # three stars
 
@@ -65,9 +69,11 @@
 - lobby
 - cricket
 - bat
+- sophisticated
 
 # four stars
 
 - facility
+- cabinet
 
 # five stars

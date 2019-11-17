@@ -3746,3 +3746,23 @@ handicap
 
 thrilled
 - If someone is thrilled, they are extremely happy and excited about something. 狂喜的
+
+---
+
+closet
+- ( especially NAmE ) A closet is a very small room for storing things, especially one without windows. 储藏室
+
+---
+
+cupboard
+- A cupboard is a piece of furniture that has one or two doors, usually contains shelves, and is used to store things. 橱柜
+
+---
+
+cabinet
+- A cabinet is a cupboard used for storing things such as medicine or alcoholic drinks or for displaying decorative things in. 贮藏橱; 陈列柜
+
+---
+
+wardrobe
+- A wardrobe is a tall closet or cabinet in which you can hang your clothes. 衣柜
