@@ -10,6 +10,10 @@
 - plumbing
 - wiring
 - faulty
+- doze
+- snore
+- coating
+- topping
 
 # two stars
 
@@ -17,6 +21,9 @@
 - flesh
 - dart
 - dam
+- giggle
+- sniff
+- splash
 
 # three stars
 

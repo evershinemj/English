@@ -3621,3 +3621,19 @@ faulty
 
 plumber
 - A plumber is a person whose job is to connect and repair things such as water and drainage pipes, bathtubs, and toilets. 管道工
+
+---
+
+snore
+- 打鼾
+
+---
+
+coating
+- A coating of a substance is a thin layer of it spread over a surface. 涂层
+  Under the coating of dust and cobwebs, he discovered a fine French Louis XVI clock. 
+
+---
+
+splash
+- If you splash a liquid somewhere or if it splashes, it hits someone or something and scatters in a lot of small drops. 溅落
