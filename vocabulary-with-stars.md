@@ -56,6 +56,7 @@
 - khaki
 - show business
 - fluffy
+- knob
 
 # two stars
 
@@ -132,6 +133,7 @@
 - smash
 - keen
 - initiative
+- whip out/off
 
 # four stars
 

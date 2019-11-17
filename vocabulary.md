@@ -3868,3 +3868,10 @@ show business
 
 cling to
 - If you cling to someone or something, you hold onto them tightly. 紧紧抓住
+
+---
+
+whip sth out/off
+- If someone whips something out or whips it off, they take it out or take it off very quickly and suddenly. 猛地拿出; 猛地脱掉
+  Bob whipped out his notebook. 
+  Players were whipping their shirts off. 
