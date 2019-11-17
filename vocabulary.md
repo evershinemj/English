@@ -3766,3 +3766,8 @@ cabinet
 
 wardrobe
 - A wardrobe is a tall closet or cabinet in which you can hang your clothes. 衣柜
+
+---
+
+decent
+- Decent is used to describe something which is considered to be of an acceptable standard or quality. 像样的

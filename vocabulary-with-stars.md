@@ -30,6 +30,11 @@
 - lame
 - thrilled
 - closet
+- gigantic
+- adorable
+- exuberant
+- elated
+- fascinated
 
 # two stars
 
@@ -62,6 +67,16 @@
 - subtle
 - wardrobe
 - cupboard
+- immense
+- exaggerate
+- gorgeous
+- terrific
+- fabulous
+- fascinating
+- dread
+- dreadful
+- voyage
+- decent
 
 # three stars
 
@@ -70,6 +85,8 @@
 - cricket
 - bat
 - sophisticated
+- tremendous
+- massive
 
 # four stars
 
