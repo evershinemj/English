@@ -35,6 +35,15 @@
 - exuberant
 - elated
 - fascinated
+- broccoli
+- cauliflower
+- cramp
+- crust
+- skim
+- fussy
+- slum
+- cram
+- caviar
 
 # two stars
 
@@ -77,6 +86,14 @@
 - dreadful
 - voyage
 - decent
+- successive
+- consecutive
+- slap
+- slam
+- jam
+- tuck
+- head-on
+- portion
 
 # three stars
 
@@ -87,10 +104,14 @@
 - sophisticated
 - tremendous
 - massive
+- chip
+- smash
+- keen
 
 # four stars
 
 - facility
 - cabinet
+- neighborhood
 
 # five stars

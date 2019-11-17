@@ -3771,3 +3771,45 @@ wardrobe
 
 decent
 - Decent is used to describe something which is considered to be of an acceptable standard or quality. 像样的
+
+---
+
+smashing
+- excellent or first-rate
+
+---
+
+fussy
+- 挑剔的
+  She is not fussy about her food. 
+  It's sort of like those fussy critics.
+
+---
+
+slum
+- 贫民区
+
+---
+
+cram
+- If you cram things or people into a container or place, you put them into it, although there is hardly enough room for them. 把…塞进
+  Terry crammed the dirty clothes into his bag. 
+  She crammed her mouth with caviar. 
+  that will be a lot more successful than trying to cram a lot of vocabulary words right away.
+
+---
+
+caviar
+- Caviar is the salted eggs of a fish called a sturgeon. 鱼子酱
+
+---
+
+tuck
+- If you tuck something somewhere, you put it there so that it is safe, comfortable, or neat. (为舒服或整齐) 把…塞入; 把…夹入
+
+---
+
+head-on
+- If two vehicles hit each other head-on, they hit each other with their fronts pointing toward each other. 迎面 (相撞)
+  The car collided head-on with a van. 
+  Their car was in a head-on collision with a truck. 
