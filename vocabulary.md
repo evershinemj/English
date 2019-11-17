@@ -3840,3 +3840,31 @@ flap
 defect
 - 缺陷
   He was born with a hearing defect. 
+
+---  
+
+ditch
+- A ditch is a long narrow channel cut into the ground at the side of a road or field. 道沟; 沟渠
+  Both vehicles ended up in a ditch. 
+- If you ditch something that you have or are responsible for, you abandon it or get rid of it, because you no longer want it. 丢弃
+  I decided to ditch the sofa bed.   
+
+---
+
+in a coma
+- 昏迷
+
+---
+
+hang in there
+- 坚持下去
+
+---
+
+show business
+- Show business is the entertainment industry of movies, theatre, and television. 娱乐业; 演艺业
+
+---
+
+cling to
+- If you cling to someone or something, you hold onto them tightly. 紧紧抓住

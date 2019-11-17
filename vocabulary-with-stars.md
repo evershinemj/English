@@ -45,6 +45,17 @@
 - cram
 - caviar
 - ramification
+- filthy
+- double standard
+- furrow
+- soda
+- coma
+- macho
+- hygiene
+- sanitation
+- khaki
+- show business
+- fluffy
 
 # two stars
 
@@ -98,6 +109,15 @@
 - initiate
 - flap
 - defect
+- bang
+- harsh
+- sip
+- dip
+- ditch
+- dizzy
+- freak
+- sue
+- cling
 
 # three stars
 
@@ -118,5 +138,8 @@
 - facility
 - cabinet
 - neighborhood
+- deficit
+- blow
+- refer to
 
 # five stars
