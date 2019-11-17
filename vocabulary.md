@@ -3546,3 +3546,16 @@ dart
 crooked
 - If you describe something as crooked, especially something that is usually straight, you mean that it is bent or twisted. 扭曲的
   The picture on the wall is crooked. 
+
+---
+
+the fount of sth
+- If you describe a person or thing as the fount of something, you are saying that they are an important 
+source or supply of it. 源泉
+  The fount of poetic inspiration is not to be found in an archive.
+
+---
+
+erudition
+- Erudition is great academic knowledge. 博学
+  I take this to be an undeniable fact, but this is easy for us to say - it's easy for us to say that it's Milton's memory which is the fount of so much of the poem's erudition.
