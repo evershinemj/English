@@ -3813,3 +3813,30 @@ head-on
 - If two vehicles hit each other head-on, they hit each other with their fronts pointing toward each other. 迎面 (相撞)
   The car collided head-on with a van. 
   Their car was in a head-on collision with a truck. 
+
+---
+
+initiative
+- 主动性
+  She was disappointed by his lack of initiative. 
+  But sometimes Western students have got more initiative to develop their own different way of thinking.
+  But they don't I don't know, it's just -there isn't enough initiative in the world, not many people do it.
+
+---
+
+pass for
+- 假扮
+
+--- 
+
+flap
+- If something such as a piece of cloth or paper flaps or if you flap it, it moves quickly up and down or from side to side. 使快速摆动; 快速摆动
+  Grey sheets flapped on the clothes line. 
+- If a bird or insect flaps its wings or if its wings flap, the wings move quickly up and down. 快速振动 (翅膀)  
+  When they are in the water, they dive and flap their wings.
+
+---
+
+defect
+- 缺陷
+  He was born with a hearing defect. 

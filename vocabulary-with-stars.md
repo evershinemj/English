@@ -44,6 +44,7 @@
 - slum
 - cram
 - caviar
+- ramification
 
 # two stars
 
@@ -94,6 +95,9 @@
 - tuck
 - head-on
 - portion
+- initiate
+- flap
+- defect
 
 # three stars
 
@@ -107,6 +111,7 @@
 - chip
 - smash
 - keen
+- initiative
 
 # four stars
 
