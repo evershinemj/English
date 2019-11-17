@@ -57,6 +57,10 @@
 - show business
 - fluffy
 - knob
+- alleviate
+- mitigate
+- freezer
+- fanatic
 
 # two stars
 
@@ -119,6 +123,8 @@
 - freak
 - sue
 - cling
+- couch
+- tack
 
 # three stars
 
