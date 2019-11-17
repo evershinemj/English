@@ -26,6 +26,7 @@
 - chilly
 - polio
 - polo
+- racket
 
 # two stars
 
@@ -53,6 +54,8 @@
 
 - drain
 - lobby
+- cricket
+- bat
 
 # four stars
 

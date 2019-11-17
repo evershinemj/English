@@ -3696,3 +3696,31 @@ polo
 
 hockey
 - 曲棍球
+
+---
+
+cricket
+- 板球
+  football, volleyball, cricket, maybe. Different games.
+  Can you explain the rules of cricket?
+
+---
+
+softball
+- Softball is a game similar to baseball, but played with a larger, softer ball. 垒球运动
+
+---
+
+water polo
+- Water polo is a game played in a swimming pool in which two teams of swimmers try to score goals with a ball. 水球
+
+---
+
+bat
+- A bat is a specially shaped piece of wood that is used for hitting the ball in baseball, softball, or cricket. (棒球、垒球或板球的) 球棒
+
+---
+
+racket
+- A racket is an oval-shaped bat with strings across it. Rackets are used in tennis, squash, and badminton. (网球、壁球、羽毛球等的) 球拍
+  Tennis rackets and balls are provided. 
