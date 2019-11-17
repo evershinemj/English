@@ -27,6 +27,8 @@
 - polio
 - polo
 - racket
+- lame
+- thrilled
 
 # two stars
 
@@ -51,6 +53,11 @@
 - hockey
 - reservoir
 - conservation
+- limp
+- cripple
+- handicap
+- faculty
+- manipulate
 
 # three stars
 
@@ -60,5 +67,7 @@
 - bat
 
 # four stars
+
+- facility
 
 # five stars

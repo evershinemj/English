@@ -3735,3 +3735,14 @@ reservoir
 conservation
 - Conservation is saving and protecting the environment. (对环境的) 保护
   And he was very much into natural history. Ok? He was into a place... conservation.
+
+---
+
+handicap
+- A handicap is a physical or mental disability. 残疾
+  He lost his leg when he was ten, but learned to overcome his handicap. 
+
+---
+
+thrilled
+- If someone is thrilled, they are extremely happy and excited about something. 狂喜的
