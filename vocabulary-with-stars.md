@@ -93,6 +93,7 @@
 - jumbo
 - knuckle
 - gadget
+- hunch
 
 # two stars
 
@@ -178,6 +179,7 @@
 - detain
 - appalling
 - presume
+- lump
 
 # three stars
 

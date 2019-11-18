@@ -4137,3 +4137,21 @@ blast
 
 belch
 - 打嗝
+
+---
+
+hunch
+- 直觉 If you have a hunch about something, you are sure that it is correct or true, even though you do not have any proof. 
+  I had a hunch that Susan and I would work well together. 
+  My hunch is he would like to get rid of this issue.
+  So what would your hunch be? How much? A million?
+
+---
+
+hunchback
+- A hunchback is someone who has a large lump on their back because their spine is curved. 驼背的人
+
+---
+
+lump
+- A lump of something is a solid piece of it. 块
