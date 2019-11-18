@@ -3890,3 +3890,37 @@ tack
 ---
 
 rule of thumb
+
+---
+
+bump
+- If you bump into something or someone, you accidentally hit them while you are moving. 撞上
+  They stopped walking and he almost bumped into them. 
+  She bumped her head against a low branch. 
+  Small children often cry after a minor bump. 
+
+---
+
+cast
+- The cast of a play or film is all the people who act in it. 全体演员
+  The show is very amusing and the cast is very good.
+  But then when you've got a film that's mostly British cast, people just go crazy.
+
+---
+
+cast your eyes/cast a look
+- If you cast your eyes or cast a look in a particular direction, you look quickly in that direction. 扫视
+  He cast a stern glance at the two men. 
+  I cast my eyes down briefly. 
+
+---
+
+cast a light/shadow
+- If something casts a light or shadow somewhere, it causes it to appear there. 投射
+  The moon cast a bright light over the garden. 
+
+---
+
+cast doubt on
+- To cast doubt on something means to cause people to be unsure about it. 使人生疑
+  The global downward market trend accelerated Thursday with two economic reports that cast doubt on the sustained vitality of the U.S.economic recovery. 

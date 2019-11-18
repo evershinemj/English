@@ -64,6 +64,11 @@
 - trendy
 - dab
 - finger tip
+- shovel
+- anguish
+- aggravate
+- appealing
+- engaging
 
 # two stars
 
@@ -130,6 +135,11 @@
 - tack
 - buck
 - mob
+- ordeal
+- choke
+- agony
+- bump
+- bump into
 
 # three stars
 
@@ -147,6 +157,10 @@
 - whip out/off
 - riot
 - tap
+- torture
+- aggressive
+- for the sake of
+- dump
 
 # four stars
 
@@ -156,5 +170,9 @@
 - deficit
 - blow
 - refer to
+- cast
+- cast your eyes/cast a look
+- cast a light/shadow
+- cast doubt on
 
 # five stars
