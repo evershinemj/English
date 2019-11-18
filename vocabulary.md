@@ -3924,3 +3924,33 @@ cast a light/shadow
 cast doubt on
 - To cast doubt on something means to cause people to be unsure about it. 使人生疑
   The global downward market trend accelerated Thursday with two economic reports that cast doubt on the sustained vitality of the U.S.economic recovery. 
+
+---
+
+obscene
+- lewd
+
+---
+
+scent
+- 香味
+  Flowers are chosen for their scent as well as their look. 
+
+---
+
+coarse
+- Coarse things have a rough texture because they consist of thick threads or large pieces. 粗糙的
+  a jacket made of very coarse cloth. 
+- 粗鲁的
+  The soldiers did not bother to moderate their coarse humour in her presence. 
+
+---
+
+transmit
+- When radio and television programmes, computer data, or other electronic messages are transmitted, they are sent from one place to another, using wires, radio waves, or satellites. 传播 (广播电视节目、计算机信息等)
+  The game was transmitted live. 
+  This is currently the most efficient way to transmit certain types of data like electronic mail.
+  Authorities say the couple also used short wave radio to take orders from Havana and to transmit information. 
+  How would I transmit it to anyone else? Through that love." 
+- If one person or animal transmits a disease to another, they have the disease and cause the other person or animal to have it. 传播 (疾病)
+  mosquitoes that transmit disease to humans.   

@@ -69,6 +69,7 @@
 - aggravate
 - appealing
 - engaging
+- obscene
 
 # two stars
 
@@ -140,6 +141,11 @@
 - agony
 - bump
 - bump into
+- scent
+- coarse
+- beam
+- a beam of light
+- transmit
 
 # three stars
 
