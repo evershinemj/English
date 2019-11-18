@@ -3988,3 +3988,41 @@ get over
 
 dumpster
 - A Dumpster is a large metal container for holding rubbish. 大型金属制垃圾桶
+
+---
+
+banner
+- A banner is a long strip of cloth with something written on it. Banners are usually attached to two poles and carried during a protest or rally. (游行或集合用的) 横幅
+
+---
+
+rally
+- A rally is a large public meeting that is held in order to show support for something such as a political party. 集会
+
+---
+
+strip
+- A strip of something such as paper, cloth, or food is a long, narrow piece of it. (纸、布或食物的) 条
+
+---
+
+spangle
+- Spangles are small pieces of shiny metal or plastic which are used to decorate clothing or hair. 闪光的饰片
+  robes that glittered with spangles. 
+
+---
+
+star-spangled
+- marked or decorated with stars 星光灿烂的
+  Our melodies give voice to the star-spangled night, to the first reddening of dawn.
+  The star- spangled splendor infuses you with a vigor that I have never seen. We are being caressed by waves and light. 
+
+---
+
+honor roll
+- 光荣榜
+
+---
+
+the Star-Spangled Banner
+- the national anthem (= song) of the US 《星条旗永不落》（美国国歌）

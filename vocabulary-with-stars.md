@@ -72,6 +72,7 @@
 - obscene
 - affectionate
 - herpes
+- recede
 
 # two stars
 
@@ -148,6 +149,8 @@
 - beam
 - a beam of light
 - transmit
+- banner
+- retrieve
 
 # three stars
 
@@ -169,6 +172,9 @@
 - aggressive
 - for the sake of
 - dump
+- rally
+- strip
+- retreat
 
 # four stars
 
@@ -183,5 +189,6 @@
 - cast a light/shadow
 - cast doubt on
 - roll
+- credit
 
 # five stars
