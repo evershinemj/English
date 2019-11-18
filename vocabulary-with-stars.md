@@ -91,6 +91,8 @@
 - dealership
 - weld
 - jumbo
+- knuckle
+- gadget
 
 # two stars
 
@@ -207,6 +209,7 @@
 - slim
 - circumstance
 - overnight
+- gear
 
 # four stars
 

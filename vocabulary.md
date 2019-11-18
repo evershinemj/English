@@ -4107,3 +4107,23 @@ Honolulu
 jumbo
 - Jumbo means very large; used mainly in advertising and in the names of products. 特大的
   a jumbo box of tissues. 
+
+---
+
+knuckle
+- Your knuckles are the rounded pieces of bone that form lumps on your hands where your fingers join your hands, and where your fingers bend. 指关节
+
+---
+
+gadget
+- A gadget is a small machine or device which does something useful. You sometimes refer to something as a gadget when you are suggesting that it is complicated and unnecessary. 小器械 (有时暗指复杂、不必要的东西)
+  ...sales of kitchen gadgets including toasters, kettles, and percolators. 
+
+---
+
+gear
+- The gear involved in a particular activity is the equipment or special clothing that you use. (用于特定活动的) 设备、服装
+
+---
+
+fishing gear
