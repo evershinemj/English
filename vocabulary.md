@@ -4059,3 +4059,12 @@ pound
   He pounded the table with his fist. 
   Somebody began pounding on the front door. 
 - If your heart is pounding, it is beating with an unusually strong and fast rhythm, usually because you are afraid. (心脏) 怦怦跳  
+
+---
+
+run into
+- If you run into problems or difficulties, you unexpectedly begin to experience them. 遇上
+- If you run into someone, you meet them unexpectedly. 撞见
+  He ran into Krettner in the corridor a few minutes later. 
+- If a vehicle runs into something, it accidentally hits it. 撞上  
+  The driver failed to negotiate a bend and ran into a tree. 

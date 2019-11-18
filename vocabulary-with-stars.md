@@ -161,6 +161,7 @@
 - canal
 - cemetery
 - civic
+- detain
 
 # three stars
 
@@ -188,6 +189,7 @@
 - surgery
 - ethnic
 - jury
+- appropriate
 
 # four stars
 
@@ -210,3 +212,4 @@
 # five stars
 
 - pound
+- run into
