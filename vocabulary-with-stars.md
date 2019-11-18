@@ -70,6 +70,7 @@
 - appealing
 - engaging
 - obscene
+- affectionate
 
 # two stars
 

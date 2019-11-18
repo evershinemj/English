@@ -3954,3 +3954,16 @@ transmit
   How would I transmit it to anyone else? Through that love." 
 - If one person or animal transmits a disease to another, they have the disease and cause the other person or animal to have it. 传播 (疾病)
   mosquitoes that transmit disease to humans.   
+
+---
+
+affecting
+- If you describe something such as a story or a piece of music as affecting, you think it is good because it makes you feel a strong emotion, especially sadness or pity. 感人的
+  an affecting drama about a woman with a terminal illness. 
+
+---
+
+affectionate
+- If you are affectionate, you show your love or fondness for another person in the way that you behave toward them. 显露感情的
+  They seemed devoted to each other and were openly affectionate. 
+  She gave her mother an affectionate hug.
