@@ -61,6 +61,9 @@
 - mitigate
 - freezer
 - fanatic
+- trendy
+- dab
+- finger tip
 
 # two stars
 
@@ -125,6 +128,8 @@
 - cling
 - couch
 - tack
+- buck
+- mob
 
 # three stars
 
@@ -140,6 +145,8 @@
 - keen
 - initiative
 - whip out/off
+- riot
+- tap
 
 # four stars
 

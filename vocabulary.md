@@ -3886,3 +3886,7 @@ cheap joke
 tack
 - 图钉
   He hammered a tack into the wall and hung the picture from it. 
+
+---
+
+rule of thumb

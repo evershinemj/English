@@ -2,3 +2,4 @@ resilient
 presume
 nailed it
 rot
+rule of thumb
