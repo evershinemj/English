@@ -75,6 +75,9 @@
 - recede
 - trivial
 - notify
+- colon
+- sloppy
+- jeopardy
 
 # two stars
 
@@ -153,6 +156,10 @@
 - transmit
 - banner
 - retrieve
+- ethic
+- canal
+- cemetery
+- civic
 
 # three stars
 
@@ -178,6 +185,8 @@
 - strip
 - retreat
 - surgery
+- ethnic
+- jury
 
 # four stars
 
