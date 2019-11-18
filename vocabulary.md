@@ -4046,3 +4046,16 @@ give sb a ring
 
 back up
 - support
+
+---
+
+terrier
+- A terrier is a small breed of dog. There are many different types of terrier. 小猎犬
+
+---
+
+pound
+- If you pound something or pound on it, you hit it with great force, usually loudly and repeatedly. 连续重击
+  He pounded the table with his fist. 
+  Somebody began pounding on the front door. 
+- If your heart is pounding, it is beating with an unusually strong and fast rhythm, usually because you are afraid. (心脏) 怦怦跳  

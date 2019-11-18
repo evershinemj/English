@@ -78,6 +78,7 @@
 - colon
 - sloppy
 - jeopardy
+- terrier
 
 # two stars
 
@@ -207,3 +208,5 @@
 - give sb a ring
 
 # five stars
+
+- pound
