@@ -210,6 +210,7 @@
 - circumstance
 - overnight
 - gear
+- blast
 
 # four stars
 

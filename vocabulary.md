@@ -4127,3 +4127,13 @@ gear
 ---
 
 fishing gear
+
+---
+
+blast
+- A blast is a big explosion, especially one caused by a bomb. (尤指炸弹引起的) 大爆炸
+
+---
+
+belch
+- 打嗝
