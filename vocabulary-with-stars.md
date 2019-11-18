@@ -73,6 +73,8 @@
 - affectionate
 - herpes
 - recede
+- trivial
+- notify
 
 # two stars
 
@@ -175,6 +177,7 @@
 - rally
 - strip
 - retreat
+- surgery
 
 # four stars
 
@@ -190,5 +193,8 @@
 - cast doubt on
 - roll
 - credit
+- ring sb
+- ring up
+- give sb a ring
 
 # five stars

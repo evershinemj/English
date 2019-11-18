@@ -4026,3 +4026,18 @@ honor roll
 
 the Star-Spangled Banner
 - the national anthem (= song) of the US 《星条旗永不落》（美国国歌）
+
+---
+
+ring sb
+- When you ring someone, you telephone them. 给…打电话
+
+---
+
+ring up
+- Ring up means the same as ring. 给…打电话
+
+---
+
+give sb a ring
+- If you give someone a ring, you phone them. 
