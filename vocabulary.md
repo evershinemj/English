@@ -3967,3 +3967,24 @@ affectionate
 - If you are affectionate, you show your love or fondness for another person in the way that you behave toward them. 显露感情的
   They seemed devoted to each other and were openly affectionate. 
   She gave her mother an affectionate hug.
+
+---
+
+herpes
+- Herpes is a disease which causes painful red spots to appear on the skin. 疱疹
+
+---
+
+wired
+- If someone is wired, they are tense, nervous, and unable to relax. 紧张的; 不安的
+
+---
+
+get over
+- If you get over an unpleasant or unhappy experience or an illness, you recover from it. (从不快或疾病中) 恢复过来
+  It took me a very long time to get over the shock of her death. 
+
+---
+
+dumpster
+- A Dumpster is a large metal container for holding rubbish. 大型金属制垃圾桶

@@ -71,6 +71,7 @@
 - engaging
 - obscene
 - affectionate
+- herpes
 
 # two stars
 
@@ -181,5 +182,6 @@
 - cast your eyes/cast a look
 - cast a light/shadow
 - cast doubt on
+- roll
 
 # five stars

@@ -10,3 +10,4 @@ cast
 cast your eyes/cast a look
 cast a light/shadow
 cast doubt on
+get over
