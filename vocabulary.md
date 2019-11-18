@@ -4068,3 +4068,17 @@ run into
   He ran into Krettner in the corridor a few minutes later. 
 - If a vehicle runs into something, it accidentally hits it. 撞上  
   The driver failed to negotiate a bend and ran into a tree. 
+
+---
+
+neurotic
+- If you say that someone is neurotic, you mean that they are always frightened or worried about things that you consider unimportant. 神经过敏的
+
+---
+
+hose
+- 水管
+
+---
+
+garden hose

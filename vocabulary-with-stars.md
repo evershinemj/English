@@ -79,6 +79,14 @@
 - sloppy
 - jeopardy
 - terrier
+- slender
+- spooky
+- creepy
+- sneaky
+- pointless
+- abduct
+- neurotic
+- hose
 
 # two stars
 
@@ -162,6 +170,7 @@
 - cemetery
 - civic
 - detain
+- appalling
 
 # three stars
 
@@ -190,6 +199,8 @@
 - ethnic
 - jury
 - appropriate
+- slim
+- circumstance
 
 # four stars
 
