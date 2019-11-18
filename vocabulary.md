@@ -4082,3 +4082,28 @@ hose
 ---
 
 garden hose
+
+---
+
+dealership
+- A dealership is a company that sells cars, usually for one car company. 汽车销售公司
+
+---
+
+weld
+- 焊接
+
+---
+
+welder
+
+---
+
+Honolulu
+- 即“檀香山”，美国夏威夷州的首府和港市
+
+---
+
+jumbo
+- Jumbo means very large; used mainly in advertising and in the names of products. 特大的
+  a jumbo box of tissues. 

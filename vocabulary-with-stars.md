@@ -87,6 +87,10 @@
 - abduct
 - neurotic
 - hose
+- waffle
+- dealership
+- weld
+- jumbo
 
 # two stars
 
@@ -171,6 +175,7 @@
 - civic
 - detain
 - appalling
+- presume
 
 # three stars
 
@@ -201,6 +206,7 @@
 - appropriate
 - slim
 - circumstance
+- overnight
 
 # four stars
 
