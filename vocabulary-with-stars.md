@@ -96,6 +96,12 @@
 - hunch
 - ailment
 - banal
+- limerick
+- smuggler
+- pun
+- pancake
+- sterile
+- grenade
 
 # two stars
 
@@ -182,6 +188,8 @@
 - appalling
 - presume
 - lump
+- practically
+- scrub
 
 # three stars
 
@@ -215,6 +223,8 @@
 - overnight
 - gear
 - blast
+- spray
+- raw
 
 # four stars
 

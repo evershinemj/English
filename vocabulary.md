@@ -4195,3 +4195,19 @@ ailment
 banal
 - If you describe something as banal, you do not like it because you think it is so ordinary that it is not at all effective or interesting. 平庸乏味的
   The text is banal. 
+
+---
+
+practically
+- Practically means almost, but not completely or exactly. 几乎
+  He'd known the old man practically all his life. 
+
+---
+
+sterile
+- Something that is sterile is completely clean and free from germs. 无菌的
+
+---
+
+grenade
+- A grenade or a hand grenade is a small bomb that can be thrown by hand. 手榴弹
