@@ -206,6 +206,7 @@
 - pudding
 - compelling
 - ignorance
+- trillions of
 
 # three stars
 
@@ -265,6 +266,7 @@
 - ring up
 - give sb a ring
 - assume
+- stake
 
 # five stars
 

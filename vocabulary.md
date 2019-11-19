@@ -4287,3 +4287,16 @@ mow
 ---
 
 lawn mower
+
+---
+
+trillions of
+
+---
+
+baseball bat
+
+---
+
+raise the stakes
+- To increase the level of risk and/or potential reward in a particular situation. "Stakes" refers to one's level of involvement.
