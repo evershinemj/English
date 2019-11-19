@@ -4239,3 +4239,14 @@ pose
 ---
 
 compelling
+
+---
+
+emulate
+- If you emulate something or someone, you imitate them because you admire them a great deal. 效仿
+
+---
+
+fetish
+- ( usually disapproving ) the fact that a person spends too much time doing or thinking about a particular thing 迷恋；癖
+  She has a fetish about cleanliness. 

@@ -103,6 +103,8 @@
 - sterile
 - grenade
 - flashback
+- emulate
+- fetish
 
 # two stars
 
