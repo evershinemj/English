@@ -4211,3 +4211,31 @@ sterile
 
 grenade
 - A grenade or a hand grenade is a small bomb that can be thrown by hand. 手榴弹
+
+---
+
+flashback
+- In a film, novel, or play, a flashback is a scene that returns to events in the past. (电影、戏剧中的) 闪回镜头; (小说中的) 倒叙
+
+---
+
+proposition
+- A proposition is a statement or an idea that people can consider or discuss to decide whether it is true. 主张; 观点
+  The proposition that democracies do not fight each other is based on a tiny historical sample. 
+
+---
+
+pudding
+- ( BrE ) a sweet dish eaten at the end of a meal （餐末的）甜食，甜点
+- ( especially NAmE ) a cold dessert (= a sweet dish) like cream flavoured with fruit, chocolate, etc. 冷布丁（有水果、巧克力等口味）
+
+---
+
+pose
+- If something poses a problem or a danger, it is the cause of that problem or danger. 造成 (问题或危险)
+  This could pose a threat to jobs in the coal industry. 
+- If you pose a question, you ask it. If you pose an issue that needs considering, you mention the issue. 提出 (问题)  
+
+---
+
+compelling

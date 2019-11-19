@@ -102,6 +102,7 @@
 - pancake
 - sterile
 - grenade
+- flashback
 
 # two stars
 
@@ -190,6 +191,9 @@
 - lump
 - practically
 - scrub
+- proposition
+- pudding
+- compelling
 
 # three stars
 
@@ -225,6 +229,10 @@
 - blast
 - spray
 - raw
+- pose
+- pose a question
+- pose an issue
+- pose a threat
 
 # four stars
 
