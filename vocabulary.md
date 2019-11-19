@@ -4155,3 +4155,32 @@ hunchback
 
 lump
 - A lump of something is a solid piece of it. 块
+
+---
+
+hold up
+- To hold up a person or process means to make them late or delay them. 耽搁
+  Why were you holding everyone up? 
+
+---
+
+break into
+
+---
+
+break down
+- If a machine or a vehicle breaks down, it stops working. (机器、车辆等) 出故障
+  Their car broke down. 
+- If a discussion, relationship, or system breaks down, it fails because of a problem or disagreement. (讨论、关系) 失败; (系统) 瘫痪
+  Talks with business leaders broke down last night. 
+
+---
+
+not to mention
+
+---
+
+much less
+- not to mention. And especially not; and even less so. The phrase is used to indicate that something is especially not the case, even less so than what was previously mentioned. 
+  We don't have enough money for new car, much less a luxury SUV. 
+  He barely looked at me, much less smiled.

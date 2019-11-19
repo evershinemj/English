@@ -236,3 +236,5 @@
 
 - pound
 - run into
+- break into
+- break down
