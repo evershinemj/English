@@ -110,6 +110,10 @@
 - karate
 - daytime
 - daytime television
+- rancher
+- mow
+- lawn mower
+- whiff
 
 # two stars
 
@@ -201,6 +205,7 @@
 - proposition
 - pudding
 - compelling
+- ignorance
 
 # three stars
 
@@ -240,6 +245,7 @@
 - pose a question
 - pose an issue
 - pose a threat
+- premium
 
 # four stars
 
@@ -258,6 +264,7 @@
 - ring sb
 - ring up
 - give sb a ring
+- assume
 
 # five stars
 

@@ -4268,3 +4268,22 @@ daytime
 ---
 
 daytime television
+
+---
+
+rancher
+- A rancher is someone who owns or manages a large farm, especially one used for raising cattle, horses, or sheep. 农场主
+
+---
+
+water cooler
+- A water cooler is a machine that dispenses drinking water, especially in an office. (尤指办公室里的)饮水机
+
+---
+
+mow
+- If you mow an area of grass, you cut it using a machine called a lawn mower. (用割草机) 割草
+
+---
+
+lawn mower
