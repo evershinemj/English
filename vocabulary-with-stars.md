@@ -94,6 +94,8 @@
 - knuckle
 - gadget
 - hunch
+- ailment
+- banal
 
 # two stars
 

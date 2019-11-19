@@ -4184,3 +4184,14 @@ much less
 - not to mention. And especially not; and even less so. The phrase is used to indicate that something is especially not the case, even less so than what was previously mentioned. 
   We don't have enough money for new car, much less a luxury SUV. 
   He barely looked at me, much less smiled.
+
+---
+
+ailment
+- An ailment is an illness, especially one that is not very serious. 小病
+
+---
+
+banal
+- If you describe something as banal, you do not like it because you think it is so ordinary that it is not at all effective or interesting. 平庸乏味的
+  The text is banal. 
