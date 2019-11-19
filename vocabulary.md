@@ -4250,3 +4250,21 @@ emulate
 fetish
 - ( usually disapproving ) the fact that a person spends too much time doing or thinking about a particular thing 迷恋；癖
   She has a fetish about cleanliness. 
+
+---
+
+karate
+- 空手道
+
+---
+
+daytime
+- 白天
+  In the daytime he stayed up in his room, sleeping, or listening to music. 
+  You don't often see this bird in (the) daytime.
+  The park is open during (the) daytime. 
+- 日间的 Daytime television and radio is broadcast during the morning and afternoon on weekdays.
+  
+---
+
+daytime television

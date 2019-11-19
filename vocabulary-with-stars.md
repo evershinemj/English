@@ -105,6 +105,11 @@
 - flashback
 - emulate
 - fetish
+- disgruntled
+- grumpy
+- karate
+- daytime
+- daytime television
 
 # two stars
 
