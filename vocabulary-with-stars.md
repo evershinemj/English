@@ -124,6 +124,10 @@
 - snub
 - rebuff
 - jeopardize
+- rinse
+- launder
+- death penalty
+- capital punishment
 
 # two stars
 
@@ -225,6 +229,7 @@
 - carriage
 - magnificent
 - toll
+- hazard
 
 # three stars
 
@@ -266,6 +271,8 @@
 - pose a threat
 - premium
 - spectacular
+- crack
+- penalty
 
 # four stars
 
@@ -286,6 +293,7 @@
 - give sb a ring
 - assume
 - stake
+- ally
 
 # five stars
 

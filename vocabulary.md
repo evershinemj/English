@@ -4410,3 +4410,17 @@ imperil
 jeopardize
 - To jeopardize a situation or activity means to do something that may destroy it or cause it to fail. 损害; 危及
   He has jeopardized his future career. 
+
+---
+
+drug dealer
+
+--- 
+
+launder
+- To launder money that has been obtained illegally means to process it through a legitimate business or to send it abroad to a foreign bank, so that when it comes back nobody knows that it was illegally obtained. 洗 (钱)
+
+---
+
+capital punishment
+- death penalty
