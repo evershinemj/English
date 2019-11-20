@@ -4373,3 +4373,40 @@ mumble
 - If you mumble, you speak very quietly and not at all clearly with the result that the words are difficult to understand. 咕哝
   He mumbled a few words. 
   I think the main difference is Australians tend to mumble a little bit and to draw out their vowels.
+
+---
+
+rebuff
+- If you rebuff someone or rebuff a suggestion that they make, you refuse to do what they suggest. 拒绝
+  His proposals have already been rebuffed by the governor. 
+
+---
+
+toll
+- A toll is a sum of money that you have to pay in order to use a particular bridge or road. (桥梁或道路的) 通行费
+  You can pay a toll to drive on Pike's Peak Highway or relax and take the Pike's Peak Cog Railway. 
+- A toll is a total number of deaths, accidents, or disasters that occur in a particular period of time. (死亡、事故或灾难的) 总数
+  There are fears that the casualty toll may be higher. 
+
+---
+
+death toll
+- The death toll of an accident, disaster, or war is the number of people who die in it. 死亡人数
+  The death toll continues to rise from yesterday's earthquake. 
+
+---
+
+peril
+- Perils are great dangers. 极大危险
+
+---
+
+imperil
+- Something that imperils you puts you in danger. 危及; 使陷于危险
+  You imperilled the lives of other road users by your driving. 
+
+---
+
+jeopardize
+- To jeopardize a situation or activity means to do something that may destroy it or cause it to fail. 损害; 危及
+  He has jeopardized his future career. 

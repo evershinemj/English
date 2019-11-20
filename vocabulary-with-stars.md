@@ -119,6 +119,11 @@
 - mumble
 - fumble
 - U-turn
+- death toll
+- peril
+- snub
+- rebuff
+- jeopardize
 
 # two stars
 
@@ -219,6 +224,7 @@
 - splendid
 - carriage
 - magnificent
+- toll
 
 # three stars
 
