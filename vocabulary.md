@@ -4314,3 +4314,28 @@ spectacular
 ---
 
 U-turn
+
+---
+
+clobber
+- If you clobber someone, you hit them. 击打
+  Hillary clobbered him with a vase. 
+
+---
+
+splendid
+- If you say that something is splendid, you mean that it is very good. 极好的
+  The book includes a wealth of splendid photographs. 
+  He invaded and he was clobbered, and then you read the splendid story Herodotus tells of how he was captured.
+  He is a house-servant, first-rate cook, and splendid carriage driver.
+
+---
+
+carriage
+- 马车
+  He would leave the carriage behind, dismissing carriage drivers who were more well-dressed than he was and his guards.
+
+---
+
+magnificent
+- splendid in appearance

@@ -216,6 +216,9 @@
 - tumble
 - crumble
 - stumble
+- splendid
+- carriage
+- magnificent
 
 # three stars
 
