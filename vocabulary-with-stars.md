@@ -114,6 +114,11 @@
 - mow
 - lawn mower
 - whiff
+- paranoia
+- rumble
+- mumble
+- fumble
+- U-turn
 
 # two stars
 
@@ -207,6 +212,10 @@
 - compelling
 - ignorance
 - trillions of
+- distinct
+- tumble
+- crumble
+- stumble
 
 # three stars
 
@@ -247,6 +256,7 @@
 - pose an issue
 - pose a threat
 - premium
+- spectacular
 
 # four stars
 
