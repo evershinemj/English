@@ -4339,3 +4339,37 @@ carriage
 
 magnificent
 - splendid in appearance
+
+---
+
+tumble
+- If someone or something tumbles somewhere, they fall there with a rolling or bouncing movement. 摔倒
+  A small boy tumbled off the porch. 
+
+---
+
+crumble
+- If something crumbles, or if you crumble it, it breaks into a lot of small pieces. 碎裂; 弄碎
+  And the Aristotelian view held for a long time, but eventually it started to crumble in the light of more data.
+  Under the pressure, the flint crumbled into fragments. 
+
+---
+
+stumble
+- If you stumble, you put your foot down awkwardly while you are walking or running and nearly fall over. 踉跄; 绊脚
+  He stumbled and almost fell. 
+
+---
+
+fumble
+- ~ (at/with/in sth) (for sth)~ (around) to use your hands in an awkward way when you are doing sth or looking for sth 笨手笨脚地做（某事）；胡乱摸找（某物）
+  She fumbled in her pocket for a handkerchief.
+  He fumbled with the buttons on his shirt. 
+  She was fumbling around in the dark looking for the light switch.
+
+---
+
+mumble
+- If you mumble, you speak very quietly and not at all clearly with the result that the words are difficult to understand. 咕哝
+  He mumbled a few words. 
+  I think the main difference is Australians tend to mumble a little bit and to draw out their vowels.
