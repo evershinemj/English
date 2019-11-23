@@ -4509,3 +4509,24 @@ cerebral
 
 additive
 - An additive is a substance which is added in small amounts to foods or other things in order to improve them or to make them last longer. 添加剂
+
+---
+
+obstruct
+- If something obstructs a road or path, it blocks it, stopping people or vehicles getting past. 阻塞
+  A knot of black and white cars obstructed the intersection. 
+
+---
+
+hedge
+- A hedge is a row of bushes or small trees, usually along the edge of a lawn, garden, field, or road. 树篱
+
+---
+
+barricade
+- A barricade is a line of vehicles or other objects placed across a road or open space to stop people from getting past, for example, during street fighting or as a protest. 街垒; 路障
+
+---
+
+outing
+- An outing is a short trip, usually with a group of people, away from your home, school, or place of work. (常指集体的) 短途旅行; 外出

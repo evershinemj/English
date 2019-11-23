@@ -143,6 +143,11 @@
 - cortex
 - cerebral
 - celestial
+- additive
+- chemical additive
+- dehydrate
+- obstruct
+- graceful
 
 # two stars
 
@@ -257,6 +262,9 @@
 - cabin
 - canal
 - shiver
+- knot
+- hedge
+- barricade
 
 # three stars
 
@@ -302,6 +310,7 @@
 - penalty
 - inch
 - rail
+- fence
 
 # four stars
 
