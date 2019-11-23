@@ -4773,3 +4773,26 @@ garbanzo
 
 kumquats
 - 金橘
+
+---
+
+chow
+- Food can be referred to as chow.
+  Help yourself to some chow. 
+
+---
+
+larva
+- A larva is an insect at the stage of its life after it has developed from an egg and before it changes into its adult form. 幼虫  
+
+---
+
+dolly
+- A dolly is a child's word for a doll.
+
+---
+
+come in handy
+- If something comes in handy, it is useful in a particular situation. 派上用场
+  Those mnemonics sometimes come in handy. All right. 
+  Some of you are probably going to be doctors and you don't know why I'm going to do special relativity or quantum mechanics, but you don't know when it will come in handy.
