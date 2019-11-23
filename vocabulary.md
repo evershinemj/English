@@ -4753,3 +4753,23 @@ whatsoever
 
 succotash
 - a mixture of cooked sweet corn kernels and lima beans, served as a vegetable 豆煮玉米
+
+---
+
+baloney
+- 熏肠
+
+---
+
+deli
+- 熟食店
+
+---
+
+garbanzo
+- 鹰嘴豆
+
+---
+
+kumquats
+- 金橘
