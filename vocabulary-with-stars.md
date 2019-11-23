@@ -1,5 +1,13 @@
 # one star
 
+- cashier
+- hog
+- castrate
+- sap
+- blister
+- beige
+- artificial sweetener
+- sweetener
 - oar
 - on death row
 - muffle
@@ -164,6 +172,11 @@
 
 # two stars 
 
+- vaccine
+- peach
+- British colony
+- a colony of
+- colony
 - row a boat
 - hop
 - ammunition
@@ -348,6 +361,10 @@
 
 # four stars
 
+- shot
+- mass unemployment
+- a mass of
+- mass
 - ride
 - downtown
 - facility

@@ -4631,3 +4631,84 @@ sweetener
 - Sweetener is an artificial substance that can be used in drinks instead of sugar. 甜味剂
   Mint and verbena are safe, tasty choices that don't require a lot of sweetener. 
   Honey was not only the first sweetener, it was also among the first preservatives. 
+
+---
+
+a mass of
+- A mass of things is a large number of them grouped together. 一堆
+  On his desk is a mass of books and papers. 
+- A mass of something is a large amount of it. 许多
+  She had a mass of auburn hair. 
+
+---
+
+mass
+- ADJ Mass is used to describe something which involves or affects a very large number of people. 人数众多的
+  ideas on combating mass unemployment.
+  All the lights went off, and mass hysteria broke out. 
+
+---
+
+blister
+- A blister is a painful swelling on the surface of your skin. Blisters contain a clear liquid and are usually caused by heat or by something repeatedly rubbing your skin. (皮肤上的) 水疱
+- When your skin blisters or when something blisters it, blisters appear on it. 使起水疱; 起水疱
+  The affected skin turns red and may blister. 
+  The sap of this plant blisters the skin.   
+
+---
+
+Naples
+- 那不勒斯。 意大利南部的第一大城市。仅次于米兰和罗马的意大利第三大都会区
+
+---
+
+colony
+- A colony is a country which is controlled by a more powerful country. 殖民地
+  The American people, well, America used to be a British colony.
+  This is also -I keep thinking how British we are; this is New England and this is the United States, a former British colony.
+  We know that the first colony that the Greeks established was in the Bay of Naples on the island of Ischia.
+  Somebody in one of the old Greek cities has to decide that he wants to go out and establish a colony.
+
+---
+
+a colony of
+- A colony of birds, insects, or animals is a group of them that live together. 
+  The islands are famed for their colonies of sea birds. 
+
+---
+
+British colony
+
+---
+
+castrate
+- To castrate a male animal or a man means to remove his testicles. 阉割
+  In the ancient world, it was probably rare to castrate a dog or cat. 
+
+---
+
+hog
+- If you hog something, you take all of it in a greedy or impolite way. 独占
+  Are you done hogging the bathroom? 
+  Likewise, the element that is a good electron acceptor in an electron transfer reaction is going to be the element that is going to hog the electrons in a covalent bond.
+- A hog is a pig.
+  But hog is a term commonly used for any swine, especially a domesticated adult pig. 
+  Now speaking of the British, they call a castrated male pig a hog.
+
+---
+
+swine
+- If you call someone a swine, you dislike them or think that they are a bad person, usually because they have behaved unpleasantly toward you.
+- A swine is a pig. 猪
+
+--- 
+
+give it a shot
+- 试试看
+  All right? So I've created this function let's give it a shot and see what happens.
+  A few nights later, he asked to watch part two, and after some hesitation, I decided to give it a shot.
+  He liked to do everything himself or at least give it a shot.
+
+---
+
+cashier
