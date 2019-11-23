@@ -148,6 +148,10 @@
 - dehydrate
 - obstruct
 - graceful
+- pastime
+- glum
+- predicament
+- genteel
 
 # two stars
 
@@ -265,6 +269,12 @@
 - knot
 - hedge
 - barricade
+- recreation
+- fatigue
+- ham
+- cannon
+- nasty
+- tilt
 
 # three stars
 
@@ -311,6 +321,8 @@
 - inch
 - rail
 - fence
+- gross
+- lean
 
 # four stars
 

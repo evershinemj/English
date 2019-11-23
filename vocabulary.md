@@ -4530,3 +4530,41 @@ barricade
 
 outing
 - An outing is a short trip, usually with a group of people, away from your home, school, or place of work. (常指集体的) 短途旅行; 外出
+
+---
+
+ham
+- Ham is meat from the top of the back leg of a pig, specially treated so that it can be kept for a long period of time. 火腿
+
+---
+
+cannon
+- 大炮
+
+---
+
+glum
+- Someone who is glum is sad and quiet because they are disappointed or unhappy about something. 闷闷不乐的
+
+---
+
+teeny
+- tiny
+
+---
+
+genteel
+- A genteel person is respectable and well-mannered, and comes or seems to come from a high social class. 有教养的
+
+---
+
+whine
+- If something or someone whines, they make a long, high-pitched noise, especially one that sounds sad or unpleasant. 哀鸣
+  He could hear her dog barking and whining in the background. 
+- If someone whines, they complain in an annoying way about something unimportant. (为小事) 令人厌烦地抱怨
+  They come to me to whine about their troubles. 
+
+---
+
+moan
+- If you moan, you make a low sound, usually because you are unhappy or in pain. 呻吟
