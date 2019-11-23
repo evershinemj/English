@@ -1,5 +1,7 @@
 # one star
 
+- oar
+- on death row
 - muffle
 - bandage
 - hunk
@@ -158,9 +160,13 @@
 - blockbuster
 - munch
 - pod
+- blemish
 
-# two stars
+# two stars 
 
+- row a boat
+- hop
+- ammunition
 - sprinkle
 - flesh
 - dart
@@ -288,6 +294,8 @@
 
 # three stars
 
+- in a row
+- upper
 - drain
 - lobby
 - cricket
@@ -340,6 +348,8 @@
 
 # four stars
 
+- ride
+- downtown
 - facility
 - cabinet
 - neighborhood

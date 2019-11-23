@@ -4603,3 +4603,31 @@ crunch
 
 pod
 - 豆荚
+
+---
+
+ride
+- A ride is a trip on a horse or bicycle, or in a vehicle.
+
+---
+
+on death row
+- If someone is on death row, they are in the part of a prison which contains the cells for criminals who have been sentenced to death. 死囚区
+
+---
+
+crackle
+- If something crackles, it makes a rapid series of short, harsh noises. 发出连续急促刺耳的声音; 发劈啪声
+  The radio crackled again. 
+
+---
+
+in a row
+- If something happens several times in a row, it happens that number of times without a break. If something happens several days in a row, it happens on each of those days. 连续地
+
+---
+
+sweetener
+- Sweetener is an artificial substance that can be used in drinks instead of sugar. 甜味剂
+  Mint and verbena are safe, tasty choices that don't require a lot of sweetener. 
+  Honey was not only the first sweetener, it was also among the first preservatives. 
