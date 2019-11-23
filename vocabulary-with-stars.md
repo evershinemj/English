@@ -135,6 +135,9 @@
 - tentacle
 - squid
 - conserve
+- harp
+- blizzard
+- ashtray
 
 # two stars
 
@@ -241,6 +244,14 @@
 - custody
 - scrape
 - setting
+- massage
+- tray
+- stray
+- stray dog/cat
+- hut
+- cabin
+- canal
+- shiver
 
 # three stars
 
@@ -308,6 +319,7 @@
 - stake
 - ally
 - save up
+- trip up
 
 # five stars
 

@@ -4464,3 +4464,24 @@ at one sitting/in one sitting
 - COMMON If you do something at one sitting or in one sitting, you do not stop doing it until you have finished it. 
   He sometimes reads a whole novel at one sitting. 
   She can go through a whole box of cookies in one sitting.
+
+---
+
+stray
+- If someone strays somewhere, they wander away from where they are supposed to be. 走失
+  Tourists often get lost and stray into dangerous areas. 
+
+---
+
+stray dog/cat
+- A stray dog or cat has wandered away from its owner's home. 走失的 (狗或猫)
+
+---
+
+hut
+- A hut is a small house with only one or two rooms, especially one which is made of wood, mud, grass, or stones. (木头、泥、草或石头搭成的) 小屋
+
+---
+
+trip up
+- 绊倒
