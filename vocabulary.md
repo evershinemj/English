@@ -4424,3 +4424,30 @@ launder
 
 capital punishment
 - death penalty
+
+---
+
+railing
+- A fence made from metal bars is called a railing or railings. (金属的) 栏杆
+  He walked out on to the balcony where he rested his arms on the railing. 
+
+---
+
+handrail
+- A handrail is a long piece of metal or wood which is attached near stairs or places where people could slip and fall, and which people can hold on to for support. (楼梯等的)栏杆; 扶手
+
+---
+
+scrape
+- If you scrape something from a surface, you remove it, especially by pulling a sharp object over the surface. 刮掉
+  She went around the car scraping the frost off the windows. 
+- If you scrape a part of your body, you accidentally rub it against something hard and rough, and damage it slightly. 擦伤
+  She stumbled and fell, scraping her palms and knees. 
+
+---
+
+conserve
+- If you conserve a supply of something, you use it carefully so that it lasts for a long time. 节省
+  The factories have closed for the weekend to conserve energy. 
+- To conserve something means to protect it from harm, loss, or change. 保护
+  a big increase in U.S. aid to help developing countries conserve their forests.   

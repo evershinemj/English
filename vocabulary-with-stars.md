@@ -128,6 +128,13 @@
 - launder
 - death penalty
 - capital punishment
+- confiscate
+- traumatize
+- traumatic
+- tangible
+- tentacle
+- squid
+- conserve
 
 # two stars
 
@@ -230,6 +237,9 @@
 - magnificent
 - toll
 - hazard
+- conspiracy
+- custody
+- scrape
 
 # three stars
 
@@ -273,6 +283,8 @@
 - spectacular
 - crack
 - penalty
+- inch
+- rail
 
 # four stars
 
@@ -294,6 +306,7 @@
 - assume
 - stake
 - ally
+- save up
 
 # five stars
 
