@@ -138,6 +138,11 @@
 - harp
 - blizzard
 - ashtray
+- round trip
+- round-trip ticket
+- cortex
+- cerebral
+- celestial
 
 # two stars
 
@@ -320,6 +325,8 @@
 - ally
 - save up
 - trip up
+- slip
+- spokesman
 
 # five stars
 

@@ -4485,3 +4485,27 @@ hut
 
 trip up
 - 绊倒
+
+---
+
+round trip
+- If you make a round trip, you travel to a place and then back again. 往返旅行
+
+---
+
+round-trip ticket
+
+---
+
+slip
+- If you slip, you accidentally slide and lose your balance. 滑; 滑倒
+
+---
+
+cerebral
+- Cerebral means relating to the brain. 大脑的
+
+---
+
+additive
+- An additive is a substance which is added in small amounts to foods or other things in order to improve them or to make them last longer. 添加剂
