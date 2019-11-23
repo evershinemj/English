@@ -4450,4 +4450,17 @@ conserve
 - If you conserve a supply of something, you use it carefully so that it lasts for a long time. 节省
   The factories have closed for the weekend to conserve energy. 
 - To conserve something means to protect it from harm, loss, or change. 保护
-  a big increase in U.S. aid to help developing countries conserve their forests.   
+  a big increase in U.S. aid to help developing countries conserve their forests. 
+
+---
+
+setting
+- A particular setting is a particular place or type of surroundings where something is or takes place. (事件发生的) 背景; 地点
+  Rome is the perfect setting for romance. 
+
+---
+
+at one sitting/in one sitting
+- COMMON If you do something at one sitting or in one sitting, you do not stop doing it until you have finished it. 
+  He sometimes reads a whole novel at one sitting. 
+  She can go through a whole box of cookies in one sitting.
