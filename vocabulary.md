@@ -4568,3 +4568,38 @@ whine
 
 moan
 - If you moan, you make a low sound, usually because you are unhappy or in pain. 呻吟
+
+---
+
+bay
+- A bay is a part of a coast where the land curves inward. 海湾
+  a short ferry ride across the bay. 
+
+---
+
+pier
+- A pier is a platform sticking out into water that people walk along or use when getting onto or off boats. 凸式码头
+
+---
+
+sensation
+- A sensation is a physical feeling. 感觉
+  Floating can be a very pleasant sensation. 
+- You can use sensation to refer to the general feeling or impression caused by a particular experience. (某种经历所产生的) 整体感觉
+  It's a funny sensation to know someone's talking about you in a language you don't understand.   
+
+---
+
+munch
+- If you munch food, you eat it by chewing it slowly, thoroughly, and rather noisily. 大声咀嚼
+  Luke munched the chicken sandwiches. 
+
+---
+
+crunch
+- If something crunches or if you crunch it, it makes a breaking or crushing noise, for example, when you step on it. 嘎吱嘎吱地碾或踩 (某物); 发出嘎吱声
+
+---
+
+pod
+- 豆荚

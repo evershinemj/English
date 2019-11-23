@@ -152,6 +152,12 @@
 - glum
 - predicament
 - genteel
+- strangle
+- rust
+- rusty
+- blockbuster
+- munch
+- pod
 
 # two stars
 
@@ -275,6 +281,10 @@
 - cannon
 - nasty
 - tilt
+- grief
+- dock
+- sensation
+- crunch
 
 # three stars
 
@@ -323,6 +333,10 @@
 - fence
 - gross
 - lean
+- bay
+- harbor
+- deck
+- port
 
 # four stars
 
