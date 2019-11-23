@@ -1,5 +1,6 @@
 # one star
 
+- jaunty
 - cashier
 - hog
 - castrate
@@ -172,6 +173,8 @@
 
 # two stars 
 
+- whatsoever
+- graze
 - vaccine
 - peach
 - British colony
@@ -396,3 +399,5 @@
 - run into
 - break into
 - break down
+- go out
+- come across

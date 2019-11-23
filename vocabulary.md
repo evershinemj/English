@@ -4712,3 +4712,44 @@ give it a shot
 ---
 
 cashier
+
+---
+
+superlative
+- If you describe something as superlative, you mean that it is extremely good. 极好的
+  Some superlative wines are made in this region. 
+  But nevertheless Aristotle understands that a person this pambasileia this person of superlative virtue is not really to be expected.
+
+---
+
+jaunty
+- If you describe someone or something as jaunty, you mean that they are full of confidence and energy.
+
+---
+
+Guatemala
+- 危地马拉。中美洲的一个总统共和制国家，位于北美洲大陆的南部，中美洲西北部，西部和北部与墨西哥、东北与伯利兹、东南与洪都拉斯和萨尔瓦多接壤，东临加勒比海的洪都拉斯湾，南濒太平洋
+
+---
+
+graze
+- When animals graze or are grazed, they eat the grass or other plants that are growing in a particular place. You can also say that a field is grazed by animals. 放牧 (牛、羊等); (牛、羊等) 吃草
+  Five cows graze serenely around a massive oak. 
+  Several horses grazed the meadowland. 
+  Sheep and cattle graze on the hillsides. 
+
+---
+
+go out
+- If a light goes out, it stops shining. (灯) 熄灭
+  The bedroom light went out after a moment. 
+
+---
+
+whatsoever
+- You use whatsoever after a noun group in order to emphasize a negative statement.
+
+---
+
+succotash
+- a mixture of cooked sweet corn kernels and lima beans, served as a vegetable 豆煮玉米
