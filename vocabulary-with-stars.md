@@ -1,5 +1,6 @@
 # one star
 
+- trot
 - dolly
 - jelly
 - larva
@@ -176,6 +177,11 @@
 
 # two stars 
 
+- eyebrow
+- ridge
+- a bundle
+- bundle
+- procession
 - whatsoever
 - graze
 - vaccine
@@ -313,6 +319,10 @@
 
 # three stars
 
+- bunch
+- crack down on
+- revenue
+- tournament
 - in a row
 - upper
 - drain
@@ -367,6 +377,7 @@
 
 # four stars
 
+- stick out
 - shot
 - mass unemployment
 - a mass of
@@ -398,9 +409,11 @@
 
 # five stars
 
+- line up
 - pound
 - run into
 - break into
 - break down
 - go out
 - come across
+- pass for

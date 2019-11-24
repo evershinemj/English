@@ -4796,3 +4796,57 @@ come in handy
 - If something comes in handy, it is useful in a particular situation. 派上用场
   Those mnemonics sometimes come in handy. All right. 
   Some of you are probably going to be doctors and you don't know why I'm going to do special relativity or quantum mechanics, but you don't know when it will come in handy.
+
+---
+
+procession
+- A procession is a group of people who are walking, riding, or driving in a line as part of a public event. (行走、骑行、开车等的) 队伍
+
+---
+
+tournament
+- A tournament is a sports competition in which players who win a match continue to play further matches in the competition until just one person or team is left. 锦标赛
+
+---
+
+trot
+
+---
+
+revenue
+- Revenue is money that a company, organization, or government receives from people. (公司、组织或政府的) 收入
+
+---
+
+crack down (on sb/sth)
+- to try harder to prevent an illegal activity and deal more severely with those who are caught doing it 竭力取缔；严厉打击；镇压
+  Police are cracking down on drug dealers. 警方正在严厉打击毒品贩子。
+
+---
+
+bundle
+- A bundle of things is a number of them that are tied together or wrapped in a cloth or bag so that they can be carried or stored. 包; 捆; 束
+
+---
+
+a bundle
+- a large amount of money
+
+---
+
+jujube
+- 枣
+
+---
+
+beef jerky
+- 牛肉干
+
+---
+
+kitty
+- kitten
+
+---
+
+kitty cat
