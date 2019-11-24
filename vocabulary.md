@@ -4850,3 +4850,31 @@ kitty
 ---
 
 kitty cat
+
+---
+
+oops
+- You say "oops" to indicate that there has been a slight accident or mistake, or to apologize to someone for it. 哎哟
+  Oops, I heard-- Nice and loud please.
+  Oops, that I don't want to do.
+
+---
+
+fall over
+- If a person or object that is standing falls over, they accidentally move from their upright position so that they are then lying on the ground or on the surface supporting them. 倒下
+  If he drinks more than two glasses of wine he falls over. 
+  Six-month-olds don't, and even 12-month-olds don't find anything weird about this, while adults are sophisticated enough to understand that that's an unstable configuration and should fall over.
+
+---
+
+knock over
+- 打翻
+  It's the problem that sometimes people knock over an oil lamp in their home and they burn their own house down.
+  Oops-- I knock over the tower.
+
+---
+
+knock down
+- 撞倒
+  And my center of gravity is a little bit lower." "I feel like sometimes it is a little more difficult to knock me down.
+  So, the bowlers do their bowling and sometimes they knock down all the pins, which is called a what? A strike.

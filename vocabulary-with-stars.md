@@ -319,6 +319,8 @@
 
 # three stars
 
+- knock down
+- knock over
 - bunch
 - crack down on
 - revenue
@@ -409,6 +411,7 @@
 
 # five stars
 
+- fall over
 - line up
 - pound
 - run into
