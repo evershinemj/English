@@ -4878,3 +4878,115 @@ knock down
 - 撞倒
   And my center of gravity is a little bit lower." "I feel like sometimes it is a little more difficult to knock me down.
   So, the bowlers do their bowling and sometimes they knock down all the pins, which is called a what? A strike.
+
+---
+
+canister
+- A canister is a metal, plastic, or china container with a lid. It is used for storing food such as sugar and flour. (罐、盒等) 有盖容器
+  a canister of tea
+
+---
+
+blow your nose
+- When you blow your nose, you force air out of it through your nostrils in order to clear it. 擤 (鼻子)
+  He took out a handkerchief and blew his nose. 
+
+---
+
+scum
+- If you refer to people as scum, you are expressing your feelings of dislike and disgust for them. 令人厌恶的人
+- Scum is a layer of a dirty or unpleasant-looking substance on the surface of a liquid. (液体表面的) 浮垢
+  Virtue is invariably rewarded with glory and evil evil is always punished. In this amazing image, it's gathered like scum in some eternal cesspool ! where it's self-fed and self-consumed -- problem solved!
+
+---
+
+cesspit
+- A cesspit is a hole or tank in the ground into which waste water and sewage flow. 污水坑
+
+---
+
+cesspool
+- cesspit
+
+---
+
+scumbag
+- If you refer to someone as a scumbag, you are expressing your feelings of dislike and disgust for them. 人渣
+
+---
+
+snatch
+- If you snatch something or snatch at something, you take it or pull it away quickly. 迅速拿走; 夺取
+  He snatched up the telephone. 
+
+---
+
+slit   
+- If you slit something, you make a long narrow cut in it. 切开; 撕开
+  Then they slit open her stomach and took out the baby.
+
+---
+
+bum
+- 流浪汉
+  The bum's as holy as the seraphim!
+  Or if I decided to become an artist or a scholar or a beach bum or a farmer, how much better off or worse off would I have been?
+
+---
+
+seraph
+- pl. seraphim or seraphs 六翼天使
+
+---
+
+slash
+- If you slash something, you make a long, deep cut in it. 砍; 劈
+
+---
+
+gash
+- A gash is a long, deep cut in your skin or in the surface of something. 深长的切口
+
+---
+
+hump
+- A hump is a small hill or raised area. 小山丘
+- A camel's hump is the large lump on its back. 驼峰
+
+---
+
+rim
+- The rim of a container such as a cup or glass is the edge that goes all the way around the top. (容器的) 上缘
+- The rim of a circular object is its outside edge. (圆形物体的) 外缘; 外框
+
+---
+
+dagger
+- 匕首
+
+---
+
+whack
+- If you whack someone or something, you hit them hard. 重击
+  You really have to whack the ball. 
+
+---
+
+flog
+- If someone is flogged, they are hit very hard with a whip or stick as a punishment. 鞭打; 棒打
+
+---
+
+bust
+- ( bust bust )( bust·ed bust·ed ) If you bust something, you break it or damage it so badly that it cannot be used. 打碎
+  They will have to bust the door to get him out. 
+
+---
+
+boom and bust
+- 繁荣与萧条
+
+---
+
+clamp
+- a tool for holding things tightly together, usually by means of a screw 夹具；夹子；夹钳

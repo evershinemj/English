@@ -1,5 +1,15 @@
 # one star
 
+- whack
+- dagger
+- grope
+- hump
+- gash
+- bum
+- clam
+- beaver
+- scum
+- sling
 - trot
 - dolly
 - jelly
@@ -177,6 +187,11 @@
 
 # two stars 
 
+- clamp
+- boom and bust
+- bust
+- slash
+- snatch
 - eyebrow
 - ridge
 - a bundle
@@ -319,6 +334,7 @@
 
 # three stars
 
+- cheese
 - knock down
 - knock over
 - bunch
@@ -379,6 +395,8 @@
 
 # four stars
 
+- bar
+- burn down
 - stick out
 - shot
 - mass unemployment
