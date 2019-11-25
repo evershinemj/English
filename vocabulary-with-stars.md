@@ -1,5 +1,7 @@
 # one star
 
+- quail
+- pheasant
 - whack
 - dagger
 - grope
@@ -187,6 +189,8 @@
 
 # two stars 
 
+- rip
+- grill
 - clamp
 - boom and bust
 - bust

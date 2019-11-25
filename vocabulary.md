@@ -4990,3 +4990,27 @@ boom and bust
 
 clamp
 - a tool for holding things tightly together, usually by means of a screw 夹具；夹子；夹钳
+
+---
+
+bogus
+- If you describe something as bogus, you mean that it is not genuine. 伪造的
+  It's just some bogus language we made up that's kind of English-like, kind of look C-like now that you've seen this syntax, but it was just an arbitrary language.
+
+---
+
+bummer
+- If you say that something is a bummer, you mean that it is unpleasant or annoying. 郁闷; 心烦
+  Hawthorne had a bummer, I mean he--.
+  I had a bummer of a day. 
+  What a bummer! 
+
+---
+
+pheasant
+- 野鸡
+
+---
+
+quail
+- 鹌鹑
