@@ -5014,3 +5014,9 @@ pheasant
 
 quail
 - 鹌鹑
+
+---
+
+commission
+- v.n. If you commission something or commission someone to do something, you formally arrange for someone to do a piece of work for you. 委托
+  You can commission them to paint something especially for you. 

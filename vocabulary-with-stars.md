@@ -399,6 +399,7 @@
 
 # four stars
 
+- commission
 - bar
 - burn down
 - stick out
@@ -433,6 +434,7 @@
 
 # five stars
 
+- committee
 - fall over
 - line up
 - pound
