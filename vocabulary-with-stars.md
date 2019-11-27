@@ -1,5 +1,10 @@
 # one star
 
+- slop
+- overdo
+- molest
+- harass
+- counterfeit
 - quail
 - pheasant
 - whack
@@ -189,6 +194,15 @@
 
 # two stars 
 
+- cliff
+- swift
+- outrage
+- irritate
+- radar
+- harassment
+- ditch
+- groove
+- counsellor
 - rip
 - grill
 - clamp
@@ -338,6 +352,11 @@
 
 # three stars
 
+- cave
+- rage
+- consultant
+- consult
+- counsel
 - cheese
 - knock down
 - knock over
@@ -399,6 +418,7 @@
 
 # four stars
 
+- dress up
 - commission
 - bar
 - burn down
@@ -434,6 +454,7 @@
 
 # five stars
 
+- conference
 - committee
 - fall over
 - line up

@@ -5020,3 +5020,18 @@ quail
 commission
 - v.n. If you commission something or commission someone to do something, you formally arrange for someone to do a piece of work for you. 委托
   You can commission them to paint something especially for you. 
+
+---
+
+groove
+- A groove is a deep line cut into a surface. 凹槽
+
+---
+
+counterfeit
+- Counterfeit money, goods, or documents are not genuine, but have been made to look exactly like genuine ones in order to deceive people. 伪造的
+
+---
+
+slop
+- If liquid slops from a container or if you slop liquid somewhere, it comes out over the edge of the container, usually accidentally. 使溢出; 溢出
