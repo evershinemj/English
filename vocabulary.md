@@ -5035,3 +5035,80 @@ counterfeit
 
 slop
 - If liquid slops from a container or if you slop liquid somewhere, it comes out over the edge of the container, usually accidentally. 使溢出; 溢出
+
+---
+
+cuddle
+- If you cuddle someone, you put your arms around them and hold them close as a way of showing your affection. 搂抱; 拥抱; 怀抱
+
+---
+
+rectify
+- If you rectify something that is wrong, you change it so that it becomes correct or satisfactory. 矫正; 改正
+  Only an act of Congress could rectify the situation. 
+  You should rectify your error before it is too late.
+
+---
+
+funky
+- Funky jazz, blues, or pop music has a very strong, repeated bass part. 音低节奏强的 (爵士、布鲁斯、流行乐)
+
+---
+
+mole
+- A mole is a natural dark spot or small dark lump on someone's skin. 痣
+- A mole is a small animal with black fur that lives underground. 鼹鼠
+
+---
+
+bash
+- If someone bashes you, they attack you by hitting or punching you hard. whack 痛打
+
+---
+
+close in on
+- If a group of people close in on a person or place, they come nearer and nearer to them and gradually surround them. 包围
+
+---
+
+rear
+- The rear of something such as a building or vehicle is the back part of it.
+
+---
+
+tow
+- If one vehicle tows another, it pulls it along behind it. 拖
+
+---
+
+tow truck
+- A tow truck is a truck which is used to pull broken or damaged cars and other vehicles. 拖吊车
+
+---
+
+identify with
+- If you identify with someone or something, you feel that you understand them or their feelings and ideas. 理解; 认同
+  She would only play a role if she could identify with the character. 
+
+---
+
+scheduled
+- If something is scheduled to happen at a particular time, arrangements are made for it to happen at that time. 计划; 安排
+  The space shuttle had been scheduled to blast off at 04:38. 
+  A presidential election was scheduled for last December. 
+
+---
+
+duck
+- If you duck, you move your head or the top half of your body quickly downward to avoid something that might hit you, to avoid being seen, or to hide the expression on your face. 迅速低头; 猛然俯身
+
+---
+
+gargle
+- 漱口 
+
+---
+
+stomp
+- If you stomp somewhere, you walk there with very heavy steps, often because you are angry. 
+  Those things will ultimately keep us stronger and protect us better than any sort of effort to stomp out who we perceive as the bad guys

@@ -1,5 +1,20 @@
 # one star
 
+- stomp
+- omen
+- thorn
+- sill
+- capsule
+- moustache
+- animation
+- mole
+- funky
+- funk
+- paralyze
+- rectify the situation
+- rectify
+- refrain from
+- cuddle
 - slop
 - overdo
 - molest
@@ -194,6 +209,11 @@
 
 # two stars 
 
+- vet
+- duck
+- tow truck
+- tow
+- bash
 - cliff
 - swift
 - outrage
@@ -352,6 +372,10 @@
 
 # three stars
 
+- plunge
+- rear
+- snap
+- reckon    
 - cave
 - rage
 - consultant
@@ -418,6 +442,9 @@
 
 # four stars
 
+- tape
+- scheduled
+- identify with
 - dress up
 - commission
 - bar
@@ -454,6 +481,8 @@
 
 # five stars
 
+- close in on
+- keep from
 - conference
 - committee
 - fall over
