@@ -1,5 +1,26 @@
 # one star
 
+- inflated
+- detachment
+- detached
+- fusion
+- sensory
+- canopy
+- odor
+- apathy
+- yuppie
+- otter
+- ivy
+- tract
+- subject matter
+- hotline
+- obliging
+- pavilion
+- anti-Semitism
+- curtail
+- tickle
+- salad dressing
+- per capita
 - stomp
 - omen
 - thorn
@@ -209,6 +230,18 @@
 
 # two stars 
 
+- huh
+- crush
+- superficial
+- redundant
+- ivory
+- the elite
+- lipstick
+- cosmetics
+- census
+- trapped
+- automobile
+- bureau
 - vet
 - duck
 - tow truck
@@ -372,6 +405,14 @@
 
 # three stars
 
+- halt
+- objective
+- stock market
+- theme
+- historic
+- historical
+- trap
+- acre
 - plunge
 - rear
 - snap
@@ -442,6 +483,11 @@
 
 # four stars
 
+- car crash
+- crash
+- stock
+- institute
+- institution
 - tape
 - scheduled
 - identify with
@@ -481,6 +527,8 @@
 
 # five stars
 
+- come to terms with
+- figure
 - close in on
 - keep from
 - conference
@@ -492,5 +540,6 @@
 - break into
 - break down
 - go out
+- come across as
 - come across
 - pass for

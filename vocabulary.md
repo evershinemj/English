@@ -5112,3 +5112,103 @@ gargle
 stomp
 - If you stomp somewhere, you walk there with very heavy steps, often because you are angry. 
   Those things will ultimately keep us stronger and protect us better than any sort of effort to stomp out who we perceive as the bad guys
+
+---
+
+figure
+- If you figure that something is the case, you think or guess that it is the case. 想
+
+---
+
+keep you on your toes
+- To force someone to stay active, alert, and focused on something or someone. Having two kids under age five sure keeps me on my toes!
+
+---
+
+institution
+- An institution is a large important organization such as a university, church, or bank. 机构
+  financial institutions. 
+
+---
+
+institute
+- An institute is an organization set up to do a particular type of work, especially research or teaching. You can also use institute to refer to the building the organization occupies. 协会; 研究所
+
+---
+
+he-man
+- A he-man is a strong and very masculine man. 男子汉; 雄壮的汉子
+
+---
+
+dressing
+- A salad dressing is a mixture of oil, vinegar, and herbs or flavourings, which you pour over salad. 色拉调料
+
+---
+
+bumper sticker
+- 车尾贴 A bumper sticker is a small piece of paper or plastic with words or pictures on it, designed for sticking onto the back of your car. It usually has a political, religious, or humorous message. 
+
+---
+
+tickle
+- When you tickle someone, you move your fingers lightly over a sensitive part of their body, often in order to make them laugh. 胳肢
+
+---
+
+comatose
+- A person who is comatose is in a coma. 
+
+---
+
+curtail
+- you curtail something, you reduce or limit it. 缩减
+
+---
+
+subject matter
+- The subject matter of something such as a book, lecture, movie, or painting is the thing that is being written about, discussed, or shown. (著作、讲话、电影或绘画的) 主题
+
+---
+
+tract
+- A tract of land is a very large area of land. 大片
+
+---
+
+redundant
+- 多余的 
+  Changes in technology may mean that once-valued skills are now redundant. 
+  The picture has too much redundant detail.
+  And so what I see is that as I run this, I'm doing a lot of redundant computation.
+  In the best regime if we were to inhabit such political philosophy would be unnecessary or redundant. It would wither away.
+  You've added a redundant 's.' It's not appropriate.
+
+---
+
+superficial
+- 肤浅的
+  This guy is a superficial yuppie with no intellect whatsoever. 
+  You know, I mean, there's a lot of people that live in Hollywood that aren't like superficial and things like that.
+  So all we're doing here is the most quick and superficial glance.
+  Obviously, what predicts a long-term relationship are probably things less superficial than looks, or at least other things in addition to looks.
+
+---
+
+mortified
+- If you say that someone is mortified, you mean that they feel extremely offended, ashamed, or embarrassed. 受大辱的; 很羞愧的; 十分尴尬的
+
+---
+
+fondle
+- If you fondle someone or something, you touch them gently with a stroking movement, usually in a sexual way. 爱抚
+
+---
+
+sensory
+- Sensory means relating to the physical senses. 感官的; 感觉的
+
+---
+
+huh
+- Huh is used in writing to represent a noise that people make at the end of a question if they want someone to agree with them or if they want someone to repeat or explain what they have just said. Huh is also used to show that someone is surprised or not impressed. 
