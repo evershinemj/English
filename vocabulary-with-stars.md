@@ -1,5 +1,66 @@
 # one star
 
+- incubate
+- strait
+- torpedo
+- a swarm of
+- conserve energy
+- cunning
+- fleeting
+- meadow
+- barren
+- hectare
+- camouflage
+- dampen
+- humid
+- moist
+- vulture
+- conifer
+- pollen
+- nectar
+- algae
+- coral reef
+- reef
+- fungus
+- withstand
+- prairie
+- savannah
+- pouch
+- precarious
+- pastoral 
+- pasture
+- doughnut
+- dough
+- gobble down
+- gobble up
+- gobble
+- dangle
+- fancy
+- nibble
+- gaunt
+- dope
+- courteous
+- quirky
+- syllabus
+- chime
+- crank
+- glacier
+- envision
+- stamina
+- addictive
+- altitude
+- agile
+- calf
+- cub
+- meddle
+- crate 
+- overdue
+- anorexia
+- curb
+- grapefruit
+- wimp
+- locker room
+- locker
 - inflated
 - detachment
 - detached
@@ -230,6 +291,34 @@
 
 # two stars 
 
+- hatch
+- admiral
+- ambush
+- spy
+- haven
+- formidable
+- blue whale
+- whale shark
+- flourish
+- thrive
+- damp
+- seasonal
+- jungle
+- patrol
+- underway
+- undergo
+- pastry
+- swear word
+- swear that
+- swear to do sth
+- swear
+- witty
+- envisage
+- flock
+- herd
+- jolly
+- adequate
+- ribbon
 - huh
 - crush
 - superficial
@@ -405,6 +494,20 @@
 
 # three stars
 
+- on the alert
+- fleet
+- flee
+- virtually
+- tactic
+- fur seal
+- resort
+- golf course
+- civilian
+- upper class
+- ultimate
+- adequate
+- take sb/sth seriously
+- cable
 - halt
 - objective
 - stock market
@@ -483,6 +586,14 @@
 
 # four stars
 
+- mile
+- from space
+- get in shape
+- be on a diet
+- go on a diet
+- make the bed
+- miss the plane/train/bus...
+- roll over
 - car crash
 - crash
 - stock
@@ -527,6 +638,19 @@
 
 # five stars
 
+- draw to a close
+- take on
+- foot/feet
+- get to do
+- head out
+- head off
+- be up for
+- a ballpark figure
+- get to
+- get out of
+- get around to doing
+- the press
+- condition
 - come to terms with
 - figure
 - close in on
@@ -543,3 +667,5 @@
 - come across as
 - come across
 - pass for
+- cut in (on sb/sth)
+- cut down on sth

@@ -5212,3 +5212,479 @@ sensory
 
 huh
 - Huh is used in writing to represent a noise that people make at the end of a question if they want someone to agree with them or if they want someone to repeat or explain what they have just said. Huh is also used to show that someone is surprised or not impressed. 
+
+---
+
+Persia
+- old name of Iran
+
+---
+
+Persian
+- Something that is Persian belongs or relates to the ancient kingdom of Persia, or sometimes to the modern state of Iran. 波斯的; 伊朗的
+
+---
+
+gulf
+- A gulf is a large area of sea which extends a long way into the surrounding land. 海湾
+  Hurricane Andrew was last night heading into the Gulf of Mexico. 
+- A gulf is an important or significant difference between two people, things, or groups. 
+  Within society, there is a growing gulf between rich and poor. 
+
+---
+
+Persian Gulf
+- 波斯湾是阿拉伯海西北伸入亚洲大陆的一个海湾，介于伊朗高原和阿拉伯半岛之间
+
+---
+
+the Bay of Bengal
+
+---
+
+the Gulf of Mexico
+
+---
+
+cable
+- Cable is used to refer to television systems in which the signals are sent along underground wires rather than by radio waves. 有线电视
+
+---
+
+Panama
+- 巴拿马
+
+---
+
+Grenada
+- 格林纳达（英文：Grenada）位于东加勒比海向风群岛的最南端，南距委内瑞拉海岸约160公里。属热带海洋性气候，年平均气温26℃。
+
+---
+
+Libya
+- 利比亚国（阿拉伯语：دولة ليبيا‎‎，英语：State of Libya），简称“利比亚”，是北非的一个国家，位于地中海南岸，与埃及、苏丹、乍得、尼日尔、阿尔及利亚跟突尼斯相邻。
+
+---
+
+cut in (on sb/sth)
+- to interrupt sb when they are speaking 打断（谈话）；插嘴
+
+---
+
+roll over
+- If you are lying down and you roll over, you turn your body so that a different part of you is facing upward. (身体) 翻过来
+
+---
+
+the press
+- newspapers and magazines 报章杂志；报刊；印刷媒体
+- the journalists and photographers who work for newspapers and magazines 记者；新闻工作者；新闻界
+
+---
+
+tabloid
+- 小报
+
+---
+
+the Department of Defense
+- 国防部
+
+---
+
+locker
+- 锁柜
+
+---
+
+locker room
+- 更衣室
+
+---
+
+wimp
+- If you call someone a wimp, you disapprove of them because they lack confidence or determination, or because they are often afraid of things. 懦弱的人
+
+---
+
+putz
+- a despicable or stupid person 卑劣的人; 傻瓜
+
+---
+
+scab
+- A scab is a hard, dry covering that forms over the surface of a wound. 痂
+
+---
+
+grapefruit
+- A grapefruit is a large, round, yellow fruit, similar to an orange, that has a sharp, slightly bitter taste. 葡萄柚
+
+---
+
+curb
+- If you curb something, you control it and keep it within limits. 抑制
+  It will curb the ability of tobacco companies to market products to our children by using appealing flavors
+
+---
+
+anorexia
+- Anorexia or anorexia nervosa is an illness in which a person has an overwhelming fear of becoming fat, and so refuses to eat enough and becomes thinner and thinner. 厌食症
+
+---
+
+overdue
+- If you say that a change or an event is overdue, you mean that you think it should have happened before now. 早该发生的
+  This debate is long overdue. 
+- Overdue sums of money have not been paid, even though it is later than the date on which they should have been paid. 到期未付的
+
+---
+
+civilian
+- In a military situation, a civilian is anyone who is not a member of the armed forces. 平民
+
+---
+
+crate
+- A crate is a large box used for transporting or storing things. 大货箱
+
+---
+
+carcinogen
+- A carcinogen is a substance which can cause cancer. 致癌物质
+
+---
+
+impala
+- an antelope, Aepyceros melampus, of southern and eastern Africa, having lyre-shaped horns and able to move with enormous leaps when disturbed 黑斑羚; 产于非洲南部和东部，长有琴尾状的角，受惊时能以极大的跳跃状移动
+
+---
+
+antelope
+- An antelope is an animal like a deer, with long legs and horns, that lives in Africa or Asia. Antelopes are graceful and can run fast. There are many different types of antelope. 羚羊
+
+---
+
+lair
+- A lair is a place where a wild animal lives, usually a place which is underground or well-hidden. 兽穴; 兽窝
+
+---
+
+stamina
+- Stamina is the physical or mental energy needed to do a tiring activity for a long time. 毅力
+
+---
+
+envisage
+- If you envisage something, you imagine that it is true, real, or likely to happen. 设想
+
+---
+
+envision
+- If you envision something, you envisage it. 设想
+
+---
+
+crank
+- If you call someone a crank, you think their ideas or behaviour are strange. 怪人
+  The man with a new idea is a crank until the idea succeeds. 
+
+---
+
+break room
+
+---
+
+a ballpark figure/estimate
+- A ballpark figure or ballpark estimate is an approximate figure or estimate. 大概的
+
+---
+
+or thereabouts
+- You add or thereabouts after a number or date to indicate that it is approximate.
+
+---
+
+chime 
+- When a bell or a clock chimes, it makes ringing sounds. 鸣响
+
+---
+
+be up for
+- 打算
+
+---
+
+quirky
+- Something or someone that is quirky is odd or unpredictable in their appearance, character, or behaviour. (外貌、性格或行为) 古怪的; 难料的
+
+---
+
+unassuming
+- If you describe a person or their behaviour as unassuming, you approve of them because they are quiet and do not try to appear important. 不装腔作势的; 谦逊安静的
+
+---
+
+buffoon
+- If you call someone a buffoon, you mean that they often do foolish things. 傻瓜; 小丑
+
+---
+
+doofus
+- ( NAmE informal ) a stupid person 蠢人；笨蛋
+
+---
+
+dope
+- Dope is a drug, usually an illegal drug such as marijuana or cocaine. 
+- If someone calls a person a dope, they think that the person is stupid. 傻瓜
+
+---
+
+irate
+- If someone is irate, they are very angry about something. 愤怒的
+
+---
+
+cut down on sth
+- If you cut down on something or cut down something, you use or do less of it. 减少
+  He cut down on coffee and cigarettes, and ate a balanced diet. 
+  Car owners were asked to cut down travel. 
+ 
+---
+
+nibble
+-  If you nibble food, you eat it by biting very small pieces of it, for example because you are not very hungry. 小口地吃
+
+---
+
+gobble
+- If you gobble food, you eat it quickly and greedily. 狼吞虎咽地吃
+
+---
+
+dough
+- Dough is a fairly firm mixture of flour, water, and sometimes also fat and sugar. It can be cooked to make bread or pastry. 面团
+
+---
+
+doughnut
+- a small cake made of fried dough , usually in the shape of a ring, or round and filled with jam/jelly, fruit, cream, etc. 炸面圈，多纳圈（常含果酱、水果、奶油等）
+
+---
+
+pastry
+- Pastry is a food made from flour, fat, and water that is mixed together, rolled flat, and baked in the oven. It is used, for example, for making pies. 油酥面团
+
+---
+
+pasture
+- Pasture is land with grass growing on it for farm animals to eat. 牧场
+
+---
+
+pastoral
+- A pastoral place, atmosphere, or idea is characteristic of peaceful country life and scenery. 田园生活的; 田园风光的
+
+---
+
+precarious
+- If your situation is precarious, you are not in complete control of events and might fail in what you are doing at any moment. (情况) 不稳定的
+  Our financial situation had become precarious. 
+
+---
+
+savannah
+- A savannah is a large area of flat, grassy land, usually in Africa. (非洲)大草原
+
+---
+
+prairie
+- A prairie is a large area of flat, grassy land in North America. Prairies have very few trees. 北美大草原
+
+---
+
+bison
+- A bison is a large hairy animal with a large head that is a member of the cattle family. Bison used to be very common in North America and Europe. 大野牛
+
+---
+
+gazelle
+- A gazelle is a type of small African or Asian deer. Gazelles move very quickly and gracefully. (非洲或亚洲)羚羊
+
+---
+
+withstand
+- If something or someone withstands a force or action, they survive it or do not give in to it. 抵御
+
+---
+
+underway
+- If an activity is underway, it has already started. If an activity gets underway, it starts. 进行中的
+
+---
+
+krill
+- N-UNCOUNT Krill are animals similar to small shrimps that live in the ocean and are the main food of some whales. 磷虾
+
+---
+
+gibbon
+- A gibbon is an ape with very long arms and no tail that lives in southern Asia. 长臂猿
+
+---
+
+fur seal
+- 海狗
+
+---
+
+reef
+- A reef is a long line of rocks or sand, the top of which is just above or just below the surface of the sea. 礁
+
+---
+
+coral reef
+- A coral reef is a long narrow mass of coral and other substances, the top of which is usually just above or just below the surface of the sea. 珊瑚礁
+
+---
+
+algae
+- Algae are plants with no stems or leaves that grow in water or on damp surfaces. 水藻
+
+---
+
+jungle
+- A jungle is a forest in a tropical country where large numbers of tall trees and plants grow very close together. 丛林
+
+---
+
+tactic
+- Tactics are the methods that you choose to use in order to achieve what you want in a particular situation. 战术
+
+---
+
+nectar
+- Nectar is a sweet liquid produced by flowers, which bees and other insects collect. 花蜜
+
+---
+
+conifer
+- Conifers are a type of trees and shrubs such as pine trees and fir trees. They have fruit called cones, and very thin leaves called needles which they do not normally lose in winter. 针叶树
+
+---
+
+vulture
+- A vulture is a large bird that eats the flesh of dead animals. 秃鹫
+
+---
+
+virtually
+- You can use virtually to indicate that something is so nearly true that for most purposes it can be regarded as true. 事实上
+
+---
+
+taiga
+- he coniferous forests extending across much of subarctic North America and Eurasia, bordered by tundra to the north and step to the south 针叶林
+
+---
+
+humid
+- You use humid to describe an atmosphere or climate that is very damp, and usually very hot. 湿热的
+
+---
+
+dampen
+- To dampen something such as someone's enthusiasm or excitement means to make it less lively or intense. 抑制; 减少
+  Nothing seems to dampen his perpetual enthusiasm. 
+
+---
+
+thrive
+- If someone or something thrives, they do well and are successful, healthy, or strong. 兴旺发达; 茁壮成长
+  He appears to be thriving. 
+  Today her company continues to thrive. 
+
+---
+
+flourish
+- If something flourishes, it is successful, active, or common, and developing quickly and strongly. 繁荣; 兴旺
+  Business flourished and within six months they were earning 18,000 roubles a day. 
+
+---
+
+hectare
+- A hectare is a measurement of an area of land which is equal to 10,000 square metres, or 2.471 acres. 公顷
+
+---
+
+foot
+- A foot is a unit for measuring length, height, or depth, and is equal to 12 inches or 30.48 centimetres. When you are giving measurements, the form "foot" is often used as the plural instead of the plural form "feet." 英尺 (常用单数形式表示复数)
+  This beautiful and curiously shaped lake lies at around fifteen thousand feet. 
+  He occupies a cell 10 foot long, 6 foot wide and 10 foot high. 
+
+---
+
+take on
+- If you take on a job or responsibility, especially a difficult one, you accept it. 承担
+  No other organization was able or willing to take on the job. 
+- If something takes on a new appearance or quality, it develops that appearance or quality. 呈现
+  Believing he had only a year to live, his writing took on a feverish intensity.   
+
+---
+
+meadow
+- A meadow is a field which has grass and flowers growing in it. A tract of grassland, either in its natural state or used as pasture or for growing hay. 草地
+
+---
+
+draw to a close
+- To come to an end. 
+  As the graduation ceremony drew to a close, I started to feel nervous excitement for the future.
+
+---
+
+fleet
+- A fleet is a group of ships organized to do something together, for example, to fight battles or to catch fish. 舰队; 船队
+
+---
+
+fleeting
+- Fleeting is used to describe something which lasts only for a very short time. 短暂的
+
+---
+
+formidable
+- If you describe something or someone as formidable, you mean that you feel slightly frightened by them because they are very great or impressive. 可怕的; 令人敬畏的
+
+---
+
+haven
+- A haven is a place where people or animals feel safe, secure, and happy. 安全处所
+
+---
+
+daybreak
+- Daybreak is the time in the morning when light first appears. 黎明
+  Pedro got up every morning before daybreak. 
+
+---
+
+nightfall
+- Nightfall is the time of day when it starts to get dark. 黄昏
+  I need to get to Houston by nightfall. 
+
+---
+
+torpedo
+- A torpedo is a bomb that is shaped like a tube and that travels under water. 鱼雷
+
+---
+
+admiral
+- An admiral is a very senior officer who commands a navy. 海军上将
+
+---
+
+incubate
+- When birds incubate their eggs, or when they incubate, they keep the eggs warm until the baby birds come out. 孵 (卵); 孵化
