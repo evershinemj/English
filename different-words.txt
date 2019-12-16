@@ -1,1 +1,10 @@
 incubate, hatch
+stamina, tenacity 毅力，执着
+ruthless, ruthless 残酷，无情
+lure, allure 引诱，魅力
+entice, incite 怂恿，煽动
+defy, resist 违抗，反抗
+eagle, hawk, falcon 雕，鹰，隼
+refrain, refrain 抑制，克制
+precarious, precipitous
+glance at, glimpse 瞥，瞥见

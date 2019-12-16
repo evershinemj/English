@@ -5688,3 +5688,324 @@ admiral
 
 incubate
 - When birds incubate their eggs, or when they incubate, they keep the eggs warm until the baby birds come out. 孵 (卵); 孵化
+
+---
+
+out of condition
+- Not in good physical health; not especially strong, healthy, or fit. 
+  I've gotten pretty out of condition from working behind this desk for 10 years. 
+
+---
+
+reptile
+- Reptiles are a group of cold-blooded animals which lay eggs and have skins covered with small, hard plates called scales. Snakes, lizards, and crocodiles are reptiles. 爬行动物
+
+---
+
+stoop
+- ~ (down) to bend your body forwards and downwards 俯身；弯腰
+
+---
+
+stalk
+- If you stalk a person or a wild animal, you follow them quietly in order to kill them, catch them, or observe them carefully. 悄悄跟踪
+
+---
+
+crevice
+- A crevice is a narrow crack or gap, especially in a rock. 裂缝
+
+---
+
+make out
+- If two people are making out, they are engaged in sexual activity.
+
+---
+
+tiff
+- A tiff is a small unimportant quarrel, especially between two close friends or between people in a romantic relationship. (亲密朋友、情侣之间的)小争吵; 口角; 拌嘴
+
+---
+
+pub
+- ( also formal ˌpublic ˈhouse )(both BrE) a building where people go to drink and meet their friends. Pubs serve alcoholic and other drinks, and often also food. 酒吧；酒馆 bar
+  They've gone down the pub for a drink. 
+
+---
+
+wasp
+- A wasp is an insect with wings and yellow and black stripes across its body. Wasps have a painful sting like a bee but do not produce honey. 黄蜂
+
+---
+
+biped
+- A biped is a creature with two legs. 两足动物
+
+---
+
+millipede
+- A millipede is a small creature with a long, narrow body and a lot of legs. 千足虫
+
+---
+
+aircraft
+- An aircraft is a vehicle that can fly, for example, an aeroplane or a helicopter. 飞机
+
+---
+
+tenacity
+- If you have tenacity, you are very determined and do not give up easily. 执著
+
+---
+
+entangle
+- If one thing entangles itself with another, the two things become caught together very tightly. 紧紧缠住
+
+---
+
+lush
+- Lush fields or gardens have a lot of very healthy grass or plants. 茂盛的
+
+---
+
+gruesome
+- Something that is gruesome is extremely unpleasant and shocking. 可怕的
+
+---
+
+perish
+- If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡
+  Most of the butterflies perish in the first frosts of autumn.
+
+---
+
+vanish
+- If someone or something vanishes, they disappear suddenly or in a way that cannot be explained. 突然消失; 神秘失踪
+
+---
+
+landscape
+- The landscape is everything you can see when you look across an area of land, including hills, rivers, buildings, trees, and plants. 风景
+  Arizona's desert landscape. 
+
+---
+
+gorge
+- A gorge is a deep, narrow valley with very steep sides, usually where a river passes through mountains or an area of hard rock. 峡谷
+  the deep gorge between these hills.
+
+---
+
+gorge on
+- If you gorge on something or gorge yourself on it, you eat lots of it in a very greedy way. 狼吞虎咽
+  I could spend each day gorging on chocolate. 
+
+---
+
+termite
+- Termites are small insects that do a lot of damage by eating wood. 白蚁  
+
+---
+
+entice
+- To entice someone to go somewhere or to do something means to try to persuade them to go to that place or to do that thing. 怂恿
+
+---
+
+lure
+- To lure someone means to trick them into a particular place or to trick them into doing something that they should not do. 引诱
+
+---
+
+allure
+- The allure of something or someone is the pleasing or exciting quality that they have. 魅力
+
+---
+
+elicit
+- If you elicit a response or a reaction, you do or say something that makes other people respond or react. 引起 (反应)
+  Mr. Norris said he was hopeful that his request would elicit a positive response. 
+
+---
+
+incite
+- If someone incites people to behave in a violent or illegal way, they encourage people to behave in that way, usually by making them excited or angry. 煽动
+  He incited his fellow citizens to take their revenge. 
+
+---
+
+defy
+- If you defy someone or something that is trying to make you behave in a particular way, you refuse to obey them and behave in that way. 违抗
+
+---
+
+falcon
+- A falcon is a bird of prey that can be trained to hunt other birds and animals. 猎鹰
+
+---
+
+bird of prey
+- A bird of prey is a bird such as an eagle or a hawk that kills and eats other birds and animals. 食肉鸟; 猛禽
+
+---
+
+catfish
+- Catfish are a type of fish that have long, thin spines around their mouths. 鲶鱼
+
+---
+
+prowl
+- If an animal or a person prowls around, they move around quietly, for example, when they are hunting. 悄悄巡行
+
+---
+
+repress
+- If you repress a feeling, you make a deliberate effort not to show or have this feeling. 抑制 (感情)
+
+---
+
+gulp
+- If you gulp something, you eat or drink it very quickly by swallowing large quantities of it at once. 大口吞下
+
+---
+
+stagger
+- If you stagger, you walk very unsteadily, for example because you are ill or drunk. (因生病、醉酒等) 摇晃地走; 蹒跚
+  He lost his balance, staggered back against the rail and toppled over. 
+- If something staggers you, it surprises you very much. 使震惊
+  The whole thing staggers me. 
+
+---
+
+staggering
+- Something that is staggering is very surprising. 令人震惊的
+
+---
+
+topple
+- If someone or something topples somewhere or if you topple them, they become unsteady or unstable and fall over. 倒下
+
+---
+
+topple over
+- to topple
+
+---
+
+fledgling
+- A fledgling is a young bird that has its feathers and is learning to fly. 刚长出羽毛的雏鸟
+
+---
+
+speck
+- A speck is a very small stain, mark, or shape. 污点; 斑迹
+- A speck is a very small piece of a powdery substance. (粉状物的) 微粒
+
+---
+
+spectacle
+- A spectacle is a strange or interesting sight. 奇观
+
+---
+
+inhabit
+- If a place or region is inhabited by a group of people or a species of animal, those people or animals live there. 居住于
+
+---
+
+rinse
+- to wash sth with clean water only, not using soap （用清水）冲洗，洗涮
+  Rinse the cooked pasta with boiling water.
+- to remove dirt, etc. from sth by washing it with clean water （用清水）冲掉，洗刷
+  She rinsed the mud from her hands.
+
+---
+
+ibex
+- 野山羊
+
+---
+
+precipitous
+- A precipitous slope or drop is very steep and often dangerous. 险峻的; 陡峭的
+
+---
+
+stifle
+- If someone stifles something you consider to be a good thing, they prevent it from continuing. 压制
+  Regulations on children stifled creativity. 
+  If you try to stifle innovation too quickly, you lose the next wave. 
+
+---
+
+suppress
+- If someone in authority suppresses an activity, they prevent it from continuing, by using force or making it illegal. 镇压; 压制
+
+---
+
+encroach on
+- If one thing encroaches on another, the first thing spreads or becomes stronger, and slowly begins to restrict the power, range, or effectiveness of the second thing. 逐步侵犯
+- If something encroaches on a place, it spreads and takes over more and more of that place. 蚕食
+
+---
+
+carcass
+- A carcass is the body of a dead animal. 动物尸体
+
+---
+
+resolution
+- A resolution is a formal decision made at a meeting by means of a vote. 决议
+  He replied that the UN had passed two major resolutions calling for a complete withdrawal. 
+- If you make a resolution, you decide to try very hard to do something. 决心  
+
+---
+
+niche
+- A niche is a hollow area in a wall which has been made to hold a statue, or a natural hollow part in a hill or cliff. 壁龛; (山坡或峭壁上) 天然凹陷处
+
+---
+
+ounce
+- An ounce is a unit of weight used in the U.S. and Britain. There are sixteen ounces in a pound and one ounce is equal to 28.35 grams. 盎司
+
+---
+
+gecko
+- 壁虎
+
+---
+
+wriggle
+- If you wriggle or wriggle part of your body, you twist and turn with quick movements, for example, because you are uncomfortable. 扭来扭去
+
+---
+
+decoy
+- 诱饵
+
+---
+
+yard
+- A yard is a unit of length equal to thirty-six inches or approximately 91.4 centimetres. 码
+
+---
+
+glimpse
+- If you get a glimpse of someone or something, you see them very briefly and not very well. 一瞥
+  Long lines stretch around the popular exhibits, with visitors forced to wait several hours to get a glimpse inside.
+  The letter to Diodati gives us another glimpse of the anticipatory narrative that Milton is sketching for his career. 
+  Let's take a quick glimpse of what it's like to write a real program albeit a very trivial one.
+- If you glimpse someone or something, you see them very briefly and not very well. 瞥见
+  She glimpsed a group of people standing on the bank of a river. 
+  He's trying to indicate that there are things that we can't really know in a scientific way but we can glimpse.
+
+---
+
+glance
+  - 瞥
+  At a first glance, the numbers do not look encouraging.
+  So if you haven't already, just glance at the person next to you, or say hello if you don't know them.
+  Next time to the Enlightenment and some people whom you might not think of at first glance would seem terribly enlightened.
+  At first glance, it looks like you do, but here's the Freudian argument that shows you don't really.
+  At first glance this seems to be overwhelmingly obvious -to gain more knowledge.

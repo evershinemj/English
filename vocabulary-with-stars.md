@@ -1,5 +1,88 @@
 # one star
 
+- torrential
+- feeble
+- decoy
+- wriggle
+- fig
+- niche
+- primate
+- plump
+- carcass
+- majestic
+- stifle
+- encroach on
+- equator
+- glide
+- precipitous
+- hoof
+- replenish
+- maiden
+- dwell in
+- reside in
+- dweller
+- crater
+- bower
+- abundance
+- abundant
+- doom
+- speck
+- fledgling
+- gust
+- gale
+- ferocious
+- rear paw
+- front paw
+- grandeur
+- stagger
+- gulp
+- devoid of
+- devour
+- playful
+- refrain
+- repress
+- skyscraper
+- prowl around
+- elicit
+- incite
+- defer
+- lure
+- entice
+- grassland
+- sprinter
+- sprout
+- scorching
+- scorch
+- sponge
+- gorge on
+- gorge
+- perish
+- stallion
+- sand dune
+- dune
+- gruesome
+- lush
+- latitude
+- tantalizing
+- tantalize
+- entangle itself with
+- entangle
+- audible
+- edible
+- tenacity
+- relent
+- aircraft carrier
+- battleship
+- warship
+- wasp
+- flirt with
+- beak
+- stoop (down)
+- pounce on
+- mammal    
+- reptile
+- monsoon
+- arid
 - incubate
 - strait
 - torpedo
@@ -289,8 +372,66 @@
 - pod
 - blemish
 
-# two stars 
+# two stars
 
+- albeit
+- a sketch of
+- a sketch
+- exhibit
+- a glimpse of
+- glimpse
+- epic
+- divert
+- tricky
+- intimidate
+- irresistible
+- suppress
+- on parade
+- shield
+- bud
+- moisture
+- elaborate
+- inhabit
+- inhabitant
+- spectacle
+- expedition
+- commuter
+- commute
+- doomed
+- sheer cliff
+- sheer
+- hostile
+- smack
+- miniature
+- overthrow
+- topple over
+- topple
+- staggering
+- restrain from doing sth
+- defy
+- deter
+- lure
+- induce
+- sprint
+- fragile
+- versatile
+- chick
+- vanish
+- wilderness
+- bait
+- patch
+- intact
+- savage
+- ruthless
+- relentless
+- lieutenant colonel
+- lieutenant
+- frontier
+- sting
+- sanctuary
+- stalk
+- steep slope
+- steep
 - hatch
 - admiral
 - ambush
@@ -494,6 +635,26 @@
 
 # three stars
 
+- at first glance
+- glance through
+- glance at
+- glance
+- myth
+- youngster
+- trigger
+- spare key
+- spare
+- await
+- rough sea
+- landscape
+- a pride of lions
+- sand grain
+- grain
+- colonel
+- pub
+- under any circumstances
+- under certain circumstances
+- breed
 - on the alert
 - fleet
 - flee
@@ -586,6 +747,17 @@
 
 # four stars
 
+- yard
+- technique
+- resolution
+- radical change
+- thin ice
+- grand
+- resident
+- push through the crowd
+- push through
+- aircraft
+- territory
 - mile
 - from space
 - get in shape
@@ -638,6 +810,16 @@
 
 # five stars
 
+- a case in point
+- in case of
+- in that case
+- in any case
+- just in case
+- in case
+- case
+- out of condition
+- in good condition
+- a better view of
 - draw to a close
 - take on
 - foot/feet
