@@ -6009,3 +6009,1019 @@ glance
   Next time to the Enlightenment and some people whom you might not think of at first glance would seem terribly enlightened.
   At first glance, it looks like you do, but here's the Freudian argument that shows you don't really.
   At first glance this seems to be overwhelmingly obvious -to gain more knowledge.
+
+---
+
+tramp
+- A tramp is a person who has no home or job, and very little money. Tramps go from place to place, and get food or money by asking people or by doing casual work. 流浪汉
+- If you tramp somewhere, you walk there slowly and with regular, heavy steps, for a long time. 脚步沉重地缓缓行走; 踏
+
+---
+
+trample
+- If someone tramples something or tramples on it, they step heavily and carelessly on it and damage it. 践踏; 踩坏
+
+---
+
+trudge
+- If you trudge somewhere, you walk there slowly and with heavy steps, especially because you are tired or unhappy. 步履艰难地走
+
+---
+
+a matter of days/miles/pounds...
+- a particular number of days, miles, etc., especially when this number is small
+
+---
+
+tread on
+- If you tread on something, you put your foot on it when you are walking or standing. 踩
+
+---
+
+scour
+- If you scour something such as a place or a book, you make a thorough search of it to try to find what you are looking for. 四处搜索
+- If you scour something such as a sink, floor, or pan, you clean its surface by rubbing it hard with something rough. (费力地) 擦洗
+
+---
+
+trek
+- If you trek somewhere, you go on a journey across difficult country, usually on foot. (艰难地) 徒步旅行
+  Using the example of Star Trek, Steven Pinker, in his book How the Mind Works, nicely illustrates the problem here.
+  And the wrong theory of the emotions is beautifully illustrated in the television and movie series Star Trek.
+  When he goes to Europe on his big sortie, on his big-boy trek through Europe he goes around and he visits all of these botanical gardens.
+  This is from a very old "Star Trek" Episode.
+  It would be weeks before he could catch another flight home, but the delay gave him time to hike the Annapurna Circuit, a 14-day trek through the Himalayas.
+
+---
+
+converge on
+- If people or vehicles converge on a place, they move toward it from different directions. (人或车辆等) 聚集
+
+---
+
+microscopic
+- Microscopic objects are extremely small, and usually can be seen only through a microscope. 极小的
+
+---
+
+chameleon
+- A chameleon is a kind of lizard whose skin changes colour to match the colour of its surroundings. 变色龙
+
+---
+
+against the odds
+- Despite being very likely to fail. 
+  Against the odds, he was able to survive being stranded in the wilderness for a week with no food.
+
+---
+
+cod
+- Cod are a type of large edible fish. 鳕鱼
+
+---
+
+trout
+- A trout is a fairly large fish that lives in rivers and streams. 鳟鱼
+
+---
+
+carp
+- A carp is a kind of fish that lives in lakes and rivers. 鲤鱼
+
+---
+
+bass
+- Bass are edible fish that are found in rivers and the sea. There are several types of bass. 鲈鱼
+
+---
+
+bleat
+- When a sheep or goat bleats, it makes the sound that sheep and goats typically make. (羊)咩咩地叫
+
+---
+
+stoke
+- If you stoke a fire, you add coal or wood to it to keep it burning. 给…添煤; 给…添柴火
+- If you stoke something such as a feeling, you cause it to be felt more strongly. 激起 (某种感觉)
+  These demands are helping to stoke fears of civil war. 
+
+---
+
+stoke up
+- to stoke
+
+---
+
+give away
+- To give someone or something away means to show their true nature or identity, which is not obvious. 暴露
+
+---
+
+rodent
+- Rodents are small mammals which have sharp front teeth. Rats, mice, and squirrels are rodents. 啮齿动物
+
+---
+
+ramble
+- A ramble is a long walk in the countryside. (乡间的) 漫步
+
+---
+
+rove
+- to roam
+
+---
+
+caribou
+- A caribou is a large north American deer. 北美驯鹿
+
+---
+
+amble
+- When you amble, you walk slowly and in a relaxed manner. 漫步
+
+---
+
+bounty
+- You can refer to something that is provided in large amounts as bounty. 丰富的
+
+---
+
+elusive
+- Something or someone that is elusive is difficult to find, describe, remember, or achieve. 难 (找、形容、记、取得) 的
+  In Denver late-night taxis are elusive and far from cheap. 
+
+---
+
+footage
+- Footage of a particular event is a film of it or the part of a film which shows this event. (描述某一事件的) 片段镜头
+  They are planning to show exclusive footage from this summer's festivals. 
+
+---
+
+downright
+- adv. adj. You use downright to emphasize unpleasant or bad qualities or behaviour. (强调不快或负面事物) 彻头彻尾地
+
+---
+
+vandalize
+- If something such as a building or part of a building is vandalized by someone, it is damaged on purpose. 故意破坏
+
+---
+
+sloth
+- 树懒
+
+---
+
+hands-on
+- Hands-on experience or work involves actually doing a particular thing, rather than just talking about it or getting someone else to do it. 亲身实践的
+
+---
+
+elude
+- If something that you want eludes you, you fail to obtain it. 不为…所获得
+  Sleep eluded her.
+
+---
+
+replicate
+- If you replicate someone's experiment, work, or research, you do it yourself in exactly the same way. 复制; 重做(试验、工作或研究)
+
+---
+
+alley
+- An alley is a narrow passage or street with buildings or walls on both sides. 小巷
+
+---
+
+clan
+- A clan is a group which consists of families that are related to each other. 家族
+  rival clans
+- You can refer to a group of people with the same interests as a clan. 帮派 
+
+---
+
+proliferate
+- If things proliferate, they increase in number very quickly. 激增
+
+---
+
+burrow
+- A burrow is a tunnel or hole in the ground that is dug by an animal such as a rabbit. 洞穴
+
+---
+
+lob
+- If you lob something, you throw it so that it goes quite high in the air. (向高空中)扔
+
+---
+
+phenomenal
+- Something that is phenomenal is unusually great or good. 非凡的; 杰出的
+
+---
+
+unravel
+- If you unravel something that is knotted, woven, or knitted, or if it unravels, it becomes one straight piece again or separates into its different threads. 解开
+- If you unravel a mystery or puzzle, or it unravels, it gradually becomes clearer until you can work out the answer to it. 揭开
+
+---
+
+drab
+- If you describe something as drab, you think that it is dull and boring to look at or experience. 单调乏味的
+
+---
+
+pigment
+- A pigment is a substance that gives something a particular colour. 颜料
+
+---
+
+suckle
+- When a mother suckles her baby, she feeds it by letting it suck milk from her breast. 给(婴儿)喂奶
+- When a baby suckles, it sucks milk from its mother's breast. (婴儿)吃奶
+
+---
+
+huddle
+- If you huddle somewhere, you sit, stand, or lie there holding your arms and legs close to your body, usually because you are cold or frightened. (由于寒冷或害怕而) 蜷缩
+- If people huddle together or huddle around something, they stand, sit, or lie close to each other, usually because they all feel cold or frightened. (由于寒冷或害怕) 挤成一团
+
+---
+
+specimen
+- A specimen is a single plant or animal which is an example of a particular species or type and is examined by scientists. (动植物的) 标本
+  200,000 specimens of fungus are kept at the Komarov Botanical Institute. 
+
+---
+
+Victorian
+- Victorian means belonging to, connected with, or typical of Britain in the middle and last parts of the 19th century, when Victoria was Queen. 维多利亚时代的
+
+---
+
+gland
+- A gland is an organ in the body which produces chemical substances for the body to use or get rid of. 腺
+
+---
+
+forgery
+- Forgery is the crime of forging money, documents, or paintings. 伪造罪
+  He was found guilty of forgery. 
+- You can refer to a forged document, bill, or painting as a forgery. 伪造品
+  The letter was a forgery. 
+
+---
+
+forge
+- If one person or institution forges an agreement or relationship with another, they create it with a lot of hard work, hoping that it will be strong or lasting. 努力地缔造
+- If someone forges something such as paper money, a document, or a painting, they copy it or make it so that it looks genuine, in order to deceive people. 伪造 (纸币、文件或画作等)
+
+---
+
+wit
+- N-UNCOUNT Wit is the ability to use words or ideas in an amusing, clever, and imaginative way. 风趣; 机智
+
+---
+
+longevity
+- Longevity is long life. 长寿
+
+---
+
+stag
+- A stag is an adult male deer belonging to one of the larger species of deer. Stags usually have large branch-like horns called antlers. 成年雄鹿
+
+---
+
+antler
+- A male deer's antlers are the branched horns on its head. 鹿角
+
+---
+
+badger
+- A badger is a wild animal which has a white head with two wide black stripes on it. Badgers live underground and usually come up to feed at night. 獾
+
+---
+
+Viking
+- The Vikings were men who sailed from Scandinavia and attacked villages in most parts of northwestern Europe from the 8th to the 11th centuries. It is also believed that they may have sailed to North America. 维京人; 8至11世纪的北欧海盗
+
+---
+
+canine
+- Canine means relating to dogs. 犬的
+
+---
+
+patriarch
+- A patriarch is the male head of a family or tribe. (男性)家长; 族长; 酋长
+
+---
+
+disrupt
+- If someone or something disrupts an event, system, or process, they cause difficulties that prevent it from continuing or operating in a normal way. 妨碍; 扰乱
+
+---
+
+cluster
+- A cluster of people or things is a small group of them close together. (人或物的) 群
+
+---
+
+cluster together
+- If people cluster together, they gather together in a small group. (人) 结成群
+
+---
+
+clutch
+- If you clutch at something or clutch something, you hold it tightly, usually because you are afraid or anxious. (因为害怕或焦虑而) 抓牢
+  I staggered and had to clutch at a chair for support. 
+
+---
+
+drape
+- If you drape a piece of cloth somewhere, you place it there so that it hangs down in a casual and graceful way. 将…披挂于
+
+---
+
+spike
+- a thin object with a sharp point, especially a pointed piece of metal, wood, etc. 尖状物；尖头；尖刺
+
+---
+
+spark
+- A spark is a tiny bright piece of burning material that flies up from something that is burning. 火花
+  The fire gradually got bigger and bigger. Sparks flew off in all directions. 
+
+---
+
+sparkle
+- If something sparkles, it is clear and bright and shines with a lot of very small points of light. 闪闪发光
+
+---
+
+barbed
+- ( of an arrow or a hook 箭或钩 ) having a point that is curved backwards (called a barb ) 有倒钩的
+- ( of a remark or comment 说话 ) meant to hurt sb's feelings 挖苦的；伤人的；带刺的
+
+---
+
+gleam
+- If an object or a surface gleams, it reflects light because it is shiny and clean. 闪光
+
+---
+
+grotesque
+- strange in a way that is unpleasant or offensive 怪诞的；荒唐的；荒谬的
+- extremely ugly in a strange way that is often frightening or amusing 丑陋奇异的；奇形怪状的
+
+---
+
+breed
+- When animals breed, they have babies. 繁殖
+
+---
+
+cape
+- A cape is a large piece of land that sticks out into the sea from the coast. 海角; 岬
+
+---
+
+the Cape of Good Hope
+- 好望角（南非）
+
+---
+
+texture
+- The texture of something is the way that it feels when you touch it, for example, how smooth or rough it is. 手感
+
+---
+
+flimsy
+- A flimsy object is weak because it is made of a weak material, or is badly made. 脆弱的; 劣质的
+- Flimsy cloth or clothing is thin and does not give much protection. (布料或衣服) 薄的
+
+---
+
+sit out
+- If you sit something out, you wait for it to finish, without taking any action. 坐等…结束
+
+---
+
+froth
+- A mass of bubbles in or on a liquid; foam.
+
+---
+
+foam
+- a mass of very small air bubbles on the surface of a liquid 泡沫
+
+---
+
+prominent
+- Someone who is prominent is important and well-known. 重要的; 著名的
+- Something that is prominent is very noticeable or is an important part of something else. 突出的
+
+---
+
+deflect
+- If you deflect something such as criticism or attention, you act in a way that prevents it from being directed toward you or affecting you. 转移
+
+---
+
+flashlight
+- 手电筒
+
+---
+
+flash
+- A flash is a sudden burst of light or of something shiny or bright. 闪光
+
+---
+
+wobble
+- If something or someone wobbles, they make small movements from side to side, for example, because they are unsteady. 摇晃
+
+---
+
+contrive to
+- to manage to do sth despite difficulties （不顾困难而）设法做到
+
+---
+
+toss
+- If you toss something somewhere, you throw it there lightly, often in a careless way. 扔
+
+---
+
+mimicry
+- Mimicry is the action of mimicking someone or something. 模仿
+
+---
+
+foster parents
+- Foster parents are people who officially take a child into their family for a period of time, without becoming the child's legal parents. The child is referred to as their foster child. 收养的
+
+---
+
+mat
+- A mat is a small piece of something such as cloth, card, or plastic which you put on a table to protect it from plates or cups. (杯、盘的) 垫子
+
+---
+
+account
+- a written or spoken description of sth that has happened 描述；叙述；报告
+
+---
+
+mendacious
+- A mendacious person is someone who tells lies. A mendacious statement is one that is a lie. 撒谎的
+
+---
+
+blot
+- A clot is a sticky lump that forms when blood dries up or becomes thick. (血液的) 凝块
+- When blood clots, it becomes thick and forms a lump. (血液) 凝结成块
+
+---
+
+feat
+- If you refer to an action, or the result of an action, as a feat, you admire it because it is an impressive and difficult achievement. 功绩
+
+---
+
+confound
+- If someone or something confounds you, they make you feel surprised or confused, often by showing you that your opinions or expectations of them were wrong. 使吃惊; 使困惑
+
+---
+
+Emperor Penguin
+
+---
+
+King Penguin
+
+---
+
+thaw
+- 融化
+- 解冻
+
+---
+
+meticulous
+- If you describe someone as meticulous, you mean that they do things very carefully and with great attention to detail. 小心谨慎的
+
+---
+
+pupa
+- A pupa is an insect that is in the stage of development between a larva and a fully grown adult. It has a protective covering and does not move. 蛹
+
+---
+
+cocoon
+- A cocoon is a covering of silky threads that the larvae of moths and other insects make for themselves before they grow into adults. 茧
+
+---
+
+raging
+- Raging water moves very forcefully and violently. 汹涌的
+
+---
+
+canoe
+- A canoe is a small, narrow boat that you move through the water using a stick with a wide end called a paddle. 划子; 独木舟
+
+---
+
+jolt
+- If something jolts or if something jolts it, it moves suddenly and quite violently. 使颠簸; 颠簸
+
+---
+
+repulse
+- If you are repulsed by something, you think that it is horrible and disgusting and you want to avoid it. 使厌恶; 使反感
+
+---
+
+twitch
+- If something, especially a part of your body, twitches or if you twitch it, it makes a little jumping movement. (身体等) 抽动
+
+---
+
+repel
+- When an army repels an attack, they successfully fight and drive back soldiers from another army who have attacked them. 击退; 打退
+- repulse
+
+---
+
+hitherto
+- You use hitherto to indicate that something was true up until the time you are talking about, although it may no longer be the case. 迄今
+
+---
+
+groundbreaking
+- You use groundbreaking to describe things which you think are significant because they provide new and positive ideas, and influence the way people think about things. 开拓性的
+
+---
+
+overhear
+- to hear, especially by accident, a conversation in which you are not involved 偶然听到；无意中听到
+
+---
+
+bleak
+- If a situation is bleak, it is bad, and seems unlikely to improve. 黯淡的
+- If you describe a place as bleak, you mean that it looks cold, empty, and unattractive. 荒凉的
+
+---
+
+sledge
+- A sledge is an object used for travelling over snow. It consists of a framework which slides on two strips of wood or metal. 雪橇 
+
+---
+
+succumb to
+- If you succumb to temptation or pressure, you do something that you want to do, or that other people want you to do, although you feel it might be wrong. (向诱惑、压力) 屈服
+
+---
+
+on end
+- for the stated length of time, without stopping 连续地；不断地
+
+---
+
+spin
+- If something spins or if you spin it, it turns quickly around a central point. 转动
+
+---
+
+rigorous
+- A test, system, or procedure that is rigorous is very thorough and strict. (测试、制度、程序) 严格缜密的
+
+---
+
+melodic
+- Music that is melodic has beautiful tunes in it. 旋律优美的
+
+---
+
+under scrutiny
+- If a person or thing is under scrutiny, they are being studied or observed very carefully. 仔细研究; 仔细观察
+
+---
+
+moss
+- Moss is a very small, soft, green plant which grows on damp soil, or on wood or stone. 青苔
+
+---
+
+lichen
+- Lichen is a group of tiny plants that looks like moss and grows on the surface of things such as rocks, trees, and walls. 地衣
+
+---
+
+filament
+- A filament is a very thin piece or thread of something, for example, the piece of wire inside a light bulb. 细丝
+
+---
+
+reel
+- to wind (cotton, thread, etc) onto a reel 绕上卷轴
+
+---
+
+fabric
+- N-MASS Fabric is cloth or other material produced by weaving together cotton, nylon, wool, silk, or other threads. Fabrics are used for making things such as clothes, curtains, and sheets. 织物
+
+---
+
+rudimentary
+- Rudimentary things are very basic or simple and are therefore unsatisfactory. 简陋的
+
+---
+
+crude
+- simple and not very accurate but giving a general idea of sth 粗略的；简略的；大概的
+- ( of objects or works of art 物体或艺术品 ) simply made, not showing much skill or attention to detail 粗糙的；粗制的
+- vulgar
+- [ usually before noun ] ( of oil and other natural substances 油和其他自然物质 ) in its natural state, before it has been treated with chemicals 天然的；自然的
+
+---
+
+substantial
+- Substantial means large in amount or degree. 大量的; 很大程度的
+
+---
+
+ordain
+- If some authority or power ordains something, they decide that it should happen or be in existence. 命令
+
+---
+
+dispel
+- To dispel an idea or feeling that people have means to stop them having it. 消除 (想法或感觉)
+
+---
+
+chrysalis
+- pupa
+
+---
+
+invert
+- If you invert something, you turn it upside down or inside out. 使倒置; 将里面翻到外面
+
+---
+
+bustle
+- A place that is bustling or bustling with people or activity is full of people who are very busy or lively. 熙熙攘攘的
+
+---
+
+deciduous
+- A deciduous tree or bush is one that loses its leaves in the fall every year. (树或灌木每年)落叶的
+
+---
+
+deflate
+- If you deflate someone or something, you take away their confidence or make them seem less important. 使泄气
+  I hate to deflate your ego, but you seem to have an exaggerated idea of your importance to me. 
+
+---
+
+reprieve
+- If someone who has been sentenced in a court is reprieved, their punishment is officially delayed or cancelled. (被判) 缓刑; 撤销 (刑罚)
+
+---
+
+head start
+- If you have a head start on other people, you have an advantage over them in something such as a competition or race. 起步前的优势
+
+---
+
+dome
+- A dome is a round roof. 穹顶
+
+---
+
+chatter
+- If you chatter, you talk quickly and continuously, usually about things which are not important. 喋喋不休地说 (不重要的事)
+
+---
+
+patter
+- If something patters on a surface, it hits it quickly several times, making quiet, tapping sounds. 急速拍打
+
+---
+
+gouge
+- If you gouge something, you make a hole or a long cut in it, usually with a pointed object. 凿
+
+---
+
+coil
+- A coil of rope or wire is a length of it that has been wound into a series of loops. (绳子或金属线的) 圈
+
+---
+
+spawn
+- Spawn is a soft, jelly-like substance containing the eggs of fish, or of animals such as frogs. (鱼、蛙等的)卵
+- When fish or animals such as frogs spawn, they lay their eggs. (鱼、蛙等)产卵
+
+---
+
+curl
+- If your toes, fingers, or other parts of your body curl, or if you curl them, they form a curved or round shape. 弯曲; 使弯曲
+
+---
+
+squabble
+- When people squabble, they quarrel about something that is not really important. (为琐事) 争吵
+
+---
+
+teem with
+- If you say that a place is teeming with people or animals, you mean that it is crowded and the people and animals are moving around a lot. 挤满
+
+---
+
+limestone
+- a type of white stone that contains calcium , used in building and in making cement 石灰岩
+
+---
+
+eat away
+- If one thing eats away another or eats away at another, it gradually destroys or uses it up. 侵蚀; 逐渐用完
+
+---
+
+cut off
+- To cut someone or something off means to separate them from things that they are normally connected with. 隔离
+
+---
+
+cavern
+- a large cave
+
+---
+
+glow
+- A glow is a dull, steady light, for example the light produced by a fire when there are no flames. 暗淡的光
+
+---
+
+Siberia
+
+---
+
+Bactrian camel
+- 双峰骆驼
+
+---
+
+dromedary
+- 单峰骆驼
+
+---
+
+bombard
+- When soldiers bombard a place, they attack it with continuous heavy gunfire or bombs. 连续轰炸
+- If you bombard someone with something, you make them face a great deal of it. For example, if you bombard them with questions or criticism, you keep asking them a lot of questions or you keep criticizing them. 连珠炮似地提问; 不断批评
+
+---
+
+jagged
+- Something that is jagged has a rough, uneven shape or edge with lots of sharp points. 锯齿状的
+
+---
+
+ragged
+- Someone who is ragged looks messy and is wearing clothes that are old and torn. 衣衫褴褛的
+
+---
+
+subordinate
+- If someone is your subordinate, they have a less important position than you in the organization that you both work for. 下级
+- Someone who is subordinate to you has a less important position than you and has to obey you. 下级的
+
+---
+
+leap
+- If you leap, you jump high in the air or jump a long distance. 跳跃
+
+---
+
+fortunes
+- If you talk about someone's fortunes or the fortunes of something, you are talking about the extent to which they are doing well or being successful. 运势
+
+---
+
+furnace
+- A furnace is a container or enclosed space in which a very hot fire is made, for example, to melt metal, burn rubbish, or produce heat for a building or house. 熔炉; 火炉
+
+---
+
+uncharted
+- If you describe a situation, experience, or activity as uncharted territory or waters, you mean that it is new or unfamiliar. (情形、经历、活动)不为人熟悉的; (地域、水域)未被探索的
+
+---
+
+coordination
+- Coordination means organizing the activities of two or more groups so that they work together efficiently and know what the others are doing. 协作
+
+---
+
+serenade
+- a song or tune played or sung at night by a lover outside the window of the woman he loves （男子在所爱慕的女子窗下歌唱或演奏的）小夜曲
+- to sing or play music to sb (as done in the past by a man singing under her window to the woman he loved) （对所爱慕的女子）唱小夜曲，奏小夜曲
+
+---
+
+flux
+- If something is in a state of flux, it is constantly changing. 不断的变动
+
+---
+
+pungent
+- Something that is pungent has a strong, sharp smell or taste which is often so strong that it is unpleasant. 刺鼻的; 刺激味觉的
+
+---
+
+awaken
+- To awaken a feeling in a person means to cause them to start having this feeling. 唤醒(某种感觉)
+  The aim of the cruise was to awaken an interest in and an understanding of foreign cultures.
+
+---
+
+vicious
+- A vicious person or a vicious blow is violent and cruel. 凶残的
+
+---
+
+vile
+- If you say that someone or something is vile, you mean that they are very unpleasant. 令人不快的
+
+---
+
+gosling
+- baby goose
+
+---
+
+frisky
+- A frisky animal or person is energetic and playful, and may be difficult to control. 欢腾的
+
+---
+
+surge
+- surge is a sudden large increase in something that has previously been steady, or has only increased or developed slowly. 剧增
+
+---
+
+swoop
+- When a bird or aeroplane swoops, it suddenly moves downwards through the air in a smooth curving movement. 俯冲
+
+---
+
+duet
+- A duet is a piece of music sung or played by two people. 二重唱; 二重奏
+
+---
+
+clearing
+- A clearing is a small area in a forest where there are no trees or bushes. 林中空地
+
+---
+
+oblivious to/of
+- If you are oblivious to something or oblivious of it, you are not aware of it. 没意识到的
+
+---
+
+butt
+- If a person or animal butts you, they hit you with the top of their head. 用头撞
+
+---
+
+excavate
+- When archaeologists or other people excavate a piece of land, they remove earth carefully from it and look for things such as pots, bones, or buildings that are buried there, in order to discover information about the past. 挖掘 (古物)
+
+---
+
+ravenous
+- If you are ravenous, you are extremely hungry. 饥肠辘辘的; 饿极的; 饥饿的
+
+---
+
+gateway
+- A gateway is an entrance where there is a gate. 大门入口
+- A gateway to somewhere is a place which you go through because it leads you to a much larger place. 门户
+
+---
+
+fastidious
+- If you say that someone is fastidious, you mean that they pay great attention to detail because they like everything to be very neat, accurate, and in good order. 极其注重细节的
+- ( sometimes disapproving ) not liking things to be dirty or untidy 讲究整洁的；有洁癖的
+
+---
+
+jostle
+- If people jostle you, they bump against you or push you in a way that annoys you, usually because you are in a crowd and they are trying to get past you. 推搡; 推挤
+
+---
+
+puff
+- If you puff smoke or moisture from your mouth or if it puffs from your mouth, you breathe it out. (从口中) 喷出
+- If an engine, chimney, or stove puffs smoke or steam, clouds of smoke or steam come out of it. (发动机、烟囱或炉子等) 喷
+
+---
+
+puff out
+- puff
+
+---
+
+gasp
+- A gasp is a short, quick breath of air that you take in through your mouth, especially when you are surprised, shocked, or in pain. (尤指惊讶或疼痛时的) 倒吸气
+- V-I When you gasp, you take a short, quick breath through your mouth, especially when you are surprised, shocked, or in pain. 倒吸气
+
+---
+
+propel
+- To propel something in a particular direction means to cause it to move in that direction. 推进
+
+---
+
+shove
+- If you shove someone or something, you push them with a quick, violent movement. 猛推
+
+---
+
+intervene
+- If you intervene in a situation, you become involved in it and try to change it. 干预
+
+---
+
+stamp
+- If you stamp or stamp your foot, you lift your foot and put it down very hard on the ground, for example because you are angry or because your feet are cold. 跺 (脚); 跺脚; 重重地踩
+
+---
+
+cobra
+- A cobra is a kind of poisonous snake that can make the skin on the back of its neck into a hood. 眼镜蛇
+
+---
+
+mamba
+- a black or green poisonous African snake 树眼镜蛇（黑色或绿色，分布于非洲，有剧毒）
+
+---
+
+veer
+- If something veers in a certain direction, it suddenly moves in that direction. 突然转向
+
+---
+
+bisect
+- If something long and thin bisects an area or line, it divides the area or line in half. (把地区或线条)一分为二; 二等分
+
+---
+
+sluggish
+- You can describe something as sluggish if it moves, works, or reacts much slower than you would like or is normal. 缓慢的; 迟钝的
+
+---
+
+viper
+- A viper is a small poisonous snake found mainly in Europe. 蝰蛇
+
+---
+
+split second
+- a very short moment of time 瞬间；刹那
+
+---
+
+Earth
+- Earth or the Earth is the planet on which we live. People usually say Earth when they are referring to the planet as part of the universe, and the Earth when they are talking about the planet as the place where we live. 地球
+•  The space shuttle Atlantis returned safely to Earth today. 
+- The earth is the land surface on which we live and move around. 陆地; 地面 
+
+---
+
+insulate
+- To insulate something such as a building means to protect it from cold, heat, or noise by placing a layer of other material around it or inside it. 使隔 (冷) 热; 使隔音
+- If a person or group is insulated from the rest of society or from outside influences, they are protected from them. 使隔离
+
+---
+
+elk
+- An elk is a type of large deer. Elk have big horns called antlers and are found in Northern Europe, Asia, and North America. 麋鹿
+
+---
+
+murky
+- Murky water or fog is so dark and dirty that you cannot see through it. 混浊的

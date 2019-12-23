@@ -1,5 +1,201 @@
 # one star
 
+- frenzy
+- recurrent
+- stunt
+- murky
+- duel
+- be insulated from
+- insulate
+- invaluable
+- sluggish
+- fang
+- thermal
+- veer
+- sideways
+- futile
+- marsh
+- ape
+- grieve over
+- grieve
+- banish
+- propel
+- sift
+- puff out
+- puff
+- slack
+- jostle
+- fastidious
+- bewildering
+- tuna
+- a gateway to
+- gateway
+- incessant
+- turbulence
+- turbulent
+- mash
+- inquisitive
+- excavate
+- shoal
+- butt
+- oblivious of
+- oblivious to
+- pluck
+- solitary
+- intercept
+- duet
+- swoop
+- encircle
+- villain
+- vile
+- malicious
+- awaken
+- pungent
+- adept
+- flux
+- illuminate
+- imperative
+- serene
+- serenade
+- coordination
+- furnace
+- ragged
+- jagged
+- bombardment
+- bombard
+- evaporate
+- subterranean
+- cavern
+- spool
+- hazardous
+- limestone
+- abyss
+- teem with
+- squabble
+- spawn
+- coil
+- gouge
+- meager
+- sculpt
+- patter
+- dormant
+- chatter
+- head start
+- reprieved
+- delta
+- apprehensive
+- subside
+- hinder
+- deflate
+- bustle with
+- bustle
+- invert
+- dispel
+- indisputable
+- emigrant
+- ordain
+- plumage
+- rudimentary
+- melodic
+- succumb to
+- sledge
+- overhear
+- eavesdrop on
+- hitherto
+- twitch
+- repel
+- jolt
+- canoe
+- raging
+- brood
+- meticulous
+- thaw
+- confound
+- clot
+- protrude
+- fearsome
+- likeness
+- audacious
+- mat
+- contrive to
+- wobble
+- flashlight
+- rustle
+- deflect
+- froth
+- foam
+- flimsy
+- tame
+- colonize
+- discern
+- interestingly
+- life cycle
+- grotesque
+- cuckoo
+- barb
+- hedgehog
+- drape
+- crow
+- time-consuming
+- clumsy
+- cumbersome
+- a multitude of
+- patriarch
+- spear
+- Viking
+- badger
+- stag
+- longevity
+- caress
+- forgery
+- forge
+- anatomy
+- ooze
+- huddle together
+- huddle
+- intrigued
+- dismal
+- drab
+- enchanting
+- showcase
+- baffle
+- conspicuous
+- sarcasm
+- unravel
+- lob
+- disoriented
+- burrow
+- spotted
+- alley
+- crest
+- scarlet
+- replicate
+- intruder
+- intrude on
+- intrude into
+- evade
+- elude
+- hands-on
+- downright
+- elusive
+- bounty
+- wither
+- ramble
+- roam
+- pinnacle
+- mound
+- courtship
+- rodent
+- stoke up
+- stoke
+- trout
+- cod
+- trample on
+- converge on
+- scour
+- trudge
+- trample
+- tramp
 - torrential
 - feeble
 - decoy
@@ -374,6 +570,107 @@
 
 # two stars
 
+- dynamic
+- dual role
+- dual
+- rivalry
+- diversity
+- imposing
+- aggression
+- dissolve
+- intervene
+- shove
+- gasp
+- clarify
+- turmoil
+- nutrients
+- nursery
+- on the fringe of
+- fringe
+- clearing
+- haul
+- surge
+- undertake
+- outsider
+- vicious
+- blaze
+- breach
+- subordinate
+- radiation
+- glow
+- a strand of
+- sinister
+- curl
+- anticipate
+- utterly
+- scoop
+- dilemma
+- dome
+- hamper
+- swamp
+- vigorous
+- diminish
+- shrub
+- relay
+- disperse
+- migrate
+- crude
+- under scrutiny
+- rigorous
+- bleak
+- feat
+- rug
+- blanket
+- carpet
+- resemble
+- toss
+- perch
+- toxic
+- hollow
+- texture
+- royalty
+- depict
+- cape
+- slaughter
+- assure
+- varied
+- gleam
+- glitter
+- sparkle
+- spike
+- fluid
+- clutch at
+- clutch
+- assemble
+- cluster together
+- cluster
+- disrupt
+- shred
+- wit
+- haunt
+- gland
+- Victorian
+- specimen
+- intriguing
+- stunningly
+- stunning
+- memorable
+- proliferate
+- clan
+- glamour
+- neighboring
+- contend with
+- footage
+- stroll
+- ash
+- woo
+- carp
+- salmon
+- thrust
+- tread on
+- soak
+- trek
+- corpse
 - albeit
 - a sketch of
 - a sketch
@@ -635,6 +932,49 @@
 
 # three stars
 
+- prior to
+- stamp
+- intervention
+- provoke
+- shift
+- prime
+- cruise
+- the fortunes of
+- fortune
+- a concentration of
+- casualty
+- reverse
+- immigrant
+- substantial
+- fabric
+- reel
+- spin
+- cease
+- flash
+- marine
+- whereas
+- prominent
+- shed
+- publicity
+- capture
+- surrender
+- pitch black
+- pitch dark
+- fraud
+- spark
+- pit
+- a vision of
+- extensive
+- alongside
+- cope with
+- nerve
+- opponent
+- speculation
+- speculate that
+- speculate about
+- bass
+- convention
+- tackle
 - at first glance
 - glance through
 - glance at
@@ -747,6 +1087,16 @@
 
 # four stars
 
+- contract
+- joint
+- master
+- royal
+- piece together
+- scale
+- long-term
+- rival
+- fuel
+- handle
 - yard
 - technique
 - resolution
@@ -810,6 +1160,12 @@
 
 # five stars
 
+- eat away
+- give rise to
+- account
+- all year round
+- in the open
+- give away
 - a case in point
 - in case of
 - in that case
