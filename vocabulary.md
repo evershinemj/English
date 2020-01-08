@@ -5655,7 +5655,7 @@ fleeting
 ---
 
 formidable
-- If you describe something or someone as formidable, you mean that you feel slightly frightened by them because they are very great or impressive. 可怕的; 令人敬畏的
+- 来自拉丁语formido, 恐惧，害怕。后词义由恐惧弱化成敬畏。If you describe something or someone as formidable, you mean that you feel slightly frightened by them because they are very great or impressive. 可怕的; 令人敬畏的  
 
 ---
 
@@ -7025,3 +7025,1438 @@ elk
 
 murky
 - Murky water or fog is so dark and dirty that you cannot see through it. 混浊的
+
+---
+
+litter
+- A litter is a group of animals born to the same mother at the same time. 一窝
+
+---
+
+settlement
+- A settlement is an official agreement between two sides who were involved in a conflict or argument. 协议
+
+---
+
+hurl
+- If you hurl something, you throw it violently and with a lot of force. 用力掷
+
+---
+
+bellow
+- If someone bellows, they shout angrily in a loud, deep voice. (人) 吼叫
+- When a large animal such as a bull or an elephant bellows, it makes a loud and deep noise. (大型动物) 低嚎
+
+---
+
+langur
+- 叶猴（一种长尾猴）
+
+---
+
+frantic
+- If you are frantic, you are behaving in a wild and uncontrolled way because you are frightened or worried. (因恐惧或忧虑而) 发狂似的
+
+---
+
+porcupine
+- A porcupine is an animal with many long, thin, sharp spikes on its back that stick out as protection when it is attacked. 豪猪; 箭猪
+
+---
+
+billow
+- When something made of cloth billows, it swells out and moves slowly in the wind. 在风中鼓胀着飘动
+  The curtains billowed in the breeze. 
+  Her pink dress billowed out around her. 
+
+---
+
+rugged
+- A rugged area of land is uneven and covered with rocks, with few trees or plants. 崎岖多岩的
+
+---
+
+stir
+- to make people feel strong emotions 激起（感情）
+  to stir up hatred
+- to try to cause arguments or problems 挑起，煽动（争执或事端）  
+  to stir up a debate
+
+---
+
+dorsal
+- Dorsal means relating to the back of a fish or animal. (鱼或动物)背的
+
+---
+
+methodical
+- If you describe someone as methodical, you mean that they do things carefully, thoroughly, and in order. 有条不紊的
+
+---
+
+brute
+- If you call someone, usually a man, a brute, you mean that they are rough, violent, and insensitive. 粗暴的人 (通常指男性)
+
+---
+
+cayman/caiman
+- any tropical American crocodilian of the genus Caiman and related genera, similar to alligators but with a more heavily armoured belly: family Alligatoridae (alligators, etc) 一种(美洲热带地区产的)鳄鱼; 其盔甲般的下腹比一般鳄鱼的更厚实. 凯门鳄
+
+---
+
+solicit
+- f you solicit money, help, support, or an opinion from someone, you ask them for it. 请求给予
+
+---
+
+snug
+- If you feel snug or are in a snug place, you are very warm and comfortable, especially because you are protected from cold weather. 温暖舒适的
+
+---
+
+herring
+- A herring is a long silver-coloured fish. Herring live in large groups in the ocean. 鲱 (鱼)
+
+---
+
+piggyback
+- a ride on sb's back, while he or she is walking
+
+---
+
+commotion
+- A commotion is a lot of noise, confusion, and excitement. 骚动
+
+---
+
+flipper
+- a flat part of the body of some sea animals such as seals and turtles , used for swimming （海豹、海龟等的）鳍肢，鳍足
+- a long flat piece of rubber or plastic that you wear on your foot to help you swim more quickly, especially below the surface of the water （潜水、游泳用的）脚蹼，蛙鞋，鸭脚板，橡皮脚掌
+
+---
+
+plankton
+- Plankton is a mass of tiny animals and plants that live in the surface layer of the sea. 浮游生物
+
+---
+
+lunge
+- If you lunge in a particular direction, you move in that direction suddenly and clumsily. 猛冲
+
+---
+
+reserve
+- [ Cusually pl. ] a supply of sth that is available to be used in the future or when it is needed 储备（量）；储藏（量）
+- a piece of land that is a protected area for animals, plants, etc. （动植物）保护区；自然保护区
+
+---
+
+livestock
+- Animals such as cattle and sheep which are kept on a farm are referred to as livestock. 家畜
+
+---
+
+swish
+- If something swishes or if you swish it, it moves quickly through the air, making a soft sound.
+
+---
+
+resourceful
+- Someone who is resourceful is good at finding ways of dealing with problems. 足智多谋的
+
+---
+
+hold out sth
+- to offer a chance, hope or possibility of sth 提供机会；给予希望；使有可能
+  Doctors hold out little hope of her recovering.
+
+---
+
+mould/mold
+- ~ sb/sth (into sb/sth) to strongly influence the way sb's character, opinions, etc. develop 对…影响重大；将…塑造成
+
+---
+
+pushover
+- a thing that is easy to do or win 轻易的事；容易获得的胜利
+  The game will be a pushover. 
+- a person who is easy to persuade or influence 容易说服的人；耳软心活的人；好说话的人
+  I don't think she'll agree—she's no pushover.
+
+---
+
+a maternity ward/hospital 
+- (= one where women go to give birth to their babies) 产科病房；妇产医院
+
+---
+
+workload
+- The workload of a person or organization is the amount of work that has to be done by them. 工作量
+
+---
+
+play with fire
+- To do something that risks causing one harm, damage, or misfortune; to do something dangerous.
+
+---
+
+forte
+- You can say that a particular activity is your forte if you are very good at it. 强项
+
+---
+
+materialize
+- If a possible or expected event does not materialize, it does not happen. 实现
+
+---
+
+flag
+- to become tired, weaker or less enthusiastic 疲乏；变弱；热情衰减
+  It had been a long day and the children were beginning to flag.
+  Her confidence had never flagged.
+
+---
+
+arsenal
+- An arsenal is a large collection of weapons and military equipment held by a country, group, or person. 武器
+
+---
+
+primal
+- Primal is used to describe something that relates to the origins of things or that is very basic. 原始的
+
+---
+
+primeval
+- from the earliest period of the history of the world, very ancient 远古的；原始的
+- ( formal ) ( of a feeling, or a desire 感觉或欲望 ) very strong and not based on reason, as if from the earliest period of human life 出于原始天性的
+
+---
+
+pygmy
+- Pygmy means belonging to a species of animal that is the smallest of a group of related species. (一组有亲缘关系的动物中)最小的
+
+---
+
+serrated
+- A serrated object such as a knife or blade has a row of V-shaped points along the edge. (刀或刀片)呈锯齿状的; 呈蛇尖状的
+
+---
+
+fend for oneself
+- If you have to fend for yourself, you have to look after yourself without relying on help from anyone else. 照料 (自己)
+
+---
+
+surreal
+- If you describe something as surreal, you mean that the elements in it are combined in a strange way that you would not normally expect, like in a dream. 离奇的
+
+---
+
+mind-blowing
+- If you describe something as mind-blowing, you mean that it is extremely impressive or surprising. 令人印象极深刻的; 令人极震惊的
+
+---
+
+bog
+- A bog is an area of land that is very wet and muddy. 沼泽
+
+---
+
+noxious
+- A noxious gas or substance is poisonous or very harmful. 有毒的; 有害的
+
+---
+
+carnage
+- Carnage is the violent killing of large numbers of people, especially in a war. 大屠杀
+
+---
+
+cleave
+- To cleave something means to split or divide it into two separate parts, often violently. 劈开
+
+---
+
+dawdle
+- If you dawdle, you spend more time than is necessary going somewhere. 磨蹭
+
+---
+
+coyote
+- A coyote is a small wolf which lives in the plains of North America. 郊狼
+
+---
+
+marked
+- A marked change or difference is very obvious and easily noticed. 明显的
+
+---
+
+orchid
+- a plant with brightly coloured flowers of unusual shapes. There are many different types of orchid and some of them are very rare. 兰科植物；兰花
+
+---
+
+fern
+- A fern is a plant that has long stems with feathery leaves and no flowers. There are many types of fern. 蕨类植物
+
+---
+
+margin
+- The margin of a place or area is the extreme edge of it. 边缘
+
+---
+
+catch/take sb's fancy
+- to attract or please sb
+
+---
+
+iridescent
+- Something that is iridescent has many bright colours that seem to keep changing. 彩虹色的
+  iridescent bubbles. 
+
+---
+
+Madagascar
+- 马达加斯加岛（非洲岛国）
+
+---
+
+gravel
+- Gravel consists of very small stones. It is often used to make paths. 砂砾
+
+---
+
+rampage
+- When people or animals rampage through a place, they rush around there in a wild or violent way, causing damage or destruction. 横冲直撞
+
+---
+
+hoard
+- If you hoard things such as food or money, you save or store them, often in secret, because they are valuable or important to you. 贮藏
+
+---
+
+voracious
+- If you describe a person, or their appetite for something, as voracious, you mean that they want a lot of something. 贪婪的; 如饥似渴的
+
+---
+
+Everest
+- 珠穆朗玛峰（世界最高峰）
+
+---
+
+eradicate
+- To eradicate something means to get rid of it completely. 根除
+
+---
+
+take a heavy ˈtoll (on sb/sth) take its ˈtoll (on sb/sth)
+- to have a bad effect on sb/sth; to cause a lot of damage, deaths, suffering, etc. 产生恶果；造成重大损失（或伤亡、灾难等）
+
+---
+
+saiga
+- either of two antelopes, Saiga tatarica or S. mongolica, of the plains of central Asia, having an enlarged slightly elongated nose 高鼻羚羊
+
+---
+
+sporadic
+- happening only occasionally or at intervals that are not regular 偶尔发生的；间或出现的；阵发性的；断断续续的
+  sporadic outbreaks of the disease
+
+---
+
+soak up
+- to take in or absorb liquid 吸收，吸掉（液体）
+  Use a cloth to soak up some of the excess water.
+
+---
+
+strong
+- You can use strong when you are saying how many people there are in a group. For example, if a group is twenty strong, there are twenty people in it. 多达…的
+
+---
+
+imbibe
+- to absorb sth, especially information
+
+---
+
+cramp one's style
+- ( informal ) to stop sb from behaving in the way they want to 束缚…的手脚；使不能放开手脚（或施展才能）
+
+---
+
+nomadic
+- Nomadic people travel from place to place rather than living in one place all the time. 游牧的
+  the great nomadic tribes of the Western Sahara. 
+- If someone has a nomadic way of life, they travel from place to place and do not have a settled home. 流浪的  
+
+---
+
+intensive
+- Intensive activity involves concentrating a lot of effort or people on one particular task in order to try to achieve a lot in a short time. 集中的
+  after several days and nights of intensive negotiations. 
+
+---
+
+brawn
+- Brawn is physical strength. 体力
+
+---
+
+en masse
+- If a group of people do something en masse, they do it all together and at the same time. 全体一起地
+
+---
+
+brazen
+- ( disapproving ) open and without shame, usually about sth that people find shocking 厚颜无耻的
+
+---
+
+sobering
+- You say that something is a sobering thought or has a sobering effect when a situation seems serious and makes you become serious and thoughtful. 令人深思的
+
+---
+
+glamorize
+- ( usually disapproving ) to make sth bad appear attractive or exciting 使有魅力；使有刺激性；美化
+
+---
+
+wait on
+- to act as a servant to sb, especially by serving food to them 伺候，服侍，招待（尤指进餐）
+
+---
+
+busboy
+- ( NAmE ) a person who works in a restaurant and whose job is to clear the dirty dishes, etc. 餐厅勤杂工（负责收餐具、抹桌子等）
+
+---
+
+surly
+- Someone who is surly behaves in a rude bad-tempered way. 粗暴的; 乖戾的
+
+---
+
+gruff
+- A gruff voice sounds low and rough. 粗哑的
+- If you describe someone as gruff, you mean that they seem rather unfriendly or bad tempered. 脾气差的; 不友好的
+
+---
+
+demolish
+- To demolish something such as a building means to destroy it completely. 彻底摧毁
+
+---
+
+rouse
+- If someone rouses you when you are sleeping or if you rouse, you wake up. 使...醒来; 醒来
+
+---
+
+creak
+- If something creaks, it makes a short, high-pitched sound when it moves. 嘎吱作响
+
+---
+
+hassle
+- A hassle is a situation that is difficult and involves problems, effort, or arguments with people. 麻烦
+- If someone hassles you, they cause problems for you, often by repeatedly telling you or asking you to do something, in an annoying way. 烦扰
+
+---
+
+acne
+- If someone has acne, they have a skin condition which causes a lot of pimples on their face and neck. 粉刺
+
+---
+
+get through to sb
+- If you get through to someone, you succeed in making them understand something that you are trying to tell them. 使…理解
+
+---
+
+beat-up
+- A beat-up car or other object is old and in bad condition. 破旧的
+
+---
+
+derby
+- A derby is a sports competition or race where there are no restrictions or limits on who can enter. (对参赛者没有限制的)比赛; 竞赛
+
+---
+
+clingy
+- If you describe someone as clingy, you mean that they become very attached to people and depend on them too much. 过于依赖人的
+
+---
+
+hypnotic
+- If someone is in a hypnotic state, they have been hypnotized. 被催眠了的
+- Something that is hypnotic holds your attention or makes you feel sleepy, often because it involves repeated sounds, pictures, or movements. 有催眠作用的
+
+---
+
+pellet
+- a small hard ball of any substance, often of soft material that has become hard 小球；团粒；丸
+
+---
+
+liberal
+- Someone who has liberal views believes people should have a lot of freedom in deciding how to behave and think. 开明的
+
+---
+
+liberal arts
+- At a university or college, liberal arts courses are on subjects such as history or literature rather than science, law, medicine, or business. 大学文科
+
+---
+
+well-rounded
+- You describe someone as well-rounded when you are expressing approval of them because they have a personality which is fully developed in all aspects. 人格完满的
+- If you describe something that is made up of several parts as well-rounded, you mean that the way that the different parts are put together is good, because there is not too much or too little of any one part. 全面的
+
+---
+
+antiquity
+- Antiquity is the distant past, especially the time of the ancient Egyptians, Greeks, and Romans. 古代 (尤指古埃及、古希腊和古罗马时期)
+
+---
+
+look on
+- to watch sth without becoming involved in it yourself 旁观
+  Passers-by simply looked on as he was attacked. 
+
+---
+
+look on sb/sth as sb/sth
+- to consider sb/sth to be sb/sth 把…看作；把…视为
+  She's looked on as the leading authority on the subject.
+
+---
+
+look on sb/sth with sth
+- to consider sb/sth in a particular way （以某种方式）看待
+  They looked on his behaviour with contempt. 
+
+---
+
+look over
+- to examine sth to see how good, big, etc. it is 查看；检查
+  We looked over the house again before we decided we would rent it. 
+
+---
+
+look through
+- to examine or read sth quickly 快速查看；浏览
+
+---
+
+rapport
+- If two people or groups have a rapport, they have a good relationship in which they are able to understand each other's ideas or feelings very well. 融洽
+
+---
+
+Hispanic
+- A Hispanic person is a citizen of the United States of America who originally came from Latin America, or whose family originally came from Latin America. 拉美裔美国籍的
+
+---
+
+spunky
+- A spunky person shows courage. 勇敢的; 有胆量的
+
+---
+
+growl
+- When a dog or other animal growls, it makes a low noise in its throat, usually because it is angry. (狗或其它动物因愤怒而) 低沉地吼叫
+
+---
+
+snarl
+- When an animal snarls, it makes a fierce, rough sound in its throat while showing its teeth. (动物) 露齿嗥叫
+
+---
+
+jiggle
+- If you jiggle something, you move it quickly up and down or from side to side. 摇动
+
+---
+
+wicker
+-  thin sticks of wood twisted together to make baskets , furniture, etc. （编制筐篮、家具等用的）柳条，枝条
+
+---
+
+musty
+- Something that is musty smells old and damp. 有霉味的; 发霉的
+
+---
+
+muck
+- Muck is dirt or some other unpleasant substance. 污物
+
+---
+
+bobber
+- a floating object used in fishing to hold the hook at the right depth （钓鱼用的）浮子，浮标
+
+---
+
+sleek
+- Sleek hair or fur is smooth and shiny and looks healthy. 光滑的
+
+---
+
+puddle
+- A puddle is a small, shallow pool of liquid that has spread on the ground. 水坑
+
+---
+
+cuff
+- The cuffs of a shirt or dress are the parts at the ends of the sleeves, which are thicker than the rest of the sleeve. 袖口
+
+---
+
+bluster
+- If you say that someone is blustering, you mean that they are speaking aggressively but without authority, often because they are angry or offended. 咆哮
+
+---
+
+fluster
+- If you fluster someone, you make them feel nervous and confused by rushing them and preventing them from concentrating on what they are doing. 使慌张
+
+---
+
+surveil
+- to observe closely the activities of (a person or group) 监视(人或团体)
+
+---
+
+surveillance
+- Surveillance is the careful watching of someone, especially by an organization such as the police or the army. 监视
+
+---
+
+textile
+- Textiles are types of cloth or fabric, especially ones that have been woven. 纺织品
+
+---
+
+aide
+- An aide is an assistant to someone who has an important job, especially in government or in the armed forces. 助手
+
+---
+
+skid
+- If a vehicle skids, it slides sideways or forward while moving, for example,when you are trying to stop it suddenly on a wet road. 侧滑; 打滑; (刹车时) 滑行
+
+---
+
+trailer
+- A trailer is a container on wheels which is pulled by a car or other vehicle and which is used for transporting large or heavy items. 拖车
+
+---
+
+vat
+- A vat is a large barrel or tank in which liquids can be stored. 大桶; 缸
+
+---
+
+deteriorate
+- If something deteriorates, it becomes worse in some way. 恶化
+  There are fears that the situation might deteriorate into full-scale war. 
+
+---
+
+run-down
+- A run-down building or area is in very poor condition. (房屋等) 破败的
+
+---
+
+footpath
+- A footpath is a path for people to walk on, especially in the countryside. (尤指乡间的) 小路
+
+---
+
+quaint
+- Something that is quaint is attractive because it is old-fashioned. 古雅的
+
+---
+
+shanty
+- a small house, built of pieces of wood, metal and cardboard, where very poor people live, especially on the edge of a big city 棚屋，简陋小屋（常搭建于城市边缘）
+
+---
+
+fume
+- Fumes are the unpleasant and often unhealthy smoke and gases that are produced by fires or by things such as chemicals, fuel, or cooking. (难闻且常有害的) 烟气
+
+---
+
+streak
+- a long thin mark or line that is a different colour from the surface it is on 条纹；条痕
+  streaks of grey in her hair 
+  dirty streaks on the window
+- a part of a person's character, especially an unpleasant part （尤指不好的）性格特征
+  a ruthless/vicious/mean streak
+  a streak of cruelty 几分残忍
+
+---
+
+grudge
+- If you have or bear a grudge against someone, you have unfriendly feelings toward them because of something they did in the past. 积怨
+
+---
+
+tantrum
+- If a child has a tantrum, they lose their temper in a noisy and uncontrolled way. If you say that an adult is throwing a tantrum, you are criticizing them for losing their temper and acting in a childish way. 发脾气
+
+---
+
+droopy
+- If you describe something as droopy, you mean that it hangs down with no strength or firmness. 耷拉着的
+
+---
+
+immaculate
+- If you describe something as immaculate, you mean that it is extremely clean, tidy, or neat. 一尘不染的
+
+---
+
+tot
+- A tot is a very young child. 小孩
+
+---
+
+dumpy
+- If you describe someone as dumpy, you mean they are short and fat, and are usually implying they are unattractive. 矮胖不好看的
+
+---
+
+stall
+- a table or small shop with an open front that people sell things from, especially at a market SYN stand 货摊，摊位，售货亭（尤指集市上的）
+
+---
+
+acrimonious
+- Acrimonious words or quarrels are bitter and angry. (言辞或争辩) 激烈的
+
+---
+
+estrange
+- to separate and live apart from (one's spouse) 分居
+
+---
+
+estranged
+- An estranged wife or husband is no longer living with their husband or wife. 分居的
+- If you are estranged from your family or friends, you have quarrelled with them and are not communicating with them. (与家人、朋友) 疏远的
+  Joanna spent most of her twenties virtually estranged from her father. 
+- If you describe someone as estranged from something such as society or their profession, you mean that they no longer seem involved in it. 脱离的
+  Arran became increasingly estranged from the mainstream of Hollywood.   
+
+---
+
+alienate
+- If you alienate someone, you make them become unfriendly or unsympathetic toward you. 冷落
+  The government cannot afford to alienate either group. 
+
+---
+
+acrimony
+- Acrimony is bitter and angry words or quarrels. 争执
+
+---
+
+acrid
+- An acrid smell or taste is strong and sharp, and usually unpleasant. 刺鼻的
+
+---
+
+animosity
+- Animosity is a strong feeling of dislike and anger. Animosities are feelings of this kind. 强烈敌意
+
+---
+
+dysfunctional
+- Dysfunctional is used to describe relationships or behaviour which are different from what is considered to be normal. (关系或行为)异常的
+
+---
+
+seethe
+- When you are seething, you are very angry about something but do not express your feelings about it. 怒火中烧
+
+---
+
+airy
+- If a building or room is airy, it has a lot of fresh air inside, usually because it is large. 通风的
+
+---
+
+furbish
+- to make bright by polishing; burnish 擦亮
+
+---
+
+burnish
+- To burnish the image of someone or something means to improve their image. 使(某物)光亮; 提升(某人的)形象
+
+---
+
+refurbish
+- To refurbish a building or room means to clean it and decorate it and make it more attractive or better equipped. 翻新 (建筑物或房间)
+
+---
+
+renovate
+- If someone renovates an old building, they repair and improve it and get it back into good condition. 修复; 整修
+
+---
+
+dilapidated
+- A building that is dilapidated is old and in a generally bad condition. 破旧的
+
+---
+
+draughty
+- A draughty room or building has currents of cold air blowing through it, usually because the windows and doors do not fit very well. (房间或建筑物的门窗)漏风的
+
+---
+
+draught
+- A draught is a current of air that comes into a place in an undesirable way. (钻进某处的) 风
+
+---
+
+cramped
+- A cramped room or building is not big enough for the people or things in it. 狭促的
+
+---
+
+cottage
+- A cottage is a small house, usually in the country. 村舍
+
+---
+
+perishable
+- Goods such as food that are perishable go bad after a short length of time. (食物)易腐烂的; 易变质的
+
+---
+
+hearty
+- A hearty meal is large and very satisfying. (饭菜) 丰盛的
+
+---
+
+insatiable
+- If someone has an insatiable desire for something, they want as much of it as they can possibly get. 无法满足的; 贪得无厌的
+
+---
+
+cameo
+- A cameo is a short description or piece of acting which expresses cleverly and neatly the nature of a situation, event, or person's character. 精彩片段
+
+---
+
+box office
+- The box office in a theatre or concert hall is the place where the tickets are sold. 售票处
+  the long line of people outside the box-office. 
+- When people talk about the box office, they are referring to the degree of success of a film or play in terms of the number of people who go to watch it or the amount of money it makes. 票房
+  The film has taken $180 million at the box office. 
+
+---
+
+compulsive
+- You use compulsive to describe people or their behaviour when they cannot stop doing something wrong, harmful, or unnecessary. 欲罢不能的
+  a compulsive liar. 
+- If a book or television programme is compulsive, it is so interesting that you do not want to stop reading or watching it. (书、电视节目) 使人着迷的  
+
+---
+
+flick
+- If something flicks in a particular direction, or if someone flicks it, it moves with a short, sudden movement. 迅速地移动
+
+---
+
+virtuoso
+- A virtuoso is someone who is extremely good at something, especially at playing a musical instrument. 大师 (尤指乐器演奏高手)
+- A virtuoso performance or display shows great skill. 技艺精湛的
+
+---
+
+take up
+- to learn or start to do sth, especially for pleasure （尤指为消遣）学着做，开始做
+
+---
+
+strum
+- If you strum a stringed instrument such as a guitar, you play it by moving your fingers backward and forward across the strings. 弹奏 (吉他等弦乐器)
+
+---
+
+archery
+- Archery is a sport in which people shoot arrows at a target using a bow. 射箭
+
+---
+
+typhoid
+- a serious infectious disease that causes fever, red spots on the chest and severe pain in the bowels , and sometimes causes death 伤寒
+
+---
+
+hay fever
+- If someone is suffering from hay fever, they sneeze and their eyes itch, because they are allergic to grass or flowers. 花粉热
+
+---
+
+leukaemia
+- Leukaemia is a disease of the blood in which the body produces too many white blood cells. 白血病
+
+---
+
+autism
+- Autism is a severe mental disorder that makes someone unable to respond to other people. 自闭症
+
+---
+
+autistic
+- An autistic person suffers from autism. 自闭症的
+
+---
+
+excruciate
+- to inflict mental suffering on; torment (精神上)折磨; 使痛苦
+
+---
+
+excruciate
+- If you describe something as excruciating, you are emphasizing that it is extremely painful, either physically or emotionally. 极痛苦的
+  I was in excruciating pain and one leg wouldn't move. 
+
+---
+
+torment
+- Torment is extreme suffering, usually mental suffering. (常指精神上的) 极度痛苦
+- If something torments you, it causes you extreme mental suffering. (精神上) 折磨  
+
+---
+
+pneumonia
+- a serious illness affecting one or both lungs that makes breathing difficult 肺炎
+
+---
+
+broadband
+- Broadband is a method of sending many electronic messages at the same time by using a wide range of frequencies. 宽带  
+
+---
+
+enrol
+- If you enrol or are enrolled at an institution or in a class, you officially join it. 注册
+
+---
+
+enrol on a course
+
+---
+
+tertiary
+- He must have come to know those philosophers through secondary or tertiary sources. 
+
+---
+
+tertiary education
+- Tertiary education is education at the university or college level. 大学的 (教育)
+
+---
+
+turnover
+- The turnover of a company is the value of the goods or services sold during a particular period of time. 营业额
+
+---
+
+uphold
+- If you uphold something such as a law, a principle, or a decision, you support and maintain it. 维护
+
+---
+
+enforce
+- If people in authority enforce a law or a rule, they make sure that it is obeyed, usually by punishing people who do not obey it. 施行
+
+---
+
+verdict
+- In a court of law, the verdict is the decision that is given by the jury or judge at the end of a trial. 裁决
+
+---
+
+petty
+- You can use petty to describe things such as problems, rules, or arguments that you think are unimportant or relate to unimportant things. 不重要的
+
+---
+
+spate
+- A spate of things, especially unpleasant things, is a large number of them that happen or appear within a short period of time. 一连串
+
+---
+
+offender
+- An offender is a person who has committed a crime. 罪犯
+
+---
+
+rock bottom
+- If something has reached rock bottom, it is at such a low level that it cannot go any lower. 最低谷
+- A rock-bottom price or level is a very low one, mainly in advertisements.
+
+---
+
+avert
+- If you avert something unpleasant, you prevent it from happening. 防止
+
+---
+
+asylum
+- ( also formal also poˌlitical aˈsylum ) [ U ] protection that a government gives to people who have left their own country, usually because they were in danger for political reasons （政治）庇护，避难
+
+---
+
+repay
+- If you repay a loan or a debt, you pay back the money that you owe to the person who you borrowed or took it from. 付还; 偿还 (贷款、债务)
+
+---
+
+eerie
+- If you describe something as eerie, you mean that it seems strange and frightening, and makes you feel nervous. 怪异的; 可怕的
+
+---
+
+babble
+- If someone babbles, they talk in a confused or excited way. 含糊不清地说; 兴奋地说
+
+---
+
+excessive
+- If you describe the amount or level of something as excessive, you disapprove of it because it is more or higher than is necessary or reasonable. 过多的; 过度的
+
+---
+
+luxurious
+- If you describe something as luxurious, you mean that it is very comfortable and expensive. 豪华的
+
+---
+
+luxuriant
+- Luxuriant plants, trees, and gardens are large, healthy, and growing well. (植木、花园等)茂密的; 茂盛的; 葱茏的
+
+---
+
+raucous
+- A raucous sound is loud, harsh, and rather unpleasant. 刺耳的
+
+---
+
+thud
+- A thud is a dull sound, such as that which a heavy object makes when it hits something soft. 沉闷声
+
+---
+
+grate
+- If you grate food such as cheese or carrots, you rub it over a metal tool called a grater so that the food is cut into very small pieces. 磨碎 (食物)
+
+---
+
+grating
+- A grating sound is harsh and unpleasant. 刺耳的
+
+---
+
+blare
+- If something such as a siren or radio blares, it makes a loud, unpleasant noise. 发出响亮刺耳的声音
+
+---
+
+blare out
+- blare
+
+---
+
+whir
+- When something such as a machine or an insect's wing whirs, it makes a series of low sounds so quickly that they seem like one continuous sound. 发出嗡嗡声
+
+---
+
+groan
+- If you groan, you make a long, low sound because you are in pain, or because you are upset or unhappy about something. 呻吟
+
+---
+
+crackle
+- If something crackles, it makes a rapid series of short, harsh noises. 发出连续急促刺耳的声音; 发劈啪声
+
+---
+
+painfully
+- You use painfully to emphasize a quality or situation that is undesirable. (用以强调不好的性质或情形) 非常
+
+---
+
+subdue
+- If soldiers or the police subdue a group of people, they defeat them or bring them under control by using force. 制服
+- To subdue feelings means to make them less strong. 克制 (感情)
+
+---
+
+flicker
+- If a light or flame flickers, it shines unsteadily. 闪烁不定
+
+---
+
+tinge
+- to add a small amount of colour to sth （轻微地）给…着色，给…染色
+- a small amount of a colour, feeling or quality 微量，少许，一丝，几分（颜色、感情或性质）
+
+---
+
+tint
+- A tint is a small amount of colour. 少许色彩
+- If something is tinted, it has a small amount of a particular colour or dye in it. 使略有…色彩; 给…淡淡地染色
+
+---
+
+revolting
+- If you say that something or someone is revolting, you mean you think they are horrible and disgusting. 令人厌恶的
+
+---
+
+standstill
+- If movement or activity comes to or is brought to a standstill, it stops completely. 停止
+
+---
+
+profuse
+- Profuse sweating, bleeding, or vomiting is sweating, bleeding, or vomiting large amounts. 大量的 (出汗、流血、呕吐)
+- If you offer profuse apologies or thanks, you apologize or thank someone a lot. 多次的 (感谢或道歉)
+
+---
+
+lull
+- A lull is a period of quiet or calm in a longer period of activity or excitement. 间歇期
+
+---
+
+headlong
+- If you move headlong in a particular direction, you move there very quickly. 迅猛地
+- If you rush headlong into something, you do it quickly without thinking carefully about it. 轻率地
+
+---
+
+falter
+- If something falters, it loses power or strength in an uneven way, or no longer makes much progress. 衰退
+  Normal life is at a standstill, and the economy is faltering. 
+- If you falter, you lose your confidence and stop doing something or start making mistakes. 犹豫
+  I have not faltered in my quest for a new future.  
+
+---
+
+statement
+- a printed record of money paid, received, etc. 结算单；清单；报表
+
+---
+
+bank statement
+- a printed record of all the money paid into and out of a customer's bank account within a particular period 银行结单（某时期内存户存取款项的清单）
+
+---
+
+incinerate
+- to burn sth until it is completely destroyed 把…烧成灰烬；焚毁
+
+---
+
+handout
+- A handout is a paper given out to students by a teacher, that contains a summary of the information or topics that will be dealt with in a lesson. (教师给学生的) 讲义
+
+---
+
+criterion
+- A criterion is a factor on which you judge or decide something. (判断的) 标准
+
+---
+
+reference
+- a letter written by sb who knows you, giving information about your character and abilities, especially to a new employer 推荐信；介绍信
+- a person who agrees to write a reference for you, for example when you are applying for a job 推荐人；介绍人
+
+---
+
+referee
+- A referee is a person who gives you a reference, for example when you are applying for a job. 介绍人; 推荐人
+
+---
+
+clubhouse
+- A clubhouse is a place where the members of a club, especially a sports club, meet. (尤指运动俱乐部的) 俱乐部会所
+
+---
+
+newsletter
+- A newsletter is one or more printed sheets of paper containing information about an organization that is sent regularly to its members. (组织等定期印发给其成员的) 内部通讯
+
+---
+
+presentation
+- A presentation is a formal event at which someone is given a prize or award. 颁奖仪式
+
+---
+
+nail-biting
+- making you feel very excited or anxious because you do not know what is going to happen 令人焦躁不安的；令人紧张的
+
+---
+
+flop
+- If you flop into a chair, for example, you sit down suddenly and heavily because you are so tired. (因疲惫) 一下子重重地坐下
+- If something flops onto something else, it falls there heavily or untidily. 沉重地摔落
+- If something flops, it is completely unsuccessful. 彻底失败
+
+---
+
+slump
+- If something such as the value of something slumps, it falls suddenly and by a large amount. (价值等) 暴跌
+- If you slump somewhere, you fall or sit down there heavily, for example, because you are very tired or you feel ill. 瘫倒; (因劳累或生病等) 跌坐
+
+---
+
+upsurge
+- If there is an upsurge in something, there is a sudden, large increase in it. 剧增
+
+---
+
+keep-fit
+- ( BrE ) physical exercises that you do, usually in a class with other people, in order to improve your strength and to stay healthy （集体）健身锻炼， 健身操
+
+---
+
+A refectory is a large room in a monastery or other institution, where meals are served and eaten. (修道院及其他机构的)食堂
+
+---
+
+refreshments
+- Refreshments are drinks and small amounts of food that are provided, for example, during a meeting or a trip. 茶点
+
+---
+
+havoc
+- Havoc is great disorder and confusion. 大混乱
+
+---
+
+adverse
+- Adverse decisions, conditions, or effects are unfavourable to you. 不利的
+
+---
+
+uproar
+- If there is uproar, there is a lot of shouting and noise because people are very angry or upset about something. 骚动
+
+---
+
+blot
+- A blot is a drop of liquid that has fallen on to a surface and has dried. 污渍
+-If you blot a surface, you remove liquid from it by pressing a piece of soft paper or cloth onto it. (用纸、布) 吸干
+
+---
+
+door-to-door
+- Delivered directly from a store or business to a residence
+  promised door-to-door delivery.
+
+---
+
+footwear
+- Footwear refers to things that people wear on their feet, for example, shoes and boots. 鞋类
+
+---
+
+car park
+- A car park is an area or building where people can leave their cars. 停车场
+
+---
+
+mattress
+- A mattress is the large, flat object which is put on a bed to make it comfortable to sleep on. 床垫
+
+---
+
+nightstand
+- A nightstand is a small table usually with shelves or drawers, that you have next to your bed. (床边带抽屉的)小桌
+
+---
+
+night table
+- nightstand
+
+---
+
+bed frame
+
+---
+
+market garden
+- an establishment where fruit and vegetables are grown for sale 商品果蔬园
+
+---
+
+venue
+- The venue for an event or activity is the place where it will happen. 举办场所
+
+---
+
+roadway
+- a road or the part of a road used by vehicles 道路；车行道
+
+---
+
+stretch
+- If you say that a job or task stretches you, you mean that you like it because it makes you work hard and use all your energy and skills so that you do not become bored or achieve less than you should. 使充分发挥
+
+---
+
+minimal
+- Something that is minimal is very small in quantity, value, or degree. 尽可能少的; 最低限度的
+
+---
+
+from... onwards
+- continuing from a particular time 从（某时）起一直
+
+---
+
+substantiate
+- To substantiate a statement or a story means to supply evidence which proves that it is true. 证实
+
+---
+
+relish
+- If you relish something, you get a lot of enjoyment from it. 喜爱; 乐于; 玩赏
+
+---
+
+ovation
+- An ovation is a large amount of applause from an audience for a particular performer or speaker. 欢呼
+
+---
+
+outspoken
+- Someone who is outspoken gives their opinions about things openly and honestly, even if they are likely to shock or offend people. 直言不讳的
+
+---
+
+toner
+- A toner is a substance which you can put on your skin, for example, to clean it or make it less oily. 爽肤水
+
+---
+
+emulsion
+- An emulsion is a liquid or cream which is a mixture of two or more liquids, such as oil and water, that do not naturally mix together. 乳化液
+
+---
+
+sleet
+- Sleet is rain that is partly frozen. 冻雨
+
+---
+
+slush
+- Slush is snow that has begun to melt and is therefore very wet and dirty. 雪泥
+
+---
+
+snowdrift
+- A snowdrift is a deep pile of snow formed by the wind. (风吹聚成的)雪堆
+
+---
+
+blustery
+- Blustery weather is rough, windy, and often rainy, with the wind often changing in strength or direction. 刮旋风的
+
+---
+
+auburn
+- Auburn hair is reddish brown. 红棕色的
+
+---
+
+crew cut
+- A crew cut is a man's hairstyle in which his hair is cut very short. 平头
+
+---
+
+stout
+- A stout person is rather fat. 肥胖的
+
+---
+
+stocky
+- ( of a person 人 ) short, with a strong, solid body 矮壮的；敦实的
+
+---
+
+scruffy
+- ( informal ) dirty or untidy 不整洁的；邋遢的
+
+---
+
+daft
+- foolish, simple, or stupid 愚蠢的
+
+---
+
+sadistic
+- A sadistic person obtains pleasure from hurting other people and making them suffer physically or mentally. 有施虐狂的
+
+---
+
+even-tempered
+- If someone is even-tempered, they are usually calm and do not easily get angry. 性情平和的; 不易生气的
+
+---
+
+miser
+- If you say that someone is a miser, you disapprove of them because they seem to hate spending money, and to spend as little as possible. 吝啬鬼; 守财奴
+
+---
+
+miserly
+- If you describe someone as miserly, you disapprove of them because they seem to hate spending money, and to spend as little as possible. 吝啬的; 视财如命的
+
+---
+
+permissive
+- A permissive person, society, or way of behaving allows or tolerates things that other people disapprove of. 宽容的; 放任的
+
+---
+
+leprosy
+- Leprosy is an infectious disease that damages people's flesh. 麻风病
+
+---
+
+cholera
+- Cholera is a serious disease that often kills people. It is caused by drinking infected water or by eating infected food. 霍乱
+
+---
+
+acupuncture
+- Acupuncture is the treatment of a person's illness or pain by sticking small needles into their body at certain places. 针灸
+
+---
+
+hectic
+- A hectic situation is one that is very busy and involves a lot of rushed activity. 紧张忙碌的

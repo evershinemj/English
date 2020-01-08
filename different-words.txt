@@ -37,3 +37,53 @@ glide, swoop
 intervene, interfere 干预，干涉
 ape, primate
 dual, duel
+corpse, carcass
+amiable, amicable
+haul, hurl
+hedgehog, porcupine
+bellow, billow
+rugged, ragged
+signal, sign 信号，符号
+call on, call for
+interpret, explain 诠释，解释
+shallows, shallow
+limitation, limit
+defect, deficit
+ferocious, voracious 
+imbibe, soak up
+intensive, intense
+slander, libel 口头诽谤，文字诽谤
+disparage, slander
+demolish, diminish
+contrast, compare
+bluster, blister
+liquor, liquid
+immaculate, meticulous
+youthful, young
+seethe, soothe
+furnish, furbish
+furnish, refurbish
+draughty, windy
+torture, torment 拷打，折磨
+pneumonia, asthma
+luxurious, luxuriant
+whir, whirl
+crack, crackle
+flick, flicker
+coarse, rough
+waft, whiff
+continual, continuous
+waver, wade
+falter, foster
+criterion, standard 评判标准，标准
+flap, flip, flop
+puddle, poodle
+footbridge, bridge
+footpath, path
+equity, equality
+duvet, quilt
+contradictory, contrary
+reject, refuse
+sleet, hail
+stout, stocky
+hectic, hideous

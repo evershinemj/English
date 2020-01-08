@@ -1,6 +1,7 @@
 # try to use more phrasal verbs.
 
 cut off from
+call for
 take on
 heat up
 rip up
@@ -21,9 +22,34 @@ pose a threat/question/problem
 manage to
 insulate sb/sth from sth
 bring up
+call on sb to do sth
+piece together
+contrive to
+stir up
+adapt to
 
 # try to use more phrases.
 
+susceptible to
+electrical supply
+in the long run
+juvenile delinquency
+a gallon of milk
+mystery novel
+fashion magazine
+lush vegetation
+a wealth of
+a staggering variety of
+capable of
+annoyingly persistent
+in the extreme
+intense competition
+on a global scale
+determining factor
+without human intrusion
+cause confusion
+on a large scale
+reach a settlement
 in the absence of
 prior to
 from time to time
@@ -66,6 +92,32 @@ try to use more verbs, adjectives and adverbs, as they are more generalized.
 
 # adj.
 
+liberal
+hypnotic
+mesmerized
+sporadic
+unpredictable
+delightful
+worldwide
+primal
+primeval
+primitive
+gruesome
+hideous
+formidable
+urgent
+essential
+hostile
+adaptable
+critical
+resilient
+ruthless
+relentless
+irrational
+sheer
+superlative
+concerned
+vulnerable
 phenomenal
 futile
 fragile
@@ -154,6 +206,28 @@ aggressive
 
 # v.
 
+disillusionment
+hypnotize
+contract
+demolish
+glamorize
+proliferate
+cramp
+eradicate
+defy
+reflect
+fluctuate
+mould
+tolerate
+outmanoeuvre
+represent
+enhance
+outlive
+diminish
+resume
+abort
+unravel
+insulate
 rear
 manipulate
 exclude
@@ -243,6 +317,48 @@ aggravate
 
 # adv.
 
+globally
+painfully
+exclusively
+clumsily
+alternatively
+merely
+technically
+widely
+truly
+increasingly
+frustratingly
+notoriously
+annoyingly
+effortlessly
+worldwide
+tantalizingly
+mostly
+gradually
+admittedly
+inadvertently
+precisely
+superbly
+appropriately
+literally
+comparatively
+especially
+relatively
+exceptionally
+amazingly
+supposedly
+primarily
+individually
+mortally
+previously
+intimately
+utterly
+deliberately
+partially
+totally
+hopefully
+desperately
+normally
 sadly
 potentially
 dramatically
@@ -290,6 +406,33 @@ try to use simple nouns or nouns that convey a clear idea
 
 # n.
 
+rapport
+downturn
+delinquency
+delinquent
+complexity
+counterpart
+arena
+outbreak
+perspective
+tension
+uncertainty
+retain
+infrastructure
+facilities
+habitat
+wildlife
+subtlety
+agenda
+agency
+agent
+commotion
+commitment
+cluster
+neighborhood
+hindrance
+frenzy
+abortion
 flexibility
 adaptability
 territory

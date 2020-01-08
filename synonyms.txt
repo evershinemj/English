@@ -116,7 +116,7 @@ pupa, chrysalis
 invert, turn upside down
 invert, turn inside out
 shrub, bush
-hamper, hinder
+hamper, hinder, impede
 apprehensive, concerned
 spire, steeple
 gouge, chisel
@@ -187,3 +187,218 @@ manoeuvre, manipulate
 diversity, variety
 beak, bill
 frenzy, madness
+amicable, peaceful
+settlement, agreement
+crucial, critical
+perilous, hazardous
+strain, pressure, stress
+frantic, frenzied, mad
+hindrance, obstacle
+utterly, totally
+billow, flow
+bellow, roar
+rugged, rocky
+stir up, incite
+crimson, scarlet
+justify, excuse
+cayman, alligator
+signal, gesture
+snug, cosy
+ludicrous, ridiculous
+call for, request
+call for, demand
+wrench, twist
+comparatively, relatively
+commotion, disturbance
+former, previous
+give away, disclose
+haul, drag
+hurl, fling
+essential, vital
+inadvertently, unintentionally
+frail, feeble
+frail, flimsy, fragile
+persistence, perseverance
+hideous, grotesque
+hideous, gruesome
+commission, committee
+intrepid, brave, bold
+copious, abundant
+sophisticated, advanced
+sophisticated, complex, complicated
+sophisticated, subtle
+resourceful, ingenious
+compelling, fascinating
+formidable, impressive, awesome
+formidable, intimidating
+bleak, desolate
+make out, discern, distinguish, recognize
+make out, comprehend
+pushover, piece of cake
+superficial, shallow
+hurdle, obstacle, barrier
+flag, weaken, fade
+disposition, character
+primal, basic
+primal, primeval
+primeval, primitive
+slacken, lessen
+constitute, represent, be equivalent to, be
+constitute, make up, comprise
+be comprised of, consist of
+bog, marsh
+carnage, slaughter, massacre
+thrilling, exciting
+terrific, superb
+liable to, prone to
+dawdle, waste time
+marked, noticeable, obvious
+peculiar, odd
+junction, crossroads
+margin, boundary
+lemur, indri
+hoard, store
+voracious, gluttonous, ravenous
+voracious, greedy
+stretch, extend
+eradicate, eliminate, wipe out
+eradicate, annilihate
+sporadic, intermittent
+soak up, absorb
+imbibe, absorb
+cramp, impede
+bulky, large
+bulky, cumbersome
+take hold, take control
+sustained, continuous
+intensive, concentrated
+in substantial numbers, in considerable numbers
+ceaseless, incessant
+brazen, shameless
+vilify, slander
+vilify, libel
+disparage, belittle
+ransack, raid
+inn, bar
+inn, tavern
+wait on, serve
+bake, roast
+surly, ill-tempered, gruff
+demolish, destroy
+rouse, wake up
+rouse, arouse
+creak, squeak
+hassle, trouble
+hassle, bother
+hassle, harass
+rush, dash
+channel, strait
+contrast, difference
+contrast, differentiate
+eligible, qualified
+chide, scold
+reprimand, reprove
+mesmerize, fascinate
+hypnotize, mesmerize
+hence, thus
+hence, therefore
+maze, labyrinth
+pellet, bullet
+pellet, little ball
+look out, watch out
+look over, examine
+look on, watch
+look on sb/sth as sb/sth, regard as
+look into, investigate
+lukewarm, tepid
+spunky, audacious
+growl, snarl
+cultivate, develop
+allot, allocate
+muck, dirt
+muck, mud
+musty, stale
+tug, pull
+tug, jerk
+relate, tell, narrate
+liquor, alcohol
+superfluous, redundant
+deteriorate, worsen
+quaint, unusual
+strew, scatter
+estrange, alienate
+acrimony, bitterness
+acrimonious, bitter
+acrimonious, hostile
+animosity, hostility
+refurbish, renovate, do up
+substantial, big
+substantial, hearty, square
+compulsive, fascinating, compelling
+flick through, flip through
+excruciating, agonizing, tormenting
+excruciate, afflict
+excruciate, torment
+excruciate, torture
+obtain, acquire
+tertiary, third
+integral, essential
+integral part, essential part
+integral to, essential to
+cut-throat, fierce, ruthless, relentless, competitive
+petty, trivial, insignificant
+offender, criminal
+commit an offence, commit a crime
+avert, avoid
+avert, prevent
+eerie, sinister
+eerie, spooky, creepy
+excessive, extravagant
+excessive, superfluous
+lush, luxuriant
+raucous, harsh, grating
+whir, hum
+groan, moan
+subdue, conquer
+tinge, tint
+flavor, taste
+noxious, harmful
+noxious, poisonous
+acrid, pungent
+overpowering, overwhelming
+revolting, disgusting
+overpowering stink, revolting stench
+continual, constant
+continual, incessant
+continual, frequent
+continual, recurrent
+minute, tiny
+falter, waver, hesitate
+proportion, percentage
+reference, referee
+flop, slump
+slump, drop
+surge, upsurge
+flop, bust
+flop, fail
+flop, failure
+havoc, chaos
+level, height
+susceptible to sth, subject to sth, liable to sth, prone to sth
+equity, fairness
+leaflet, brochure
+justified, acceptable
+justified, reasonable   
+bear, take on
+relish, enjoy
+cater for, provide for
+cater for, take into account, consider, bear in mind
+cater to, indulge, spoil
+counter, oppose
+outspoken, straightforward
+midday, noon
+overall, in general, generally
+hail, hailstones
+stout, fat, overweight
+miserly, tight-fisted, mean
+programme, plan

@@ -9,3 +9,10 @@ soar, swoop
 soar, drop
 surge, drop
 gregarious, solitary
+amicable, hostile
+inadvertently, deliberately
+contract, expand
+slump, boom
+slump, upsurge
+inequity, fairness
+thin-faced, round-faced

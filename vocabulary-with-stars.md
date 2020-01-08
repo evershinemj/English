@@ -1,5 +1,246 @@
 # one star
 
+- hectic
+- acupuncture
+- cholera
+- sadistic
+- scruffy
+- stocky
+- overweight
+- stout
+- auburn    
+- haze
+- emulsion
+- toner
+- outspoken
+- standing ovation
+- ovation
+- aversion to
+- substantiate
+- contradictory
+- duvet
+- dresser
+- mattress
+- footwear
+- blot
+- uproar
+- havoc
+- refreshments
+- upsurge
+- newsletter
+- clubhouse
+- handout
+- incinerate
+- waver
+- falter
+- rush headlong into
+- headlong
+- lull
+- detour
+- standstill
+- revolting
+- waft through
+- waft across
+- waft 
+- tinge
+- flicker
+- painfully
+- crackle
+- blare out
+- blare
+- thud
+- raucous
+- luxurious
+- extravagant
+- babble
+- eerie
+- rock-bottom
+- rock bottom
+- a spate of
+- hay fever
+- judo
+- haunting
+- strum a guitar
+- strum
+- virtuoso performance
+- virtuoso
+- compulsive
+- cameo
+- insatiable
+- cramped
+- dilapidated
+- renovate
+- refurbish
+- airy
+- animosity
+- estranged from
+- estranged
+- acrimonious
+- youthful
+- tot
+- immaculate
+- throw a tantrum
+- tantrum
+- bear a grudge
+- grudge
+- exhaust fumes
+- fume
+- shanty
+- upmarket
+- quaint
+- skyline
+- footpath
+- run-down
+- superfluous
+- liquor
+- bluster
+- cuff
+- puddle
+- sleek
+- tug
+- scowl
+- muck
+- wicker
+- turkey
+- addicted to
+- be allotted to
+- shatter
+- shrill
+- snarl
+- growl
+- tepid
+- lukewarm
+- rapport between A and B
+- rapport with sb
+- rapport
+- in antiquity
+- antiquity
+- pellet
+- labyrinth
+- maze
+- disillusionment
+- susceptible to
+- hypnosis
+- mesmerize
+- hypnotic
+- derby
+- demolition
+- beat-up
+- cardboard box
+- cardboard
+- reprimand
+- chide
+- graffiti
+- downturn
+- jot down
+- clogged drain
+- clog
+- acne
+- hassle
+- minefield
+- creak
+- rouse 
+- demolish
+- prolong
+- sunscreen
+- delinquent
+- mustard
+- shutter
+- ransack
+- wield
+- ingenuity
+- sobering
+- discrepancy between
+- brazen
+- en masse
+- nomadic
+- bulky
+- towering
+- intermittent
+- sporadic
+- relic
+- annihilate
+- eradicate
+- hoard
+- rampaging
+- rampage
+- gravel
+- masquerade
+- masquerade as
+- fern
+- ultraviolet radiation
+- carnage
+- treacherous
+- surreal
+- lessen
+- slacken
+- fend for oneself
+- idyllic
+- primal
+- disposition
+- arsenal
+- adolescence
+- comical
+- materialize
+- workload
+- pay homage to
+- parachute
+- shallows
+- subtlety
+- upbringing
+- stale
+- adulthood
+- toughen
+- resourceful
+- swish
+- copious
+- intrepid
+- hideous
+- malaria
+- in captivity
+- captivity
+- thrilling
+- persevere with
+- persistence
+- frail
+- admittedly
+- livestock
+- indispensable
+- maternal
+- lunge
+- ensuing
+- commotion
+- herring
+- adaptable
+- wrench
+- pressing
+- ludicrous
+- snug
+- solicit
+- ripple
+- submerge
+- brute
+- pinpoint
+- methodical
+- crimson
+- rugged
+- frenzied
+- snare
+- impede
+- liaison
+- strained
+- charisma
+- provocative
+- blatant provocation
+- blatant
+- provocation
+- perilous
+- footprint
+- bellow
+- amiable
+- amicable
+- tenacious 
+- pup
 - frenzy
 - recurrent
 - stunt
@@ -570,6 +811,92 @@
 
 # two stars
 
+- spontaneous
+- epidemic
+- cater for
+- justified
+- minimal
+- brochure
+- leaflet
+- car park
+- unanimous
+- mining
+- adverse
+- slump
+- flop
+- flip
+- presentation of prizes
+- presentation
+- revolt
+- velvet
+- excessive
+- repay
+- avert
+- offender
+- petty
+- enforce
+- uphold
+- turnover
+- flick
+- box office
+- stall
+- streak
+- deteriorate
+- flare up
+- flare
+- trailer
+- aide
+- surveillance camera
+- surveillance
+- be allocated to
+- Hispanic
+- discredit
+- hence
+- cereal
+- viewer
+- preside over
+- eligible to do sth
+- eligible for sth
+- the legislature
+- differentiate between
+- differentiate A from B
+- thereby
+- inn
+- gallon
+- revise
+- intensive
+- barn
+- outbreak
+- potent
+- peculiar
+- debris
+- prone
+- bog
+- constitute
+- limitation
+- adolescent
+- ward
+- hurdle
+- hierarchy
+- mold
+- ancestor
+- expertise
+- persist in doing sth
+- accessibility
+- accessible
+- fling
+- vivid
+- reassure
+- suspicious
+- seminar
+- frantic
+- partially
+- be swamped by
+- hurl
+- guardian
+- litter
+- the essence of
+- essence
 - dynamic
 - dual role
 - dual
@@ -932,6 +1259,29 @@
 
 # three stars
 
+- venue
+- embassy
+- verdict
+- cottage
+- mount
+- assembly line
+- assembly
+- merely
+- mere
+- technical 
+- liberty
+- liberate
+- by contrast
+- contrast
+- extremes
+- margin
+- marked
+- a strip of
+- precisely
+- justify
+- strain
+- tension
+- confrontation
 - prior to
 - stamp
 - intervention
@@ -1087,6 +1437,22 @@
 
 # four stars
 
+- bear fruit
+- bear no resemblance to
+- bear the responsibility for
+- bear the cost of
+- championship
+- trial
+- liberal
+- thus
+- screen
+- session
+- wildlife reserve
+- reserves
+- the essentials of
+- essentials
+- essential
+- settlement
 - contract
 - joint
 - master
@@ -1160,6 +1526,9 @@
 
 # five stars
 
+- come up against
+- call on sb to do sth
+- call on sb
 - eat away
 - give rise to
 - account

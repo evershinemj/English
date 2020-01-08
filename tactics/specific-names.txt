@@ -1,0 +1,10 @@
+country names:
+Ghana
+Kenya
+Congo
+Ethiopia
+Uganda
+Nigeria
+
+region name:
+the Sahara
