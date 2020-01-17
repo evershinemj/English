@@ -1,5 +1,48 @@
 # one star
 
+- arduous
+- impending
+- paramount 
+- promulgate
+- exacerbate
+- supersede
+- fodder
+- molten
+- fairground ride
+- fairground
+- scuffle
+- appease
+- pedigree
+- taper
+- amass
+- dwindle
+- coherence
+- cohesion
+- culprit
+- facilitate
+- onslaught
+- terrain
+- capsize
+- swivel
+- wring sth out of sb
+- remnant
+- balk at
+- balk
+- assortment
+- writhe
+- confer sth on sb
+- patronage
+- parenting
+- enlist
+- entail
+- treacherous
+- statute
+- stringent
+- sympathize with
+- compassionate
+- harness
+- flora
+- fauna
 - hectic
 - acupuncture
 - cholera
@@ -811,6 +854,24 @@
 
 # two stars
 
+- tree stump
+- stump
+- ax
+- looming
+- transit
+- preliminary
+- psychic
+- dub
+- freight   
+- patron
+- detention
+- a conscience
+- levy
+- statutory
+- lining
+- liner
+- sympathetic to
+- monument
 - spontaneous
 - epidemic
 - cater for
@@ -1259,6 +1320,10 @@
 
 # three stars
 
+- discipline oneself
+- discipline sb (for sth)
+- firm conviction
+- conviction
 - venue
 - embassy
 - verdict
@@ -1437,6 +1502,10 @@
 
 # four stars
 
+- sanction against sth
+- sanctions against sb
+- sanction
+- strengths
 - bear fruit
 - bear no resemblance to
 - bear the responsibility for

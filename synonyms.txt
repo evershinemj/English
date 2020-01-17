@@ -402,3 +402,72 @@ hail, hailstones
 stout, fat, overweight
 miserly, tight-fisted, mean
 programme, plan
+pass, licence, permit, permission
+fitness, health
+suite, rooms
+fitness suite, gym
+harness, exploit
+harness, control
+sympathetic, compassionate
+sympathize with, commiserate with
+coyote, wolf
+commiseration, sympathy, compassion
+strength, forte
+levy, tax
+statute, law
+statute, regulation
+stringent, strict
+treacherous, hazardous, perilous
+treacherous, precarious
+entail, involve
+entail, cause, bring about
+conviction, belief
+sanction, penalty
+sanction, punish, discipline
+garret, attic
+rickety, shaky, flimsy, precarious
+patron, supporter, sponsor
+patronage, support, sponsorship
+confer on, give to
+assortment, mixture
+assortment, variety
+as per, in accordance with
+discharge, release
+elucidate, clarify
+tweak, twist
+tweak, adjust
+tweak, improve, refine
+swivel, turn, spin, rotate
+terrain, ground
+terrain, land
+capricious, impulsive
+backdrop, background, circumstances
+attenuate, weaken, lessen
+parched, dry, scorched, arid, dehydrated
+facilitate, further, promote, speed up, pave the way for
+culprit, offender, criminal, delinquent
+culprit, wrongdoer
+amass, collect, accumulate
+shade, hue, tint
+shade, colour
+dub, call
+psychic, psychological, mental
+puncture, pierce
+incongruity, inconsistency
+scuffle, fight
+scuffle, grapple
+supersede, replace
+preliminary, initial, first
+exacerbate, aggravate
+promulgate, issue, publish
+transit, transport
+incidence, occurrence
+incidence, frequency, rate
+paramount, principal, prime, chief, primary
+menial, low-status, lowly
+assiduous, diligent
+impending, looming, coming, approaching
+loom, appear, emerge
+heinous, atrocious, monstrous
+atrocious, disgusting, revolting
+arduous, difficult, hard, tough

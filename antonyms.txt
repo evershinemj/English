@@ -16,3 +16,7 @@ slump, boom
 slump, upsurge
 inequity, fairness
 thin-faced, round-faced
+facilitate, hamper
+facilitate, hinder
+facilitate, impede
+buck, doe

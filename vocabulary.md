@@ -8460,3 +8460,312 @@ acupuncture
 
 hectic
 - A hectic situation is one that is very busy and involves a lot of rushed activity. 紧张忙碌的
+
+---
+
+fauna
+- Animals, especially the animals in a particular area, can be referred to as fauna. (尤指某区域的) 动物群
+  the flora and fauna of the African jungle. 
+
+---
+
+flora
+- You can refer to plants as flora, especially the plants growing in a particular area. (尤指某个地区的) 植物群
+  the variety of food crops and flora which now exists in Dominica. 
+
+---
+
+harness
+- If you harness something such as an emotion or natural source of energy, you bring it under your control and use it. 利用
+
+---
+
+stringent
+- Stringent laws, rules, or conditions are very severe or are strictly controlled. (法律、规定或条件) 严格的
+
+---
+
+statutory
+- Statutory means relating to rules or laws which have been formally written down. 规定的; 法定的
+
+---
+
+levy
+- A levy is a sum of money that you have to pay, for example, as a tax to the government. 税款
+
+---
+
+statute
+- A statute is a rule or law which has been made by a government or other organization and formally written down. 法令; 规章
+
+---
+
+treacherous
+- If you say that something is treacherous, you mean that it is very dangerous and unpredictable. 危险的; 变化莫测的
+
+---
+
+entail
+- If one thing entails another, it involves it or causes it. 牵连; 导致
+
+---
+
+enlist
+- If someone enlists or is enlisted, they join the army, navy, marines, or air force. 使入伍; 入伍
+- If you enlist the help of someone, you persuade them to help or support you in doing something. 赢得
+
+---
+
+sanctity
+- If you talk about the sanctity of something, you mean that it is very important and must be treated with respect. 神圣
+
+---
+
+garret
+- A garret is a small room at the top of a house. 阁楼
+
+---
+
+rickety
+- A rickety structure or piece of furniture is not very strong or well made, and seems likely to collapse or break. 摇晃的; 不稳固的 
+
+---
+
+patron
+- A patron is a person who supports and gives money to artists, writers, or musicians. (艺术家、作家、音乐家等的) 资助人
+
+---
+
+writhe
+- If you writhe, your body twists and turns violently backward and forward, usually because you are in great pain or discomfort. (因痛苦或不适) 扭动身体
+
+---
+
+assortment
+- [ usually sing. ] a collection of different things or of different types of the same thing 各种各样
+  an assortment of cheese. 
+
+---
+
+expletive
+- An expletive is a rude word or expression such as "Damn!" that people say when they are annoyed, excited, or in pain. 咒骂语
+
+---
+
+as per
+- In accordance with. 
+  Charlie stood me up tonight, as per usual. 
+  Please pay your rent on time, as per the terms of the lease.
+
+---
+
+balk 
+- If you balk at something, you definitely do not want to do it or to let it happen. 阻止; 反对
+
+---
+
+elucidate
+- If you elucidate something, you make it clear and easy to understand. 阐明; 解释
+
+---
+
+tweak
+- If you tweak something, especially part of someone's body, you hold it between your finger and thumb and twist it or pull it. 扭; 扯
+- If you tweak something such as a system or a design, you improve it by making a slight change. 稍稍改进(如系统或设计)
+
+---
+
+swivel
+- If something swivels or if you swivel it, it turns around a central point so that it is facing in a different direction. 使旋转; 旋转
+
+---
+
+igloo
+- Igloos are dome-shaped houses built from blocks of snow by the Inuit people. 雪块砌成的圆顶小屋
+
+---
+
+terrain
+- Terrain is used to refer to an area of land or a type of land when you are considering its physical features. 地形
+
+---
+
+onslaught
+- An onslaught on someone or something is a very violent, forceful attack against them. 猛攻
+
+---
+
+capricious
+- Someone who is capricious often changes their mind unexpectedly. 反复无常的; 易变的
+
+---
+
+backdrop
+- A backdrop is a large piece of cloth, often with scenery painted on it, that is hung at the back of a stage while a play is being performed. 舞台背景
+
+---
+
+cog
+- A cog is a wheel with square or triangular teeth around the edge, which is used in a machine to turn another wheel or part. 齿轮
+
+---
+
+parched
+- If something, especially the ground or a plant, is parched, it is very dry, because there has been no rain. 干透的
+
+---
+
+vertebrate
+- A vertebrate is a creature that has a spine. Mammals, birds, reptiles, and fish are vertebrates. 脊椎动物
+
+---
+
+veranda
+- ( especially BrE ) ( NAmE usually also porch ) a platform with an open front and a roof, built onto the side of a house on the ground floor （房屋底层有顶半敞的）走廊，游廊
+
+---
+
+falicitate
+- To facilitate an action or process, especially one that you would like to happen, means to make it easier or more likely to happen. 促进
+
+---
+
+inculpable
+- incapable of being blamed or accused; guiltless 无罪的
+
+---
+
+logistics
+- If you refer to the logistics of doing something complicated that involves a lot of people or equipment, you are referring to the skilful organization of it so that it can be done successfully and efficiently. 后勤
+
+---
+
+viscous
+- A viscous liquid is thick and sticky. 黏稠的
+
+---
+
+malleable
+- A substance that is malleable is soft and can easily be made into different shapes. 延展性好的
+
+---
+
+taper
+- If something tapers, or if you taper it, it becomes gradually thinner at one end. 使逐渐变细; 逐渐变细
+
+---
+
+dub
+- If someone or something is dubbed a particular thing, they are given that description or name. 把…称为
+
+---
+
+pedigree
+
+---
+
+psychic
+- connected with the mind rather than the body 心灵的；灵魂的
+
+---
+
+puncture
+- If a sharp object punctures something, it makes a hole in it. 刺破
+
+---
+
+incongruity
+- The incongruity of something is its strangeness when considered together with other aspects of a situation. 不协调; 不适宜; 不相称
+
+---
+
+appease
+- ( formal disapproving ) to make sb calmer or less angry by giving them what they want 安抚；抚慰
+- to give a country what it wants in order to avoid war 绥靖（满足另一国的要求以避免战争）
+
+---
+
+scuffle
+- A scuffle is a short, disorganized fight or struggle. 打斗; 混战
+
+---
+
+fairground
+- an outdoor area where a fair with entertainments is held 露天游乐场
+
+---
+
+tap into sth
+- to make use of a source of energy, knowledge, etc. that already exists 利用，开发，发掘（已有的资源、知识等）
+
+---
+
+olfaction
+- the sense of smell 嗅觉
+
+---
+
+supersede
+- If something is superseded by something newer, it is replaced because it has become old-fashioned or unacceptable. 取代
+
+---
+
+preliminary
+- Preliminary activities or discussions take place at the beginning of an event, often as a form of preparation. 初步的
+
+---
+
+promulgate
+- If a new law is promulgated by a government or national leader, it is publicly approved or made official. 颁布; 公布
+
+---
+
+transit
+- Transit is the carrying of goods or people by vehicle from one place to another. 运输
+
+---
+
+paramount
+- Something that is paramount or of paramount importance is more important than anything else. 首要的
+
+---
+
+menial
+- Menial work is very boring, and the people who do it have a low status and are usually badly paid. 卑微的
+
+---
+
+impending
+- An impending event is one that is going to happen very soon. 即将发生的
+
+---
+
+loom
+- If something looms over you, it appears as a large or unclear shape, often in a frightening way. (常以可怕的方式) 赫然出现; 隐约显现
+  Vincent loomed over me, as pale and grey as a tombstone. 
+- If a worrying or threatening situation or event is looming, it seems likely to happen soon. 
+  Another government spending crisis is looming in the United States. 
+  The threat of renewed civil war looms ahead. 
+
+---  
+
+stump
+- A stump is a small part of something that remains when the rest of it has been removed or broken off. 残余部分
+
+---
+
+heinous
+- If you describe something such as a crime as heinous, you mean that it is extremely evil or horrible. 十恶不赦的; 令人发指的
+
+---
+
+atrocious
+- very bad or unpleasant 糟透的；十分讨厌的
+  Isn't the weather atrocious?
+- very cruel and shocking 残暴的；残忍的；凶恶的
+  atrocious acts of brutality 残暴的兽行
+
+---
+
+quill
+- The quills of a porcupine are the long sharp points on its body. (豪猪身上的)刺

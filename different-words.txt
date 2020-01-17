@@ -87,3 +87,9 @@ reject, refuse
 sleet, hail
 stout, stocky
 hectic, hideous
+writhe, wriggle
+onslaught, slaughter
+capricious, precarious
+cohesion, coherence
+vicious, viscous
+heinous, hideous

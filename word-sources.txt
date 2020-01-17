@@ -50,3 +50,22 @@ unanimous: 词根词缀： -un-单一 + -anim-呼吸 + -ous形容词词尾 → �
 contradictory: contra-相反 + -dict-说,讲 + -ory形容词词尾
 acclaim: acclaim = ac（=ad，朝着）+claim（呼喊）→朝着……呼喊→欢呼
 anorexia: anorexia =an（没有）+orex（食欲）+ia（病、症）→没有食欲的病→厌食症 词源解析：orex←希腊语orexis（食欲）
+commiserate: com-, 强调。-miser, 可怜，见miserable.
+liner: 来自line,线，引申词义航线，渡轮，衬里。
+statute: 来自拉丁语 statutum,法令，法规，规章，过去分词名词格于 statuere,实施，建立，来自 stare, 站立，建立，词源同 stand,state.
+stringent: 来自拉丁语 stringere, 拉紧， 绑紧， 压缩， 来自 PIE*strenk, 紧的， 拉紧， 绑紧， 词源同 strict,string,strong.引申词义严格的，严厉的，紧缩的等。
+sanction: sanct-,神圣的，-ion,名词后缀。即神圣的存在，封神，祝圣，引申正面词义批准，反面词义 处罚。
+circumscribe: circum-,圈，周围，-scribe,写，划，见describe,script.
+expletive: ex-, 向外。-ple, 满的，词源同full, fulfill. 即拿出去的，后用来指不便刊印的脏话，咒骂语。
+attenuate: 前缀at-同ad-. 词根ten, 持有，握住，见tenure. 引申义伸长，拉伸，见tend, 引申义变细，减轻，见该词，或extenuate, 减轻。
+culprit: 来自culp-,责备，谴责，词源同inculpable.
+logistics: 来源于古法语logistique,由古法语词汇logis(寄宿处)和希腊语词尾-istikos组成的复合词。logistics（物流）与logic（逻辑）虽然很像但是却没有任何词源上的关系。logistics与lodge（旅馆、山林小屋）同源，本来是猎人或商旅歇脚暂留之地，延伸为吃住和物资的堆放和分发。
+malleable: 来自拉丁语malleus,铁锤，来自PIE*锤打，使软化，软的，词源同mill,melt.即可锤炼的，引申词义可塑的。        
+pedigree: 英语单词pedigree（家谱）源自古法语中的pied de gru（foot of crane），因为鹤的脚丫形状与树状的家谱图很像。pedigree中的pe=foot，如impede（妨碍）
+appease: 前缀ap-同ad-. -pease, 同peace, 和平。即安抚，使和平。
+fodder: 来自food, 食物。该物用做动物的饲料，草料。
+supersede: super-,在上，上方，-sed,坐，词源同 sit,sedentary.引申词义代替，取代。
+preliminary: pre-,在前，早于，-limin,界限，门槛，开端，词源同limit.引申词义初步的，初期的。
+exacerbate: ex-, 向外。-acerb, 尖，酸，词源同acid, acerbity.
+paramount: 来自古法语paramont,超过，超越，来自par,通过，穿过，整个的，amont,上面，山顶，词源同amount,mountain.即到达山顶，引申词义至高无上的，至尊的。首字母大写Paramount为好莱坞电影公司名。
+impending: im-,进入，使，上面，-pend,悬挂，词源同pendulum,pendant.即悬挂在上面的，引申词义迫近的，逼近的。
