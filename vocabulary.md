@@ -8769,3 +8769,297 @@ atrocious
 
 quill
 - The quills of a porcupine are the long sharp points on its body. (豪猪身上的)刺
+
+---
+
+ephemeral
+- If you describe something as ephemeral, you mean that it lasts only for a very short time.
+
+---
+
+depreciate
+- to become less valuable over a period of time 贬值；跌价
+
+---
+
+cringe
+- bend one's head and body in fear or in a servile manner
+
+---
+
+stakeholder
+- a person with an interest or concern in something, especially a business. 利益相关者
+
+---
+
+stockholder
+- A stockholder is a person who owns shares in a company.
+
+---
+
+shareholder
+- stockholder
+
+---
+
+recount
+- tell someone about something; give an account of an event or experience
+
+---
+
+shudder
+- (of a person) tremble convulsively, typically as a result of fear or revulsion: I shuddered with horror.
+
+---
+
+temperamental
+- (of a person) liable to unreasonable changes of mood.
+
+---
+
+temperament
+- a person's or animal's nature, especially as it permanently affects their behavior
+
+---
+
+hygenic
+- conducive to maintaining health and preventing disease, especially by being clean; sanitary: hygienic conditions.
+
+---
+
+genocide
+- the murder of a whole race or group of people 种族灭绝；大屠杀
+
+---
+
+nuance
+- A nuance is a small difference in sound, feeling, appearance, or meaning. (声音、感觉、外貌或意义等方面的) 细微差别
+
+---
+
+orgy
+- An orgy is a party in which people behave in a very uncontrolled way, especially one involving sexual activity.
+- You can refer to an activity as an orgy of that activity to emphasize that it is done to an excessive extent.
+
+---
+
+horde
+- chiefly derogatory a large group of people: he was surrounded by a horde of tormenting relatives.
+
+---
+
+drove
+- a herd or flock of animals being driven in a body: a drove of cattle.
+- a large number of people or things doing or undergoing the same thing: tourists have stayed away in droves this summer.
+
+---
+
+draw on
+- if a time or a season draws on , it passes （时光）渐渐过去，荏苒
+  Night was drawing on. 夜渐深了。
+
+---
+
+draw on/upon sth
+- to use a supply of sth that is available to you 凭借；利用；动用
+  I'll have to draw on my savings.
+  The novelist draws heavily on her personal experiences.
+
+---
+
+conundrum
+- a confusing problem or question that is very difficult to solve
+
+---
+
+ominous
+- giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious: 
+  there were ominous dark clouds gathering overhead.
+
+---
+
+docile
+- ready to accept control or instruction; submissive: a cheap and docile workforce.
+
+---
+
+demeanor
+- outward behavior or bearing: a quiet, somber demeanor.
+
+---
+
+soggy
+- wet and soft
+
+---
+
+dice
+-  cut (food or other matter) into small cubes: dice the peppers | (as adjective diced) : add the diced onions.
+
+---
+
+knock sb out
+- make a person unconscious, typically with a blow to the head.
+
+---
+
+flagship
+- the ship in a fleet which carries the commanding admiral.
+- the best or most important thing owned or produced by a particular organization
+
+---
+
+indisposition
+- mild illness
+
+---
+
+dysmenorrhea
+- painful menstruation
+
+---
+
+bloat
+- make or become swollen with fluid or gas
+  she suffered from abdominal bloating.
+
+---
+
+inflammation
+- a localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury or infection 发炎
+
+---
+
+pedagogic
+- related to teaching
+
+---
+
+fathom
+- a unit of length equal to six feet (approximately 1.8 m), chiefly used in reference to the depth of water
+
+---
+
+sounding
+- 水深
+
+---
+
+pester
+- trouble or annoy (someone) with frequent or persistent requests or interruptions: she constantly pestered him with telephone calls.
+
+---
+
+gestalt
+- an organized whole that is perceived as more than the sum of its parts.
+
+---
+
+siege
+- a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling the surrender of those inside
+
+---
+
+filial
+- of or due from a son or daughter: a display of filial affection.
+
+---
+
+incur
+- if you incur sth unpleasant, you are in a situation in which you have to deal with it 招致；遭受；引起
+  She had incurred the wrath of her father by marrying without his consent 她未经父亲同意就结婚，使父亲震怒。
+- if you incur costs, you have to pay them 引致，带来（成本、花费等）
+  You risk incurring bank charges if you exceed your overdraft limit. 如果超出了透支限额，就有被银行加收费用的风险。
+
+---
+
+be onto sb
+- informal be close to discovering the truth about an illegal or undesirable activity that someone is engaging in.
+
+---
+
+close-up
+- a photograph, movie, or video taken at close range and showing the subject on a large scale
+
+---
+
+hunt sb down
+- (hunt someone down) pursue and capture someone.
+
+---
+
+and everything
+- informal used to refer vaguely to other things associated with what has been mentioned: you'll still get paid and everything.
+
+---
+
+jazz sth up
+- make something more interesting, lively, or exciting: jazz up an all-white kitchen with red tiles.
+
+---
+
+transcribe
+- put (thoughts, speech, or data) into written or printed form
+
+---
+
+happy camper
+- a comfortable, contented person
+
+---
+
+at the drop of a hat
+- without delay or good reason
+
+---
+
+take the cake
+- (of a person or incident) be the most remarkable or foolish of their kind 
+
+---
+
+gooey
+- soft and sticky
+
+---
+
+doberman
+- a large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.
+
+---
+
+collie
+- a sheepdog of a breed originating in Scotland, having a long, pointed nose and thick, long hair.
+
+---
+
+chow chow
+- a dog of a sturdy Chinese breed with a broad muzzle, a tail curled over the back, a bluish-black tongue, and typically a dense thick coat.
+
+---
+
+schnauzer
+- a medium- or small-sized dog of a German breed with a close wiry coat and heavy whiskers around the muzzle.
+
+---
+
+rip sb off
+- informal cheat someone, especially financially.
+
+---
+
+geomancy
+- the art of placing or arranging buildings or other sites auspiciously.
+
+---
+
+sabotage
+- deliberately destroy, damage, or obstruct (something), especially for political or military advantage.
+
+---
+
+groggy
+- dazed, weak, or unsteady, especially from illness, intoxication, sleep, or a blow: the sleeping pills had left her feeling groggy.
+
+---
+

@@ -235,7 +235,7 @@ bleak, desolate
 make out, discern, distinguish, recognize
 make out, comprehend
 pushover, piece of cake
-superficial, shallow
+superficial, shallow, skin-deep
 hurdle, obstacle, barrier
 flag, weaken, fade
 disposition, character
@@ -320,7 +320,7 @@ muck, mud
 musty, stale
 tug, pull
 tug, jerk
-relate, tell, narrate
+relate, tell, narrate, recount
 liquor, alcohol
 superfluous, redundant
 deteriorate, worsen
@@ -386,7 +386,7 @@ havoc, chaos
 level, height
 susceptible to sth, subject to sth, liable to sth, prone to sth
 equity, fairness
-leaflet, brochure
+leaflet, brochure, pamphlet
 justified, acceptable
 justified, reasonable   
 bear, take on
@@ -458,7 +458,7 @@ scuffle, fight
 scuffle, grapple
 supersede, replace
 preliminary, initial, first
-exacerbate, aggravate
+exacerbate, aggravate, compound
 promulgate, issue, publish
 transit, transport
 incidence, occurrence
@@ -471,3 +471,1032 @@ loom, appear, emerge
 heinous, atrocious, monstrous
 atrocious, disgusting, revolting
 arduous, difficult, hard, tough
+pragmatic, realistic
+ephemeral, transient
+subjugate, subdue
+cringe, cower, shy away
+shareholder, stockholder
+stock, store
+recount, tell, narrate, give an account of
+saga, epic, legend
+read of, read about
+concede, admit, acknowledge
+abolish, put an end to
+spare, afford
+spare, leave uninjured
+segment, section
+agree on
+tremendously
+shudder, shiver
+court, seek, pursue, go after
+temperament, disposition
+temperamental, capricious
+hygenic, sanitary, clean
+ministry, department, bureau
+indigenous, native
+palate, roof of the mouth
+palate, taste, sense of taste
+suburban, dull, conventional, unsophisticated
+presumptuous, arrogant
+fatuous, silly
+genocide, massacre
+carnage, slaughter
+abject, wretched
+abjure, renounce
+abnegation, renunciation
+abrogate, abolish
+abscond, escape, flee
+abstruse, obscure
+adamant, stubborn
+admonish, reprimand
+adumbrate, outline
+mostly, largely
+broadly, in general, roughly
+pact, agreement, treaty, protocol, settlement, accord
+conjuring, magic
+conjure up, bring to mind
+skirmish, fight
+prolonged, lengthy
+harry, attack, assail
+harry, harras
+espionage, spying
+proceeds, profits
+horde, crowd, mob, gang, troop
+spawn, give rise to
+recuperate, recover
+contentious, controversial
+contend with, grapple with
+checkup, examination, health check
+liability, accountability, responsibility
+liable for, responsible for
+in relation to, concerning
+in relation to, compared with
+crypt, tomb
+cryptic, mysterious
+blunder, mistake
+undercut, undermine
+expunge, erase, eradicate
+caucus, meeting
+render, make
+render, give, provide
+render, paint, depict
+iron out, resolve, straighten out, sort out, settle, rectify, eradicate
+dire, terrible, dreadful, appalling 
+dire, urgent, desperate
+ominous, threatening, sinister
+portent, omen
+docile, submissive
+demeanor, manner, behavior
+incident, event, occurrence
+incident, skirmish, clash, conflict
+an incident of, a case of, an instance of
+accordingly, appropriately, correspondingly, suitably
+accordingly, therefore, consequently, hence
+comprise, consist of, be made up of
+comprise, be comprised of
+affectionate, loving, fond
+affection, fondness
+crack down on, take severe measures against
+throng, crowd
+throng, flock
+edifice, building
+season, flavor
+legitimate, lawful, legalized
+broth, stock, soup
+exterminate, eradicate, wipe out
+bequeath to, leave to, pass on to, hand down to
+herbage, grass
+fiddle, violin
+equilibrium, balance
+mariner, sailor
+ensue, follow
+waterlogged, saturated, soaked  
+indignity, shame, humiliation
+embellish, decorate
+plausible, credible, reasonable
+feasible, practicable
+punctuate, interrupt
+vine, climbing plant
+respect, aspect
+concoct, prepare, make, assemble
+concoct, make up, fabricate
+tussle, scuffle, skirmish
+tact, sensitivity, thoughtfulness, consideration
+chicanery, fraud, deception
+standpoint, point of view, viewpoint, perspective
+from the standpoint of
+grim, stern
+reimburse, repay, refund, pay back
+reimburse, compensate
+culpability, guilt
+endow, provide, give
+ply, provide
+exasperate, irritate, infuriate, get on sb's nerves, ruffle sb's feathers, rub the wrong way, get sb's back up
+for free, free of charge
+crunchy, crisp, crispy
+make hay while the sun shines, strike while the iron is hot
+one way or another, somehow
+limb, branch, bough
+go out on a limb, be put in a precarious position
+abate, subside, die down, lessen
+snag, complication, difficulty, stumbling block, impediment, hindrance
+freight, cargo
+touch-and-go, uncertain, precarious
+a foregone conclusion, certainty, sure thing
+heed, pay attention to
+entitle, qualify
+justification, reason
+flagship, premium
+armament, arms, ordnance
+ablaze, on fire, in flames, blazing
+churn, stir
+freshen up, bathe, shower
+list, tilt
+heave, haul
+in question, under discussion, under consideration
+honorary, symbolic, token
+management, managers
+contain, restrain, repress, subdue, stifle, curb
+fervent, passionate, ardent, fanatical
+national, citizen
+mistake for, confuse with
+maxim, saying, proverb, motto
+temporal, of time
+epithet, nichname, name, description
+stigma, shame, disgrace
+stigmatize, condemn, denounce, disparage
+screech, scream
+mill, factory
+abdomen, stomach, belly
+dysmenorrhea, painful menstruation
+in conjunction with, together with, along with
+conjunction, coming together, co-occurrence, concurrence
+a vehicle for, a channel for
+dimensions, size
+dimension, aspect
+tone, mood
+tone, sound
+pedagogic, educational, teaching
+passing, fleeting, ephemeral
+tableland, plateau
+intelligible, comprehensible, understandable
+pertinent, relevant
+pertaining to, concerning, relating to
+as it were, so to speak, in a way, to some extent, sort of
+ladybird, ladybug
+badger, pester, harass, hassle
+nudge, jog
+schema, outline
+orator, public speaker
+adore, love dearly
+intimate, detailed
+nick, cut, incision
+warp, twist, bend
+consolidate, strengthen, reinforce
+cast, mold, form, shape
+discrete, separate, distinct
+precipitate, bring about, cause, trigger
+reckless, rash, precipitate
+precipitation, rainfall, rain
+precipitous, steep, sheer
+affiliated with, associated with
+transgression, offense, wrongdoing, lawbreaking
+bring on, bring about, precipitate
+stand up to, defy
+stand up to, withstand
+mandatory, obligatory, compulsory
+whim, impulse
+whim, capriciousness, caprice
+in the end, eventually
+odyssey, journey
+chasm, gorge, canyon
+counterpart, equivalent
+infamous, notorious
+be analogous to, be similar to
+foreman, supervisor
+duly, properly
+whet, sharpen the blade of, sharpen
+whet, stimulate, arouse, rouse, waken
+rehabilitate, return to normality
+disinfectant, antiseptic
+intermittently, off and on
+sporadic, scattered
+bactericidal, antiseptic
+peripheral, marginal, secondary, incidental, minor
+incidental, less important, secondary, minor
+bore, tedious person/thing, dull person/thing
+tremor, trembling
+tremor, shiver
+tremor, earthquake
+undulate, rise and fall
+adorn, decorate, embellish
+subservient, submissive
+ticklish, difficult, tricky
+blandishment, flattery
+lash, whip
+with a grain of salt, with reservations
+keep, maintenance, sustenance, livelihood
+stall, stand, table
+stall, pen, coop, enclosure
+ram, force, thrust, push, cram, jam
+fancy, elaborate
+fancy, adorned, embellished
+fancy, luxurious, extravagant
+back and forth, to and fro
+seism, earthquake
+seismometer, seismograph
+full-fledged, completely developed
+fledgling, chick
+fledgling, emerging, developing
+overshadow, outshine
+grit, sand, gravel
+grit, courage
+grit, clench
+despair, lose hope, lose heart
+materialize, happen, occur, come about, come into being
+dejected, downcast, despondent, disheartened, depressed, in the doldrums, gloomy
+mope, grieve, be down in the dumps, eat one's heart out
+vernacular, everyday language, colloquial language
+vernacular, dialect
+incumbent on one to, necessary for one to, compulsory for one to
+incumbent, current, present, in office, in power
+moment, importance, significance
+index, list
+index, guide
+out of the picture, no longer involved, irrelevant
+infantile, childish
+canny, shrewd
+uncanny, weird, eerie, creepy
+etymology, word history, origin
+sexuality, sensuality
+constrain, compel, force
+constrain, restrict
+condition, constrain, control, govern, determine
+condition, mold
+physical, material, tangible
+dispense, distribute
+sling, strap
+Trojan, virus
+spasm, contraction, convulsion, cramp, twitch
+spasm, fit, outbreak, burst
+insinuate, imply, hint
+undue, excessive, uncalled for, unnecessary, unjustified, inappropriate
+sedulous, diligent, assiduous, industrious
+vivify, animate
+gratify, please, tickle pink
+gratify, satisfy
+trifling, trivial
+vengeance, revenge
+avenge, take revenge for, take vengeance for, retaliate for
+clatter, rattle
+absorbing, fascinating, engrossing
+insular, narrow-minded
+cosmopolitan, multicultural, internation
+preponderance, prevalence, predominance
+itinerant, traveling, roving, nomadic
+itinerary, travel plan
+inclement, cold, chilly, bleak
+vie, compete
+revere, respect
+rustic, rural
+offset, counterbalance
+gild, cover with gold, paint gold
+heady, exhilirating
+broker, dealer, agent
+sanguine, optimistic
+portfolio, samples, selection
+portfolio, investments
+portfolio, briefcase, case, bag
+fritter away, squander
+petrified, terrified
+up to a point, to some extent
+wow, impress
+knock out, overwhelm, amaze, impress
+the world over, all the world over, all over the world
+in the first place, first of all
+in the first place, at the beginning
+garnish, embellish, adorn, decorate
+covet, desire
+overly, unduly, excessively, too
+fleshy, plump, overweight
+wind down, draw to a close, come to an end
+smart, fashionable
+levy, impose
+stingy, mean, miserly
+vacuum, emptiness
+incentive, motivation
+deduct, subtract, take away, debit
+factual, truthful, authentic, honest, objective
+mortality rate, death rate
+eats, food
+acclaim, praise
+infuse, fill
+critique, analysis, evaluation
+put money on, place a bet on
+crush, mortify, devastate, shatter
+straddle, lie on both sides of, extend across, span
+straddle, sit/stand astride
+sliver, chip
+shell out, pay
+sliver, silver
+oblige, require
+obliged, thankful, grateful
+almanac, yearbook, calendar
+with regard to, with respect to
+encapsulate, enclose, cocoon, surround
+savory, salty, spicy
+embark on, begin
+elevate, raise
+corny, banal, cliched
+contraceptive, birth control pill, the pill
+tweak, modify
+approbation, approval
+captivating, charming
+jammies, pajamas
+make for, contribute to
+physique, body
+outfit, costume, suit
+unwavering, steady, firm
+revert, return
+revert to, return to
+benevolent, beneficent
+malevolent, maleficent
+benefactor, patron
+magnanimous, generous, altruistic, benevolent, beneficent, philanthropic, charitable, lenient
+clumsy, all thumbs
+baloney, nonsense
+council, local authority, municipal authority, local government, administration
+council, board, committee, commission, panel
+cabinet, council
+cupboard, cabinet
+cabinet, bookcase
+glaze, cover, coat, ice, frost
+populace, population
+go for, choose
+go in for, take part in
+windfall, bonanza, jackpot, pennies from heaven
+cut, share
+pristine, immaculate, spotless, unspoiled
+fortuitous, chance, unexpected, unanticipated, serendipitous, unpredictable, unintended
+vintage, high-quality, quality, choice, prime
+vintage, classic, antique
+care for, love, be fond of, adore
+care for, like, want, fancy, feel like
+finale, climax, culmination, end
+opulent, luxurious
+reportoire, collection
+jazz up, enliven, brighten up
+enliven, liven up
+liven up, brighten up, cheer up
+lay eyes on, see
+touchy, sensitive
+vogue, fashion
+premier, leading
+in vogue, fashionable
+utilize, make use of, employ, exploit
+remark, comment
+appraisal, assessment, evaluation
+appraise, assess, evaluate
+apprehend, arrest
+apprehend, appreciate, recognize, discern, make out
+apprise, inform
+review, criticism, critique, assessment, evaluation
+nuptials, wedding
+nuptial, matrimonial
+reciprocal, given in return
+reciprocal, mutual
+shaft, pole, handle
+shaft, ray, beam
+concede, give up, surrender
+cede, concede, surrender
+utter a sigh, heave a sigh
+contraption, device, machine, appliance, contrivance
+paltry, small, meager
+paltry, petty, trivial
+inconsequential, insignificant
+mystify, bewilder, baffle, confound, perplex, puzzle
+cheesy, cheap, corny
+trite, hackneyed, overused, trite, banal
+on the line, at serious risk, in jeopardy
+underdog, dark horse, weaker one, little guy
+pull off, achieve, fulfill, succeed in, accomplish
+accolade, honor, award, prize
+profile, description, account
+crush, mortify, demoralize, devastate, shatter
+done for, ruined
+allowance, permitted amount/quantity, allocation, quota, share
+allowance, payment, pocket money
+hustle, rush, hurry
+auditorium, theater, hall, concert hall, assembly room
+in the flesh, in person
+blow, spoil
+implore, plead with, beg, entreat, appeal to, request, call on, petition
+piece, work of art
+intermission, interval
+shabby, run-down, dilapidated
+shabby, scruffy, worn out, ragged
+shabby, contemptible, mean
+stand-in, substitute
+substitute, use in place of, use instead of
+substitute with, replace with
+pad, notepad, notebook
+vain, narcissistic, conceited, self-admiring, self-obsessed, swaggering
+swagger, strut
+narcissistic, vain, self-loving
+cosmetics, makeup
+plastic surgery, cosmetic surgery
+cosmetic, superficial, skin-deep, external, exterior
+drool, salivate
+implant, insert
+sag, sink, slump, flop
+sag, dip, droop
+sag, decline, fall, drop
+in store, coming in the future, about to happen
+excess, surplus, extra
+recess, break, rest
+not in the slightest, not at all
+neat, skillful
+standoff, deadlock, draw, tie
+claimant, petitioner, plaintiff
+plaintive, mournful, sad
+effervescent, bubbly
+effervescent, vivacious, lively
+concoction, mixture
+filling, stuffing
+credit to, ascribe to, attribute to
+be credited to, be ascribed to, be attributed to
+infuse, fill
+infuse, instill
+demure, modest, shy
+uplift, boost
+frosting, icing
+impeccable, flawless, unblemished, spotless, immaculate, perfect
+fit, tantrum, outburst of anger/rage, frenzy
+tier, row, layer
+juxtapose, place side by side
+gain weight, put on weight
+patron, customer
+fellow patrons, other customers
+scarf down, chow down, wolf down
+dissolve, disappear, vanish
+humdrum, mundane, dull
+discard, dispose of, get rid of, scrap, dump, ditch
+janitor, custodian
+back out of, withdraw from, pull out of, retreat from
+pound, beat, strike, hit
+await, be in store for, lie in wait for
+vibrant, lively, full of life, vigorous, effervescent, vivacious
+intensive, thorough
+go out with, date
+weighty, heavy
+do it over, do it again
+suite, set of rooms
+amenity, facility
+butler, manservant
+rate, charge, fee
+plate, cover, coat, gild
+centerpiece, highlight
+innate, inborn
+ecstatic, rapturous, elated, on cloud nine, in seventh heaven, over the moon, on top of the world
+rapture, ecstasy
+enchanting, captivating, appealing, engaging, alluring, fascinating
+pass out, faint, lose consciousness
+testimony to, testament to
+around, nearby
+scam, fraud
+caring, kind
+pick on, bully
+get to, annoy, upset
+at any rate, in any case
+pervert, deviant, degenerate
+chew sb out, reprimand sb severely
+cocky, arrogant
+anemic, colorless, pale
+anemic, feeble
+out of place, out of position
+out of place, inappropriate, unseemly
+seriously, really
+seriously, very
+wishy-washy, feeble
+confection, dessert
+uh-oh, oops, no
+fragrant, sweet-scented, aromatic
+marvel, be amazed
+gem, jewel
+striking, impressive
+cord, cable
+flaunt, show off, display ostentatiously
+cater to, serve, provide for, meet the needs of, gratify
+cater to, take into account, take into consideration
+roast, roasted
+tacky, tasteless, crude, cheesy, cheap, second-rate
+voucher, coupon
+bolt, dash, dart
+bolt, flash, thunderbolt
+stand for, put up with
+straighten out, sort out, put/set right, put in order
+puffy, swollen, puffed up, inflated
+on top of, in addition to
+partial, incomplete
+retaliate, take revenge
+tacky, goofy
+ragged, shabby
+jagged, sharp
+clutter, mess
+tipsy, slightly drunk
+tip over, topple over, fall over
+for sale, on the market, purchasable
+stocking stuffers, small gifts
+snazzy, stylish
+clam, dollar
+classy, stylish, sophisticated
+nuance, hint, implication
+slate, chalkboard, blackboard
+in hindsight, in retrospect
+zest, rind
+punchy, strong, powerful
+spirits, mood
+hail, greet
+demolish, knock down, pull down, level
+to the point, relevant, pertinent
+horse around, fool around
+laughably, absurdly
+commence, begin, start, embark on
+abominate, detest, loathe
+atrocity, abomination, cruelty
+insolent, impertinent, ill-mannered, disrespectful
+casket, coffin
+gas, gasoline
+salute, greeting
+salute, greet
+pop up, occur
+rift, crack
+take/catch sb's fancy, appeal to sb
+gooey, sticky
+showcase, exhibit, display
+ornament, decoration
+whacky, eccentric
+recital, concert, performance, musical performance, solo performance, solo
+align, line up
+a bite, a snack
+down payment, deposit
+fizzy, effervescent, bubbly 
+refreshments, food and drink
+coffee shop, cafe
+presume, assume, suppose
+forgo, give up
+glamorous, attractive, enchanting
+dainty, delicate
+dainty, tasty
+bland, tasteless, flavorless
+bland, dull
+subject, citizen, national
+shed, hut
+vibrant, vivid, brilliant
+thrash, hit, beat, strike, batter, bash, whack
+thrash around, writhe
+off the wall, unconventional
+vanguard, leaders, pioneers, groundbreakers
+avant-garde, innovative, original, experimental, cutting edge, state-of-the-art, pioneering, revolutionary, unconventional
+consultant, adviser, counselor
+thick, viscous, gooey
+chubby, plump
+husky, gruff, hoarse
+mongrel, cross-breed
+mutt, mongrel
+muzzle, snout
+whisker, facial hair
+wiry, coarse, rough
+close, dense
+bill, banknote, note
+fare, ticket price, transport cost
+yummy, goody
+to boot, as well, in addition
+delicacy, choice food, gourmet food
+wrap up, wind up
+cheat on, commit adultery, be sexually unfaithful
+pumped, delighted, thrilled
+downy, soft, velvety, fuzzy, fluffy
+velvety, soft, furry, downy
+ooey-gooey, gooey, sticky
+tart, pastry, pie
+execute, carry out
+fury, rage
+furious, infuriated
+off, unsatisfactory, inadequate
+lopsided, tilted
+wobbly, unsteady, shaky, precarious
+wobble, sway, shake
+check, bill
+tissue, Kleenex
+seizure, convulsion
+monumental, huge
+monumental, impressive
+diner, small restaurant, cafeteria
+wonk, geek, nerd
+nosy, inquisitive, curious, spying, eavesdropping, intrusive
+brittle, fragile, delicate
+prodigy, genius
+barge in, cut in, interrupt, intrude, encroach
+twinge, pain
+twinge, pang
+tell sb off, scold sb
+inept, incompetent, unskillful, clumsy
+pathetic, inadequate, feeble, contemptible, unsatifactory
+straight away, right away
+franchise, chain
+deport, expel, banish, exile
+crayfish, crawdad
+demeanor, manner
+texture, feel, touch
+texture, appearance
+texture, quality, consistency
+feel, texture
+feel, impression
+feel, sense of touch
+thump, hit, strike, beat, batter, smack, punch, thrash
+spank, smack
+thank one's lucky stars, be very grateful
+sensational, shocking
+buildup, accumulation
+grime, dirt
+complimentary, free, free of charge
+ambience, atmosphere
+in one's face, directly at one
+flashy, ostentatious, snazzy, fancy
+blasphemous, profane
+pool, lottery, bet
+prosecute, sue
+tribute, accolade
+pay tribute to, praise
+moderate, average
+mild, slight
+chump, fool
+merchandise, goods
+damsel, young woman
+dope, fool
+dummy, chump, dope
+act, deed
+deadhead, dull person
+scorn, contempt, disdain
+incommunicado, isolated
+act up, malfunction, go wrong
+terrible with, bad at
+meet up, get together
+bigotry, dogmatism
+avarice, greed
+compose oneself, calm down
+flattering, complimentary
+lately, recently
+chicken, cowardly
+quintessential, typical, classic, definitive
+quintessence, perfect example, epitome
+comforting, consoling
+the quintessence of, the epitome of
+staple, main, principal, chief
+abridge, shorten
+pick up, catch, contract, come down with, get
+ventilated, airy
+sarcastic, scornful
+take A for B, mistake A for B
+dash, hyphen
+in the market, in the business, in the industry
+marketing, selling
+chic, stylish, in vogue, snazzy
+specialty/speciality, forte, strength
+slouch, slump, droop
+slouch, lounge
+slouch, incompetent, amateur
+in view of, considering, taking into account, on account of, owing to, because of, judging from
+consult with, confer with
+whisk, dash, bolt, dart
+get over, deceive
+savvy, shrewd, intelligent, wise
+scramble, rush, hasten, struggle
+condole with, sympathize with, commiserate with
+gloat, delight, relish, take great pleasure, revel, rejoice
+stick with, persevere with, continue with
+splatter, spray, sprinkle
+unorthodox, unconventional
+pitch in, help out, assist
+pull one's punches, be less forceful/severe
+put on, organize, present
+vengeance, revenge
+grope, fumble
+artsy, artistic
+entrepreneurial, enterprising
+cheeky, impertinent, cocky, brazen
+parcel, package
+through the roof, off the charts
+packet, pack
+mingle, socialize
+chickpea, garbanzo
+youth, young person
+lodge, house
+verbal diarrhea, talking too much
+escort, paid companion
+scenario, plot, outline, synopsis
+scenario, setting
+scenario, sequence of events
+postulate, put forward, hypothesize, propose
+sabotage, vandalism
+sabotage, vandalize, spoil
+phantom, ghost
+come down to, boil down to
+durable, lasting
+melt down, collapse, break down
+upscale, deluxe
+gimmick, publicity stunt
+sb's place, sb's house
+make a left/right, turn left/right
+bear with, be patient with, put up with, tolerate
+downside, drawback, disadvantage
+verge, edge, border, brink
+on the verge of, on the brink of
+off the book, out of trouble
+plumb, explore, probe
+plumb, fathom
+guts, nerve
+groggy, dizzy, wobbly, weak
+savior, rescuer
+an ocean of, a great deal of
+rain on sb's parade, spoil sb's plans
+inhibit, impede, hinder, hamper
+reception, party
+bail sb/sth out, rescue sb/sth, help sb/sth out, finance
+finance, fund, invest in
+mugger, robber
+mug, rob, assault
+pen, write
+invariably, in all cases
+edge, advantage
+excruciating, agonizing, unbearable
+mock, scorn, make fun of
+atrophy, waste away, wither, shrink, weaken
+atrophy, shrinking, weakening
+nail, perform well, succeed in
+flinch from, shy away from, evade
+admittedly, genuinely, honestly
+upbringing, breeding
+hereditary, inherited
+celebrity, famous person
+deity, god/godess, divine being
+streamlined, smooth
+streamlined, efficient
+ask for, request
+sullen, sulky, surly
+invoice, bill
+sit-down, formal meeting
+clarify, make clear, clear up
+slacker, idler
+absurdly, ridiculously
+in the wake of, subsequent to, as a consequence of, owing to
+sedate, tranquilize
+shrink, psychiatrist
+bosom friend, close friend, intimate friend
+sell sb out, betray sb
+go out of one's way to do sth, make a special effort to do sth
+orb, sphere, ball
+well-being, health
+in moderation, within limits, moderately
+rays, beams
+altogether, completely
+altogether, on the whole
+as of now, from now on
+rock, be impressive, blow one's mind
+top gun, a/the most important person
+go on about, keep talking about
+due, expected, required
+impound, confiscate
+take on, view of
+peevish, irritable, bad-tempered, ornery, grouchy   
+tempestuous, stormy, blustery, gusty
+tempestuous, turbulent      
+tempestuous, emotional, temperamental, capricious   
+erotic, lewd, sensual
+what do you do, what are you
+shard, fragment, sliver
+straight, directly
+mind your Ps and Qs, behave well
+decor, decoration
+crisp, invogorating, fresh, cool
+muggy, humid
+forge, hammer out
+forge, build, construct, create, establish, set up
+heartless, unsimpathetic, inconsiderate
+on the way, coming
+beat up, assault, thrash, beat the living daylights out of  
+litigation, lawsuit, prosecution
+phony, bogus, fake, fraudulent
+beat, exhausted, tired out
+party, have fun
+holy cow, gee whiz
+lead, leading
+pragmatic, practical
+exclaim, cry out, yell
+head of, be in charge of
+contingent on, dependent on, subject to
+contingent, fortuitous
+cut out, remove
+stuffed, full
+lift, cancel, remove
+stumble on, come across, bump into
+wimp, coward
+butt in, interrupt, interfere
+glee, delight
+oinker, pig, hog
+utensil, appliance
+brush up on, go over, review
+quality, excellent
+night, good night
+revive, restore
+barefoot, barefooted
+bristle, hair
+bristle, spine, quill
+bristle, get angry
+sequel, follow-up, continuation
+incidentally, by the way
+whew, phew, thank goodness
+bar, prohibit, hinder
+rope into, talk into
+premature, too early
+aggregate, total
+somber, gloomy
+impudent, impertinent, saucy
+closet, wardrobe
+delirium, dementia, hysteria
+join forces, combine efforts
+briefing, meeting
+enunciate, pronounce, articulate
+be/get carried away, lose self-control, get overexcited
+wacky, eccentric
+mosh, dance fervently
+no less than, as well as
+barbarian, savage
+ram, male sheep
+humor, pander to, cater to, pamper, spoil, yield to, give in to
+hooked, addicted
+gander, male goose
+gander, glance
+in the world, on earth
+feel like, feel as if
+regress, revert, deteriorate, degenerate
+dignitary, personage, pillar of society
+palpable, tangible, noticeable, perceptible, discernible, obvious
+portend, augur, bode, be an omen of, be a sign of
+inaugurate, initiate, commence, launch, start off, kick off
+inaugurate, admit to office, swear in
+forget about, stop thinking about
+set up, arrange, organize
+meet with, make a meeting with
+bug, annoy
+comatose, unconscious, in a coma
+come to, come around, regain consciousness
+gracious, courteous, benevolent, magnanimous, amiable
+idiocy, stupidity, foolishness
+call to mind, evoke
+city by the bay, San Fransisco
+handle, name, nickname, username
+grand, a thousand dollars
+ultra, uber, mega, exceedingly, exceptionally
+anchor, announcer, broadcaster, anchorman
+the bottom line, the most important point, the ultimate criterion
+get a hold of, contact
+decency, courtesy, thoughtfulness
+beforehand, in advance, ahead of time
+call out, cry out
+jingle, song
+pant, breathe heavily, breathe hard
+wheeze, breath noisily
+gasp, pant, wheeze
+crank, lunatic, maniac
+work one's fingers to the bone, work very hard
+infatuated with, in love with, obsessed with, attracted to, captivated to, enchanted by, keen on
+enforce, impose
+firearm, gun
+snip, cut, clip
+get even, have one's revenge, avenge oneself, take vengeance, retaliate
+butt out, stop interfering
+solemn, dignified, formal
+solemn, serious, somber
+solemn, sincere
+not in the least, not in the slightest
+junior high school, middle school
+momentum, impetus
+torment, ordeal
+turnout, attendance, number
+defect, abscond, turn traitor
+defector, traitor
+deficiency, shortage
+call on, visit
+glitch, defect, snag, malfunction
+vagrant, tramp, bum
+movie theater, theater, cinema
+momentarily, briefly
+adult, mature
+advance, preliminary
+advance, beforehand
+aggravate, exacerbate
+aggravate, irritate, exasperate, peeve
+daze, stun, stupefy, knock unconscious, knock out
+neighborly, obliging, helpful, amiable
+stink, suck, be disgusting, be very unpleasant
+monkey business, mischief, misbehavior
+mess around, fool around, monkey around
+after, later, afterward, subsequently
+tirade, censure, criticism
+veggies, vegetables
+give off, emit
+override, outweigh
+mushroom, proliferate, boom
+catch, hear
+go up, be built
+natural, born
+fathead, moron, dummy, buffoon
+move, movement
+goof, fool
+short on, short of
+grant, allow
+cellar, basement
+ravage, lay waste, devastate, destroy
+vino, wine
+lay waste, demolish, ravage, annihilate
+go nuts, go bananas
+say greetings to, say hello to
+don't mention it, not at all, it's nothing
+turn in, hand in, submit
+turn in, go to bed
+a trail of, a series of
+pound, strike, thrash, bash
+lash, whip, flog, thrash
+buff, fan, enthusiast, devotee, fanatic
+effusive, unrestrained
+prestigious, reputable, esteemed
+marauder, raider
+conscientious, diligent, industrious, assiduous, meticulous
+religiously, habitually, routinely, faithfully, frequently
+deep-seated, deep-rooted
+hit the sack, hit the hay, turn in
+tuft, clump, bunch, cluster
+toupee, wig, rug
+tune, melody
+precedent, previous case, example
+unprecedented, groundbreaking, pioneering, revolutionary
+obligate, oblige
+defective, faulty
+inventory, stock
+blow, screw up, mess up
+star, feature
+gag, joke
+infirm, frail, feeble, sick
+wait up, hold on, wait for me
+infirmary, hospital
+no kidding, I agree
+crunch, shortage, reduction
+put into action, carry out
+cost-efficient, cost-effective
+voracious, insatiable, gluttonous, greedy
+laid-back, relaxed, easygoing
+nag, harass, badger, hassle
+nag, irritate, bug, annoy
+paranoid, oversuspicious
+snicker, giggle
+grain, speck, particle
+mellow, amiable, amicable, easygoing, pleasant, genial
+professionals, office workers
+I'm down, count me in
+creak, squeak
+clear, get over, jump over
+struggle, scuffle, skirmish, fight
+pointer, tip, suggestion
+conceited, vain, narcissistic
+benchmark, standard
+cut to the chase, come to the point
+let one's hair down, have a whale of a time, let oneself go, enjoy oneself
+holdup, delay
+put one's finger on something, indentify sth exactly
+atone for, make up for, compensate for
+slap sb around, beat sb repeatedly
+crack up, break down, have a breakdown, go mad, freak out
+over the top, excessive, immoderate, extreme, too much, undue, going too far
+note, heed
+note, mention, refer to, point out
+fall on, be on
+in time, in the end, eventually
+perch, pole, rod, branch, resting place
+perch, alight, settle
+alight, get off
+alight, land, perch, settle, come to rest
+without a doubt, without doubt
+mountain top, crest, peak, summit
+fidget, move restlessly, wriggle
+rough up, beat up, batter
+rat, scoundrel, rogue
+probation, trial period
+exclusive, select, chic, elite, stylish, upscale
+upscale, deluxe, classy
+hubby, husband
+nugget, lump, chunk, hunk
+better half, wife
+better half, husband
+get-together, party

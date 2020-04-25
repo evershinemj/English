@@ -317,6 +317,8 @@ aggravate
 
 # adv.
 
+genuinely
+previously
 globally
 painfully
 exclusively

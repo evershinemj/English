@@ -1,0 +1,24 @@
+# intonation
+
+- There **is** no ...
+- 'incomplete
+- <u>no</u>
+- you *know*
+- <u>you know</u>
+- how **are** you
+- <i>mostly</i>
+- Have no fear. (give a high pitch to 'fear')
+- what 'is it (imagine that the phrase is pronounced like a singe word: whatisit)
+- Don't worry. (OoO)
+- Because of my phone's batte'ry. 
+- The bus station' will be' on your left.
+- I'm looking' for 524' Maryland Avenue.
+- Then you take a right' to Fulton.
+- Is there a road' with less traffic on it.
+- Do you know' where the zoo is?
+- Could you tell me' how to get there?
+- Do you know' how to get to the stadium?
+- Is this the east gate' of the park?
+- Is this the way to the police station?
+- How'?
+- 'affirmation or 'confirmation of sth

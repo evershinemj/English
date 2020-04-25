@@ -20,3 +20,33 @@ facilitate, hamper
 facilitate, hinder
 facilitate, impede
 buck, doe
+depreciate, appreciate
+coarse, delicate
+opaque, transparent
+tourist attraction
+credit, debit
+creditor, debtor
+in captivity, in the wild
+drastic, radical
+port, starboard
+maiden, first
+bow, stern
+rash, prudent
+baroque, minimal
+longitudinal, transverse
+benefactor, malefactor
+beneficent, maleficent
+benevolent, malevolent
+clumsy, graceful
+affirm, deny
+out of the woods, in jeopardy
+butler, maid
+thick, runny
+brittle, flexible
+brittle, resilient
+count out, count in
+literally, figuratively
+sequel, prequel
+aggravate, alleviate
+loosely, strictly
+unspeakable, indescribable

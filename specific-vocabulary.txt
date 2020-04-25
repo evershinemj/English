@@ -1,0 +1,9 @@
+candy: bonbon, nougat, lollipop, marshmallow, cotton candy, toffee, snickers, tic tacs
+tooth: incisor, eyetooth(canine tooth), premolar, molar
+nut: walnut, almond, pecan, chestnut, cashew
+luxury car: Rolls-Royce, Bentley, MayBach, Ferrari, Lamborghini, McLaren, Aston Martin, Bugatti, Pagani, Koenigsegg
+berry: cranberry, raspberry
+dog: Labrador, German shepherd, golden retriever, Siberian husky, Corgi, Samoyed, poodle, bulldog, bull terrier, pit bull terrier, boxer, beagle, mutt, mongrel, doberman, Border Collie, chow chow, schnauzer, Alaskan malamute, Pomeranian, chihuahua
+weasel: otter, badger, wolverine, skunk
+flower: tulip, carnation, sunflower, orchid
+goose: gander, gosling, gaggle
