@@ -1,0 +1,46 @@
+* un, in
+  前缀in-为拉知丁前缀，一般与拉丁借词相结合，拉丁借词词尾多为拉丁后缀如-ate，-ent等。in-常加在形容词，名词之前，如incorrect不正确的、inability无能 无力、inaccurate不准确的等。
+  un-主要放于名词，形容词，副词前面，常见的例子有unfinished未完成的、undoubted无疑的、unemployment失业。
+
+  1.un- 是活用前缀,in- 是非活用前缀.
+  所谓活用前缀就是说它可以自由地加在某些词前面,构成新的派生词.而in-除了已有的派生词以外,不能用它构成新的派生词.在现代英语中,un-是最能产型的前缀,它既能与外来语的词根结合e69da5e887aae79fa5e9819331333363383963,又能跟本族语的词根结合.若翻开词典,我们不难发现,un-的生词多半只有特殊意义的词,因为一般派生词其意义很容易看出来,所以没必要全部收进词典.In-的派生词在词典里则全可查到.
+  2.un- 是英语本族语前缀,in- 是外来拉丁语前缀.
+  十一世纪以前,英语外来语词汇很少.到了1066年,法国西北部的诺曼人侵入英国,这使得大量的法语和拉丁语词汇渗入英语,in-就是这时带进来的前缀,因为它和un-同义,有时竟混用起来.
+  3.un- 通常是形容词前缀,如unhappy,unstable.
+  但也多用于某些动词前,如：unbind,unlock等.有时它还用来做名词前缀,如：unemployment,unreality等.间或还能是副词前缀,如：unkindly,unusually等.
+  In-大都构成形容词,如：incorrect,invisible等.但也能构成名词,如：informality.
+  4.有时,同一个词根,形容词前加un-,名词前加in-,如：unequal-inequality,unable-inability,unjust-injustice.
+  有时同一单词,前面可以加un-,也可加in-,这时要注意它们的细微差别,如：inapt和unapt.
+  5.un-不仅表示否定意义,有时还带有明显的贬义,如：unkind,unworth等.已有贬义的词前是不能加un-的,如：foolish,ugly,bad等就不能加un-.in-仅用来表示否定.
+  6.un-没有变体.in-有几个变体：il-,im-,ir-,ig-.这几个变体前缀和它们的原体in-一样,都是非活用前缀,所不同的是：因为发音同化的道理,il-用在只发一个[l]音前,如：illegal,illiterate;im-用在发音是{m}或{p}前,如：impossible,immobile;ir-用在发音是{r}前,如：irregular,irresponsible;ig-用在发音是{n}前,如：ignore,ignoble,ignorant.
+  7.un-常用在后缀是-ed,-ing或是-ful,-like,-some的词前,如：undecided,unknown,unbending,unsuccessful,unsportsmanlike,unwholesome.
+  8.in-是拉丁语前缀,所以常用在拉丁语后缀是-ate,-ant,-ent,-ite,-ible的形容词前,如：inadequate,incessant,inconsistent,indefinite.但也有例外,如：unfortunate.
+  9.以in-或im-开头的词,不再加in-而用un-,如：unimaginable,unimportant,unimproved.但也例外,如：inimitable.
+  10.某些词干不同或词尾不同的单词,它们有的用un-,有的用in-,但表达的意义却相同,如：unapproachable,inaccessible达不到的；unexhausted,inexhaustible用不尽的.
+
+* able, ible
+  There are more words ending in -able (about 900) than -ible (less than 200).
+  -able words usually come from French. We can make new adjectives - networkable, childproofable.
+  A general rule is if we take away the suffix (-able) we are usually left with a root word:
+  understandable = understand + able,   enjoyable = enjoy + able, comfortable = comfort + able, dependable = depend + able.
+  If the root word ends in 'e' then usually we drop the 'e':  value + able = valuable, desire + able = desirable, move + able = movable, believable, excitable.
+  BUT words that keep the 'e' are: saleable, hireable, sizeable, likeable, nameable. The best way to remember these is to memorise them.
+
+  But we can drop the 'e' or keep the 'e in these words, both are correct:
+  likeable/ likable,
+  lovable /loveable,
+  useable/usable.
+
+  The y becomes i when adding -able: justify - justifiable, rely - reliable.
+  We can also apply the 1:1:1: doubling up rule when adding -able so forget = forgettable. The second syllable is stressed and it has 1 vowel and 1 consonant so double up the 't' - forget; forgettable or regret; regrettable). Check out my other video on the doubling up 1:1:1 rule - click here.
+  Also, we usually keep the 'e' with words ending in -ce and -ge so the words retain the soft c and g sound: changeable, manageable, noticeable, peaceable, pronounceable, serviceable, traceable, knowledgeable.
+  
+  
+  -ible words come from Latin. There are no new Latin words!
+  As a general rule we aren't left with a root word when we take away the -ible ending like in the -able endings - terr/ible. horr/ible, vis/ible. BUT as I've said before, there are always exceptions - look at these: corrupt + ible = corruptible, destruct/ible, contempt/ible, perfect/ible, covertible, digestible. Also access/ible, flexible.
+  *notice the -tible pattern. It's always great to see patterns and also to know and understand exceptions to rules.
+  We also drop the 'e' with -ible: collapse + ible = collapsible, response + ible = responsible, sense + ible = sensible, reduce + ible = reducible
+  Words ending in c have a softer sound with -ible: forcible, invincible, reducible
+  Notice we drop the 'e' in force -ible= forcible, reduce ible = reducible
+  Learn the common ones - terrible, horrible, incredible, sensible, edible, accessible, flexible, legible, collapsible, reducible, responsible, reversible.
+    

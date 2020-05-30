@@ -7,3 +7,5 @@ dog: Labrador, German shepherd, golden retriever, Siberian husky, Corgi, Samoyed
 weasel: otter, badger, wolverine, skunk
 flower: tulip, carnation, sunflower, orchid
 goose: gander, gosling, gaggle
+steak: rare, medium rare, medium, medium well, well done
+shackles: manacles, fetters

@@ -12,6 +12,9 @@ Martin Scorsese
 Joe Pesci
 David Fincher
 David Lynch
+Langston Hughes
+Schrodinger
+Eisenhower
 
 # names
 
@@ -24,3 +27,4 @@ Debbie Hart
 Harrison
 Gilbert
 Jake
+Patricia

@@ -9063,3 +9063,123 @@ groggy
 
 ---
 
+offside
+- (of a player in certain sports) occupying an unlawful position on the field.
+
+---
+
+throw-in
+- (Soccer) the act of throwing the ball from the sideline to restart play after the ball has gone out of bounds.
+
+---
+
+margin of error
+- an amount (usually small) that is allowed for in case of miscalculation or change of circumstances.
+
+---
+
+gig
+- a live performance by or engagement for a musician or group playing popular or jazz music.
+
+---
+
+macaroni
+- a variety of pasta formed in narrow tubes.
+
+---
+
+turn the tables
+- reverse one's position relative to someone else, especially by turning a position of disadvantage into one of advantage: police invited householders to a seminar on how to turn the tables on burglars.
+
+---
+
+tap (into) sth
+- to make use of a source of energy, knowledge, etc. that already exists 
+
+---
+
+ambient music
+- a style of gentle, largely electronic instrumental music with no persistent beat, used to create or enhance a mood or atmosphere.
+
+---
+
+evanesce
+- pass out of sight, memory, or existence.
+
+---
+
+score
+- the music written for a film/movie or play
+
+---
+
+for God's sake
+-  used to express impatience, annoyance, urgency, or desperation
+
+---
+
+get into
+- (of a feeling) affect, influence, or take control of (someone)
+
+---
+
+come over
+- (of a feeling or manner) begin to affect (someone).
+
+---
+
+teleport
+- (especially in science fiction) transport or be transported across space and distance instantly.
+
+---
+
+discreet
+- careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage
+
+---
+
+blab
+- reveal secrets by indiscreet talk
+
+---
+
+snap
+- [with complement or adverbial] cause to move or alter in a specified way with a brisk movement and typically a sharp sound
+  Rosa snapped her bag shut.
+
+---
+
+concert
+- arrange (something) by mutual agreement or coordination
+
+---
+
+by any chance
+- possibly (used in tentative inquiries or suggestions) used especially in questions, to ask whether sth is true, possible, etc.: were you looking for me by any chance?
+
+---
+
+rank
+- (especially of air or water) having a foul or offensive smell.
+
+---
+
+be on automatic pilot
+- to do sth without thinking because you have done the same thing many times before
+
+---
+
+back up
+- (of vehicles) form a line due to congestion: the traffic began to back up.
+
+---
+
+obsequious
+- obedient or attentive to an excessive or servile degree
+
+---
+
+get off on the right foot
+- make a good (or bad) start at something, especially a task or relationship.
+
+
