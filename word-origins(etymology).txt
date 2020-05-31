@@ -457,3 +457,5 @@ tenuous: 1590s, "thin, unsubstantial," irregularly formed from Latin tenuis "thi
 relinquish: late Middle English: from Old French relinquiss-, lengthened stem of relinquir, from Latin relinquere, from re- (expressing intensive force) + linquere ‘to leave’.
 destitute: c. 1400, "abandoned, forsaken," from Latin destitutus "abandoned," past participle of destituere "forsake," from de "away" (see de-) + statuere "put, place," causative of stare "to stand," from PIE root *sta- "to stand, make or be firm."
 dissident: mid 16th century (in the sense ‘differing in opinion or character’): from Latin dissident- ‘sitting apart, disagreeing’, from dis- ‘apart’ + sedere ‘sit’.
+synergy: 1650s, "cooperation," from Modern Latin synergia, from Greek synergia "joint work, a working together, cooperation; assistance, help," from synergos "working together," related to synergein "work together, help another in work," from syn- "together" (see syn-) + ergon "work" (from PIE root *werg- "to do"). 
+i.e.: from Latin id est ‘that is’.
