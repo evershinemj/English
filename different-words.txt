@@ -156,3 +156,7 @@ intercede, intercept
 liking, like
 evanescent, effervescent
 autocracy, autonomy
+satirical, sardonic, sarcastic
+grant, scholarship
+guidance, guide
+apprise, appraise

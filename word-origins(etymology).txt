@@ -459,3 +459,59 @@ destitute: c. 1400, "abandoned, forsaken," from Latin destitutus "abandoned," pa
 dissident: mid 16th century (in the sense ‘differing in opinion or character’): from Latin dissident- ‘sitting apart, disagreeing’, from dis- ‘apart’ + sedere ‘sit’.
 synergy: 1650s, "cooperation," from Modern Latin synergia, from Greek synergia "joint work, a working together, cooperation; assistance, help," from synergos "working together," related to synergein "work together, help another in work," from syn- "together" (see syn-) + ergon "work" (from PIE root *werg- "to do"). 
 i.e.: from Latin id est ‘that is’.
+artillery: art, 技艺，工艺。原指冷兵器时代的投石机，代表当时的先进工艺，现指大炮。
+dowry: 女子出嫁时，女方家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通行的一项古老习俗。这种陪嫁礼物就是“嫁妆”，在英文中称为dowry。它源自拉丁语dotare，其中的do就是“赠送”的意思，如英语单词donate（捐赠）。与它同源的还有endow（捐赠）。 娘家赠送嫁妆的原因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方面还有比较深厚的社会历史原因。我们知道，古代社会是父权和夫权社会，女性地位低下，嫁入男方后就成了婆家的人，与娘家不再有瓜葛，也不能继承娘家的遗产，所以女性成家后几乎再也无法从娘家获得任何帮助。在这种背景下，娘家向出嫁女儿提供帮助的唯一途径就是结婚时的嫁妆了。嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。
+elope: e-, 来自anti-,相对，相反。-lope, 同leap, 跑。即跑走的，跑掉的。
+consummate: con-, 强调。-sum, 圆满，高超，词源同super, -m, 最高级后缀，词源同sum, intimate, ultimate. 即达到最高的，圆满的，引申义圆房。c. 1500, "complete, perfect, carried to the utmost extent or degree," from Latin consummatus "perfected, complete," past participle of consummare "sum up, complete," from assimilated form of com "together, with" (see con-) + summa "sum, total," from summus "highest" (see sum (n.)). Of persons, "accomplished, very qualified," from 1640s. Related: Consummately.
+capsize: 可能来自词根cap, 头，见captain，拼写受size俗化。即头往下栽的。
+affluent: early-15c., "abounding in, copious" (of God's grace); mid-15c. "flowing to" (of liquids), both senses now obsolete, from Old French afluent (14c.) or directly from Latin affluentem (nominative affluens) "abounding, rich, copious," literally "flowing toward," present participle of affluere "flow toward," from assimilated form of ad "to" (see ad-) + fluere "to flow" (see fluent). The especial sense of "abounding in wealth or possessions" is from 1753.
+cajole: "deceive or delude by flattery," 1640s, from French cajoler "to cajole, wheedle, coax," a word of uncertain origin; perhaps a blend of Middle French cageoler "to chatter like a jay" (16c., from gajole, southern diminutive of geai "jay;" see jay (n.)), and Old French gaioler "to cage, entice into a cage" (see jail (n.)). 
+throe: c. 1200, throwe "pain, pang of childbirth, agony of death," of uncertain origin, possibly from Old English þrawan "twist, turn, writhe" (see throw (v.))
+forensic: "pertaining to or suitable for courts of law," 1650s, with -ic + stem of Latin forensis "of a forum, place of assembly," related to forum "public place" (see forum). 
+asylum: 前缀a-, 不，非。-syl, 同词根sal, 跳，攻击，见assail. 指宗教圣殿，避难所。asylum = a（没有）+syl（抓捕权）+um（地方）→没有抓捕权的地方→庇护所 词源解释：syl←希腊语syle（抓捕权） 常用搭配：political asylum（政治避难）；lunatic asylum（精神病院）；orphan asylum（孤儿院）。18世纪中期后，asylum开始用来表示“精神病院”，也许是因为人们将精神病院看作是精神病患者的庇护和救济所。
+spew: 来自拟声词根辅音丛 sp-,吐，喷出，比较 spate,spew,spit,spout,sputter.
+acoustic: acoustic = a（无意义前缀) + cous（听）+ tic（形容词后缀）→听觉的、声学的→原声的 词源解释：cous←原始印欧词根kous（听） 同源词：acoustics（声学）
+pawn: 来自古法语peon,兵，卒，来自拉丁语pedonem,步兵，来自拉丁语pedis,脚，来自PIE*ped,脚，词源同foot,biped.最初用于国际象棋卒，后引申词义走卒。来自古法语pan,承认，担保，可能来自该词的另一个词义pan,布，一块布，来自拉丁语pannum, 一块布，衣服，词源同pane,panel.其原义可能为以衣服作为质押或在布上写上契约。
+spurt: 来自拟声词根辅音丛 sp-,吐，喷出，比较 spate,spew,spit,spout,sputter.
+splutter: 可能为拼写变体形式自 sputter,噼啪声，语无伦次。或直接来自拟声词。
+satire: 来自拉丁语 satira,讽刺作品，混杂诗，来自 lanx satura,满盘，杂盘，各种水果混在一起的盘 子，来自 lanx,盘子，词源同 balance,satura,满的，饱和的，阴性格于 satur,满的，饱和的，词 源同 saturate,使饱和。比喻用法，后词义通俗化为讽刺，讥讽。late 14c., "work intended to ridicule vice or folly," from Middle French satire (14c.) and directly from Latin satira "satire, poetic medley," earlier satura, in lanx satura "mixed dish, dish filled with various kinds of fruit," literally "full dish," from fem. of satur "sated" (from PIE root *sa- "to satisfy").
+sardonic: 传说地中海中撒丁岛（sardinia）上有一种毒草，其毒性足以致命。误食者会肌肉抽搐，狂笑不止而死，死的时候脸上依然保持一种古怪的笑容。古希腊诗人荷马将这种笑容称为“撒丁式笑容”，翻译成英语就是sardonic smile，单词sardonic就来自撒丁岛的名字sardinia，现在常常用来表示“冷笑的”、“讥讽的”。
+sarcasm: 1570s, sarcasmus, from Late Latin sarcasmus, from late Greek sarkasmos "a sneer, jest, taunt, mockery," from sarkazein "to speak bitterly, sneer," literally "to strip off the flesh," from sarx (genitive sarkos) "flesh," properly "piece of meat," traditionally from PIE root *twerk-, *tuerk- "to cut" (source also of Avestan thwares "to cut"), but Beekes is dubious. Current form of the English word is from 1610s. 古代希腊人喜欢辩论，在娱乐、政治、司法等领域处处都能见到辩论，甚至还出现了一批专门教授修辞学和辩论术的人，即所谓的“智者”或“诡辩家”。古代雅典就是一座辩论之城，希腊的古典哲学就诞生于各种辩论中。在辩论时，优秀的辩论家往往能抓住对方言语中的漏洞，用尖酸刻薄的话加以讽刺，使对手颜面尽失、狼狈不堪。在围观者看来，这种尖酸刻薄的讽刺，就像是用牙齿将对手的肌肤一条条撕咬下来，因此将其称为sarkazein，意思就是“将肉撕咬下来”，其中的sark就是英语词根sarc，表示“肉”，含有该词根的单词有sarcous（肉的）。 
+flagrant: 来自PIE*bhleg, 照明，闪光，来自PIE*bhel的扩大形式，词源同flame, blaze. 原义为闪光的，辉煌的。然后由于不知道的原因词义贬义化。
+blatant: blatant一词由16世纪英国诗人埃德蒙•斯宾塞 （Edmund Spenser）杜撰。斯宾塞在其长篇史诗《仙后》中创造了这个词，用来形容一头长有千条舌头、代表“诽谤”的怪兽。其词源很有可能是拉丁语blatire（喋喋不休）。现在，该词的核心含义是“在公众场合粗俗无礼地大声喧哗”，并引申出“显眼的”、“公然的”、“炫耀的”等含义。 blatant：['bleɪt(ə)nt] adj. 喧嚣的；炫耀的 ；显眼的；公然的
+sacrilege: sacri-,神圣的，-leg,拿，带，收集，词源同 collect,select.字面意思为拿走献神的祭品，引申词 义亵渎，渎圣。
+abode: abide的过去分词，后词性转为名词。
+adamant: a-为否定前缀；词根dam表“征服，驯服”，比如tame（驯服的）就和它是同源词；-ant为形容词后缀；所以它的字面意思就是“不可征服的”，引申为意志的“坚定不移”。有趣的是，单词diamond（金刚石；钻石）是它的变体，由意志的坚定引申为质地的坚硬。早在乔叟时代adamant一词就已是英语的一分子。它源于希腊语adamas（最坚硬的金属），但却借自古法语adamaunt（最坚硬的石头）。因此，有好几个世纪adamant一直被作为diamond（金刚石）的同义词使用（其实两者系同源词）。它被广泛用作形容词，表示“坚硬的”、“坚决的”等义则是20世纪30、40年代以后的事。
+panacea: panacea一词直接借自希腊语。在希腊神话里Panacea是医药神Asclepius之女，她能治百病，所以被人尊奉为医药女神。Panacea这一名字本身在希腊语中就含有“能治百病”的意思。正是由于这个原因，panacea进入英语后常作“万应药”或“灵丹妙药”解，但在现代用法中panacea常用于讽刺意义。帕那刻亚的名字在希腊语中是“治疗一切”的意思，由pan+akeia构成，相当于英语中的all+cure。
+onerous: "burdensome, troublesome," late 14c., from Old French onereus, honereus (14c., Modern French onéreux) and directly from Latin onerosus "burdensome, heavy, oppressive," from onus (genitive oneris) "a burden" (see onus).
+indignation: 词根词缀： in-否定 + -dign-尊严 + -ation名词词尾
+expatriate: ex-, 向外。-patri, 父亲，祖国，词源同father. 即离开祖国的人。
+corduroy: "thick, cotton stuff with a corded or ridged surface," 1774, probably from cord + obsolete 17c. duroy, name of a coarse fabric made in England, which is of unknown origin. Folk etymology is from *corde du roi "the king's cord," but this is not attested in French
+influx: in-,进入，使，-flu,流动，词源同fluid,flux. 即流进，流入。
+throng: 来自中英语 thrang,人群，来自 Proto-Germanic*thrangwa,人群，来自 PIE*trenk,挤，压，催促， 可能来自 PIE*tere,弯，转，扭曲，词源同 turn,throw,torque.比喻用法，即拧在一起。
+frivolous: mid-15c., from Latin frivolus "silly, empty, trifling, worthless," diminutive of *frivos "broken, crumbled," from friare "break, rub away, crumble" (see friable). In law (by 1736), "so clearly insufficient as to need no argument to show its weakness." 来自拉丁语friare, 破开的，卷曲的，词源同friable, friction. 用来指经不起推敲，愚蠢可笑的言语。
+terracotta: 来自意大利语 terra cotta,熟土，陶土，来自 terra,土，cotta,烤过的，来自拉丁语 cocta,烤过的， 词源同 cook.
+caption: late 14c., "a taking, seizure," from Old French capcion "arrest, capture, imprisonment," or directly from Latin captionem (nominative capito) "a catching, seizing, holding, taking," noun of action from past participle stem of capere "to take" (from PIE root *kap- "to grasp"). Used from mid-17c. especially in law, and there via its appearance at the head of legal document involving seizure, deposition, etc. ("Certificate of caption"), the sense was extended to "the beginning of any document," and thence to "heading of a chapter or section of an article" (1789), and, especially in U.S., "description or title below an illustration" (1919).
+draconian: From Draco , a legislator in ancient Athens who gave severe punishments for crimes, especially the punishment of being killed. 
+sirloin: 英语单词sirloin通常被音译为“西冷”，指的是牛的上部腰肉。其中的loin就是“腰部、腰肉”的意思。西冷牛肉连带着脂肪组织，烹饪后口感比较香、嫩、油润。同时它体积比较大，卖相很好。因此，用西冷牛肉制作的牛排，是西餐中的佳品。sirloin在古英语中拼写为surloin，由sur（上部）+loin（腰肉）构成，表示“牛上部的腰肉”。关于拼写从sur变为sir，有一个有趣的民间传说。传说，有一位英国国王有一回对他所吃到的牛腰肉特别满意，高兴之下就把它封为爵士（Sir），因此，surloin的拼写就变成了sirloin。英国作家富勒（Thomas Fuller）和斯威夫特（Jonathan Swift）都认可这种说法。
+salami: 来自意大利语 salami,复数格于 salame,腌猪肉条，香肠，来自通俗拉丁语*salamen,盐渍物， 来自 sal,盐，词源同 salt,-men,名词后缀
+extenuate: 1530s, "make thin, lean, slender, or rare; reduce in thickness or density" (the literal sense, now rare); from Latin extenuatus, past participle of extenuare "lessen, make small, reduce, diminish, detract from," from ex "out" (see ex-) + tenuare "make thin," from tenuis "thin," from PIE root *ten- "to stretch." Used over the years in a variety of literal and figurative senses in English. From 1560s as "to lessen, make smaller in degree or appearance, make less blamable, lower in importance or degree." Related: Extenuated; extenuating. Extenuating circumstances (1660s) are those which lessen the magnitude of guilt (opposed to aggravating).
+galvanize: 来自其发现者18世纪意大利解剖学家Luigi Galvanize用电流刺激青蛙腿发现该现象，后经改造并以其名命名的一种技术。1801, "stimulate by galvanic electricity," from French galvaniser, from galvanisme (see galvanism). Figurative sense of "excite, stimulate (as if by electricity)" first recorded 1853 (galvanic was in figurative use in 1807). Meaning "to coat with metal by means of galvanic electricity" (especially to plate iron with tin, but now typically to plate it with zinc) is from 1839.
+remission: 来自拉丁语 remittere,松开，松懈，减轻，送走，来自 re-,向后，往回，mittere,送出，送走， 词源同 emit,remit.-ss,过去分词格，-ion,名词后缀。引申词义减少，减轻等。
+languish: early 14c., "fail in strength, exhibit signs of approaching death," from languiss-, present participle stem of Old French languir "be listless, pine, grieve, fall ill" (12c.), from Vulgar Latin *languire, from Latin languere "be weak or faint" (from PIE root *sleg- "be slack, be languid"). Weaker sense of "be lovesick, grieve, lament, grow faint," is from mid-14c. 
+procure: 来自拉丁语procurare,关心，照看，管理，看护，来自pro-,向前，代表，-cur,关切，照看，词源同cure,pedicure.引申词义得到，获得，特指费尽心力取得。
+esper: esp for extra sensory perception
+deplore: de-, 向下，强调。-plor, 呼喊，呼叫，词源同explore, implore.比较declaim, denounce.
+vanquish: 来自拉丁语 vincere,战胜，击败，词源同 victory,convince.
+snitch: 来自辅音丛 sn-,鼻子，闻，嗅，发鼻音，比较 sneer,snore,snicker,sniff,snuff.拼写可能受 snatch 影响。引申比喻义告密者及相关动词词义。
+culminate: 来自拉丁语culmen,顶点，词源同hill,column.
+wimp: 这是个口头用语，20世纪70年代始用于美国，起初在学生中流行，以后又传至英国。关于其由来，有两种说法：其一，wimp乃whimper（抽泣，呜咽）或whimperer（抽泣者）之缩略，性格懦弱的人或没有骨气的人往往因疼痛或委屈而哭哭啼啼（whimper）的，故人们以wimp称之；其二，该词源于美国漫画家埃尔齐·西格（Elzie C. Segar, 1894-1938）创作的连环画Popeye（大力水手）中名叫Wimpy的衣着邋遢的大胖子。
+vicissitudes: 来自拉丁语vicis,改变，交流，继任，来自PIE*weik,弯，转，词源同week,vicarious。引申词义变迁，兴衰荣辱。
+deceased: 词根词缀： de-加强意义 + ceas(-cess-)行走,退让 + -ed形容词词尾
+narcolepsy: narco-,麻木，-lepsy,抓住，词源同epilepsy,nympholepsy.用于指发作性睡病。
+rampage: From Middle English ramp ‎(“rave, rush wildly about”), from Old French ramper.
+armistice: 停战，休战；休战协议 结构分析：armistice = arm（武器）+i（连接成分）+stice（停止）→武器停止使用→休战 词源解释：arm←拉丁语arma（武器）；stice←拉丁语stitium（停止）
+bureaucracy: 官僚政治；官僚主义；官僚机构 结构分析：bureaucracy = bureau（官僚）+cracy（政治）→官僚政治 词源解释：bureau来自法语，本意是“覆盖写字台的桌布”，来自burel（粗糙的羊毛布）。由于人们以前往往在写字台上铺上一层burel，因此将这种桌布称为bureau，后来用来表示“办公桌”，再往后用来表示“办公室”，继而用来表示政府中的一个部门，即中文中的“局”或“处”。最后可用来表示 “官僚机构”。
+lingua franca: 来自意大利语，字面意思即法兰克人的语言，引申词义通用语，因在16，17世纪，西亚人，中亚人把欧洲人统称为法兰克人。
+demise: de-, 向下，离开。-mis, 送出，词源同mission. 委婉语。
+

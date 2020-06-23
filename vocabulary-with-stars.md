@@ -1,5 +1,15 @@
 # one star
 
+- prank
+- hoop
+- flagrant
+- blatant lie
+- sarcastic
+- sardonic
+- satirical
+- satire
+- scourge
+- cajole
 - arduous
 - impending
 - paramount 
@@ -854,6 +864,7 @@
 
 # two stars
 
+- lash
 - tree stump
 - stump
 - ax
@@ -1320,6 +1331,8 @@
 
 # three stars
 
+- lens
+- subsudy
 - discipline oneself
 - discipline sb (for sth)
 - firm conviction
