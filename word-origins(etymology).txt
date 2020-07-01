@@ -514,4 +514,11 @@ armistice: 停战，休战；休战协议 结构分析：armistice = arm（武�
 bureaucracy: 官僚政治；官僚主义；官僚机构 结构分析：bureaucracy = bureau（官僚）+cracy（政治）→官僚政治 词源解释：bureau来自法语，本意是“覆盖写字台的桌布”，来自burel（粗糙的羊毛布）。由于人们以前往往在写字台上铺上一层burel，因此将这种桌布称为bureau，后来用来表示“办公桌”，再往后用来表示“办公室”，继而用来表示政府中的一个部门，即中文中的“局”或“处”。最后可用来表示 “官僚机构”。
 lingua franca: 来自意大利语，字面意思即法兰克人的语言，引申词义通用语，因在16，17世纪，西亚人，中亚人把欧洲人统称为法兰克人。
 demise: de-, 向下，离开。-mis, 送出，词源同mission. 委婉语。
-
+quandary: "state of perplexity," 1570s, of unknown origin, perhaps a quasi-Latinism based on Latin quando "when? at what time?; at the time that, inasmuch," pronominal adverb of time, related to qui "who" (from PIE root *kwo-, stem of relative and interrogative pronouns). 
+magnate: late Middle English: from late Latin magnas, magnat- ‘great man’, from Latin magnus ‘great’.
+yap: early 17th century (denoting a dog that yaps): imitative.
+crustacean: an animal of the class Crustacea, 1835; see Crustacea + -an. As an adjective, "of or pertaining to an animal of the class Crustacea," 1858 (an earlier adjective was crustaceous, "pertaining to crust, crust-like," 1640s).
+guerilla: early 19th century (introduced during the Peninsular War): from Spanish, diminutive of guerra ‘war’.
+remunerate: early 16th century: from Latin remunerat- ‘rewarded, recompensed’, from the verb remunerari, from re- (expressing intensive force) + munus, muner- ‘gift’.
+commensurate: mid 17th century: from late Latin commensuratus, from com- ‘together’ + mensuratus, past participle of mensurare ‘to measure’.
+diss: 1980s: abbreviation of disrespect.
