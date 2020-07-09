@@ -527,3 +527,4 @@ conduce: late Middle English (in the sense ‘lead or bring’): from Latin cond
 pervade: mid 17th century (also in the sense ‘traverse’): from Latin pervadere, from per- ‘throughout’ + vadere ‘go’.
 permeate: mid 17th century: from Latin permeat- ‘passed through’, from the verb permeare, from per- ‘through’ + meare ‘pass, go’.
 entrench: mid 16th century (in the sense ‘place within a trench’): from en-1, in-2 ‘into’ + trench.
+pathogenic: "producing disease," 1836, from French pathogénique, from Greek pathos "disease" (from PIE root *kwent(h)- "to suffer") + French -génique "producing" (see -gen). 
