@@ -41,6 +41,17 @@
 155 bachelor party
 156 scary story
 158 all saints' day
+178 suck at getting presents for people
+179 silent night
+180 jingle bells
+181 Christmas morning
+182 yapping on about clothes
+183 winter clothing
+184 turn over a new leaf
+185 farming
+186 start a business
+187 love handles
+188 asking for a raise
 190 kebab
 194 stir fry
 195 job
@@ -48,4 +59,5 @@
 197 professions
 198 CPR
 199 first aid
+203 computer crash
 204 courtroom
