@@ -60,3 +60,5 @@ grim, amiable
 boo, applaud
 incentive, deterrent
 ameliorate, worsen
+plain, elaborate
+plain, fancy
