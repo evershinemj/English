@@ -1,3 +1,33 @@
+001 restaurant
+002 call in sick
+003 hotel reservation
+004 hire an assistant
+005 cut in line
+006 road trip
+007 computer acting up
+008 meet up again
+009 can you keep it down
+010 two for one promotion to drive sales
+011 creepy new guy episode one
+012 tidy up the house
+013 out-of-hand expenditures
+014 borrowing money from an acquaintance
+015 I'm sorry I love you episode one
+016 step on it
+017 wedding ceremony
+018 protest for a bailout
+019 Sauta Claus busted
+020 at the ophthalmologist's
+021 meeting a flamboyant guy
+022 sledge impounded
+023 booked solid
+024 a hole in the wall
+025 bird flu contigency plan
+026 cut out all the junk I eat
+027 I was just wondering
+028 I'm sorry I love you episode two 
+029 investing during an economic downturn
+030 creepy new guy episode two
 101 70s
 102 global cooling
 103 can we talk
@@ -41,23 +71,34 @@
 155 bachelor party
 156 scary story
 158 all saints' day
-178 suck at getting presents for people
-179 silent night
-180 jingle bells
-181 Christmas morning
-182 yapping on about clothes
-183 winter clothing
-184 turn over a new leaf
-185 farming
-186 start a business
-187 love handles
-188 asking for a raise
 190 kebab
+191 time zones
+192 Armageddon of weather
+193 a couple buying a house
 194 stir fry
 195 job
 196 tailor
 197 professions
 198 CPR
 199 first aid
+<<<<<<< HEAD
+200 fast food
+201 at the post office
 203 computer crash
+=======
+>>>>>>> parent of 8b30aa6... 	modified:   Englishpod.txt
 204 courtroom
+205 chocolate distributor
+206 squabble over bills
+207 shopping online
+208 huge plunge of stock market
+209 office gossip
+210 finance introduction
+212 last will and testament
+213 cremation
+223 facial hair portraiting
+224 breakin
+225 bank heist
+226 door-to-door soliciting
+227 wedding plan
+228 at the beach

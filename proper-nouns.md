@@ -15,6 +15,8 @@ David Lynch
 Langston Hughes
 Schrodinger
 Eisenhower
+Robert Schumann
+Florence Nightingale
 
 # names
 

@@ -36,6 +36,7 @@
 - perks
 - holiday entitlement
 - base salary plus commission
+- attendance bonus
 
 ## work income
 
