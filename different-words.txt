@@ -1,3 +1,4 @@
+
 incubate, hatch
 stamina, tenacity 毅力，执着
 ruthless, ruthless 残酷，无情
@@ -162,3 +163,5 @@ guidance, guide
 apprise, appraise
 skip to sth, skip sth
 illicit, elicit
+revolver, pistol
+sector, segment

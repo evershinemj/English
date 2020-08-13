@@ -1,5 +1,6 @@
 # one star
 
+- skinhead
 - prank
 - hoop
 - flagrant

@@ -81,12 +81,9 @@
 197 professions
 198 CPR
 199 first aid
-<<<<<<< HEAD
 200 fast food
 201 at the post office
 203 computer crash
-=======
->>>>>>> parent of 8b30aa6... 	modified:   Englishpod.txt
 204 courtroom
 205 chocolate distributor
 206 squabble over bills
@@ -102,3 +99,14 @@
 226 door-to-door soliciting
 227 wedding plan
 228 at the beach
+258 curfew
+259 interview part nine
+260 guns(revolver, shotgun, handgun, machine gun, rocket launcher)
+263 array of nationalities
+264 toothache
+265 exterminator and pests
+266 weather forecast for weekend travelers
+267 wire transfer
+268 purchasing manager and vendor
+269 coffee marketing
+270 tailor-made suit

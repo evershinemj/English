@@ -534,3 +534,7 @@ embark: mid 16th century: from French embarquer, from em- ‘in’ + barque ‘b
 reimburse: early 17th century: from re-‘back, again’ + obsolete imburse ‘put in a purse’, from medieval Latin imbursare, from in- ‘into’ + late Latin bursa ‘purse’.
 cartography: mid 19th century: from French cartographie, from carte ‘map, card’ (see card1) + -graphie (see -graphy).
 modus operandi: Latin, literally ‘way of operating’.
+fumigate: 1520s, "scent with perfumes," back-formation from fumigation. The older verb was simply fume (c. 1400). Meaning "apply smoke or fumes to," especially for cleansing purposes, is from 1781.
+permute: late 14c., permuten, "to change one for another, to interchange," from Old French permuter and directly from Latin permutare "to change thoroughly," from per "thoroughly" (see per) + mutare "to change" (from PIE root *mei- (1) "to change, go, move"). The mathematical sense is from 1878 (see permutation).
+upshot: 1530s, from up (adj.) + shot (n.); originally, the final shot in an archery match, hence the figurative sense of "result, issue, conclusion" (c. 1600).
+stead: 来自古英语 stede,位置，地方，来自 Proto-Germanic*stadiz,位置，地方，来自 PIE*sta,站立， 建立，词源同 stand,state.引申词义代替，缩写自 in somebody's stead,在某人的位置。
