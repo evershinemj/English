@@ -9,3 +9,8 @@ flower: tulip, carnation, sunflower, orchid
 goose: gander, gosling, gaggle
 steak: rare, medium rare, medium, medium well, well done
 shackles: manacles, fetters
+cheese: cottage cheese, cream cheese, ricotta, brie, mozzarella, Colby, co-jack, cheddar, Parmesan, asiago, Romano, Gruyere, queso fresco, muenster
+pasta: penne, macaroni, fettuccine, ravioli, spaghetti, linguine, fusilli, orecchiette, capellini (angel hair), orzo
+phobia: acrophobia, aerophobia, claustrophobia, glossophobia, arachnophobia
+Mexican food: nacho, enchilada, jalapeno, tortilla, burrito, taco, quesadilla
+cocktails: cosmo, sex on the beach, Manhattan

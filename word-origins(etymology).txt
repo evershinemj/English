@@ -538,3 +538,30 @@ fumigate: 1520s, "scent with perfumes," back-formation from fumigation. The olde
 permute: late 14c., permuten, "to change one for another, to interchange," from Old French permuter and directly from Latin permutare "to change thoroughly," from per "thoroughly" (see per) + mutare "to change" (from PIE root *mei- (1) "to change, go, move"). The mathematical sense is from 1878 (see permutation).
 upshot: 1530s, from up (adj.) + shot (n.); originally, the final shot in an archery match, hence the figurative sense of "result, issue, conclusion" (c. 1600).
 stead: 来自古英语 stede,位置，地方，来自 Proto-Germanic*stadiz,位置，地方，来自 PIE*sta,站立， 建立，词源同 stand,state.引申词义代替，缩写自 in somebody's stead,在某人的位置。
+pull out all the stops: This term comes from organ-playing, where it means "bring into play every rank of pipes," thereby creating the fullest possible sound. It has been used figuratively since about 1860. 
+paranormal: para-,相反，normal,正常的。即反常的，难以理解的，引申词义超常的，超自然的。
+natal: 来自拉丁语natus,出生，词源同native,gene.
+prenatal: pre-,在前，早于，预先，natal,生育的。
+tenable: "capable of being held or maintained," 1570s, from Middle French tenable, from Old French (12c.), from tenir "to hold," from Latin tenere "to hold, keep," from PIE root *ten- "to stretch."
+pasteurize: pasteurize 起源于1864年夏季，法国化学家与微生物学家Louis Pasteur发明了一种对葡萄酒与啤酒的消毒保存方法。他通过实验发现把新酒短暂加热到50～60 °C（122～140 °F）就足以杀死酒中的微生物，长期保存也不会变酸，而且不牺牲酒的口味品质。这种方法以巴斯德的姓氏命名，称为"pasteurization"。巴氏消毒法起初作为酒类保存的一种处置方法，很多年后才用于牛奶的消毒处理。
+ricotta: 里科塔（Ricotta）在意大利语中的意思是“再煮制（recook）”，这也体现了里科塔奶酪的生产工艺。
+Parmezan: 来自意大利北部城市Parma.
+colossal: 公元前292年希腊的罗德岛人击败马其顿人的入侵，把缴获的兵器熔化后制作了一尊青铜太阳神巨像，高100英尺，脚跨海港入口，船可从底下驶入港口，是古代七大奇观之一，被称为Colossus of Rhodes（罗德岛的巨型塑像）。Colossus来自希腊语kolossos，意为“巨型塑像”，由古罗马历史学家希德罗德首次在其著作《历史》中使用，表示埃及的巨大塑像。后来，罗马人用它来表示罗德岛的巨型塑像。英语单词colossal就来自拉丁语colossue，表示“巨大的”。罗马的圆形大斗兽场就被称为colosseum。 colossal：[kə'lɒs(ə)l] adj.巨大的，庞大的，异常的 colosseum：[,kɔlə'siəm] n.罗马圆形大斗兽场
+pescatarian: from Italian pesce 'fish', based on the pattern of vegetarian
+penultimate: From Latin paenultimus, from paene ‎(“almost”) + ultimus ‎(“last”). 来自拉丁语paene,几乎，接近，ultimate,最终的，最后的。即几乎最末的，也就是倒是第二的。
+ingenuous: 来自拉丁语ingenuus,天生的，出生高贵的，来自in-,进入，使，内在，-gen,生育，出生，词源同gene,gentle.原指出生高贵的，后引申词义真诚的，天真无邪的，但现在多用于贬义天真的，单纯的。
+monger: Old English mangere "merchant, trader, broker," agent noun from mangian "to traffic, trade," from Proto-Germanic *mangojan (source also of Old Saxon mangon, Old Norse mangari "monger, higgler"), from Latin mango (genitive mangonis) "dealer, trader, slave-dealer," which is related to mangonium "displaying of wares."
+claustrophobia: claustro-,关闭，幽闭，词源同close.-phobia,害怕，词源同zoophobia,动物恐惧症。
+arachnophobia: From + arachno- +‎ -phobia, from Ancient Greek ἀράχνη ‎(arákhnē, “spider”) + φόβος ‎(phóbos, “fear”).
+acrophobia: "morbid fear of heights," 1887, medical Latin, from Greek akros "at the end, topmost" (from PIE root *ak- "be sharp, rise (out) to a point, pierce") + -phobia "fear." Coined by Italian physician Dr. Andrea Verga in a paper describing the condition, from which Verga himself suffered.
+acrobat: 高空走绳索等杂技表演在古希腊就早已有之，希腊语用akrobates来表示这些高空走绳索的演员，字面意思是“在高空行走的人”。其中，akro来自akros（顶端、最高点），英语词根acro（高空）也来源于此；bates表示“行走者”。英语单词acrobat（杂技）正是从此而来，并随着杂技表演形式的丰富，词义扩展为表示各种杂技表演。 acrophobia： [,ækrə'fəʊbɪə] n.高空恐惧症。记：acro高空+phobia恐惧症 acrobat：['ækrəbæt] n.杂技演员，特技演员 acrobatic： [ækrə'bætɪk] adj.杂技的，特技的
+glossophobia: Glossophobia or speech anxiety is the fear of public speaking or of speaking in general.[1] The word glossophobia comes from the Greek γλῶσσα glōssa, meaning tongue, and φόβος phobos, fear or dread.
+glossary: glossary一般指某个特别领域的词汇或术语的汇集。它是从希腊词glossa 来的，意思是“舌头”，进而指“语言”、指“词汇”、指“词义解释”。Glossary就是“词义解释汇集”。
+agoraphobia: 1871年，德国心理学家Carl Westphal创造了这个单词。希腊词根-phobia表...恐怖症，而agora ['ægɒrə] n.市场；集会，则尤指雅典的阿格拉广场（类似于古罗马的forum），词根本意是聚集，与日耳曼词源的crowd同源。
+slouch: 来自辅音丛 sl-,邋遢的，懒的，比较 slattern,slut,sloven,slug.
+doodle: "scrawl aimlessly," 1935, perhaps from dialectal doodle, dudle "fritter away time, trifle," or associated with dawdle (which might be the source of the dialect word).
+pending: 来自拉丁语pendere,悬挂，词源同pendulum.引申词义悬而未决的，待定的。
+covenant: c. 1300, covenaunt, "mutual compact to do or not do something, a contract," from Old French covenant, convenant "agreement, pact, promise" (12c.), originally present participle of covenir "agree, meet," from Latin convenire "come together, unite; be suitable, agree," from com- "together" (see com-) + venire "to come," from a suffixed form of PIE root *gwa- "to go, come."
+tenet: 借用于拉丁语动词tenere(握,持有)的现在时第三人称单数形式tenet。 词根词缀： -ten-握,持有 + et(= -it )名词词尾 → 要紧紧握住的东西
+creed: -cred-相信,信任 → creed
+inception: early 15c., "a beginning, a starting," from Old French inception and directly from Latin inceptionem (nominative inceptio) "a beginning; an undertaking," noun of action from past participle stem of incipere "begin, take in hand," from in- "in, on" (from PIE root *en "in") + -cipere, combining form of capere "take, seize," from PIE root *kap- "to grasp."

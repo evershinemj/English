@@ -1,4 +1,3 @@
-
 incubate, hatch
 stamina, tenacity 毅力，执着
 ruthless, ruthless 残酷，无情
@@ -165,3 +164,10 @@ skip to sth, skip sth
 illicit, elicit
 revolver, pistol
 sector, segment
+timbre, timber
+bony, thorny
+fishmonger, fisherman
+flicker, flick
+doodle, dawdle
+masala, marsala
+

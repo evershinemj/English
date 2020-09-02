@@ -1,5 +1,11 @@
 # celebrities
 
+Dean Norris
+Brian Cranston
+Bob Odenkirk
+Benedict Cumberbatch
+Tom Hardy
+Henry Ford
 Roger Federer
 Rafael Nadal
 Novak Djokovic
@@ -20,6 +26,7 @@ Florence Nightingale
 
 # names
 
+Neil
 Robert, Robby, Bob, Bobby
 James, Jim, Jimmy
 Carol
@@ -30,3 +37,16 @@ Harrison
 Gilbert
 Jake
 Patricia
+Synthia
+Rita
+Michelle
+Chris
+
+# countries
+
+Czech
+Ukraine
+
+# cities
+
+Prague

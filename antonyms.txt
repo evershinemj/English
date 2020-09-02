@@ -64,3 +64,4 @@ plain, elaborate
 plain, fancy
 stuffy, airy
 offence, defense
+claustrophobia, agoraphobia

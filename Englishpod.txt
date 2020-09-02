@@ -110,3 +110,20 @@
 268 purchasing manager and vendor
 269 coffee marketing
 270 tailor-made suit
+287 high school reunion
+288 tattoo, indelible ink
+289 bear with me a second
+290 buying jewelry as a gift
+291 Chinese food (sesame chicken, wonton ...)
+292 sidetracked in presentation
+293 a wide range of cheese (mozzarella, cottage cheese, ricotta, brie ...)
+294 a brief overview of a college
+295 presentation part nine
+296 vegan and pescatarian
+297 a variety of pasta (penne, fettuccine, spaghetti, macaroni, ravioli ...)
+298 presentation part ten
+303 Mexican food (enchilada, jalapeno, nacho, quesadilla, guacamole, burrito ...)
+304 neat freak
+305 bowling
+307 small talk episode one
+308 briefs and boxers

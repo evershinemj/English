@@ -21,3 +21,7 @@ ventriloquist, eloquent
 reimburse, purse
 exhume, human
 esthetic, anesthetic
+natal, prenatal, native
+fishmonger, cheesemonger, scaremonger, hatemonger, panicmonger
+acrophobia, acrobat, acrimonious
+glossophobia, glossary
