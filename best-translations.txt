@@ -70,4 +70,6 @@ operator 接线员
 switchboard 总机
 ...grand ...千美元
 scam 欺诈
-
+quotation 报价；估价
+ransack 洗劫
+geezer 老头

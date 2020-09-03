@@ -34,3 +34,5 @@ ridicule
 sneer
 scorn
 comrade
+publication
+quotation
