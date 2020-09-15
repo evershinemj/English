@@ -127,3 +127,12 @@
 305 bowling
 307 small talk episode one
 308 briefs and boxers
+312 cocktails
+313 small talk (same old, same old)
+314 collect call
+315 writing a letter
+316 small talk (photocopier)
+317 paycheck deductions
+318 allegy
+319 small talk (soaked at lunch break)
+320 GMAT

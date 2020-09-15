@@ -26,6 +26,7 @@ Florence Nightingale
 
 # names
 
+Chuck, Charles
 Neil
 Robert, Robby, Bob, Bobby
 James, Jim, Jimmy

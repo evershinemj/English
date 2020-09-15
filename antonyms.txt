@@ -65,3 +65,5 @@ plain, fancy
 stuffy, airy
 offence, defense
 claustrophobia, agoraphobia
+acquit, convict
+gross, net

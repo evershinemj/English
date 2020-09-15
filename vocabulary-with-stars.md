@@ -1,5 +1,10 @@
 # one star
 
+- cutback
+- sales tax
+- fledgling
+- sesame
+- mayonnaise
 - geezer
 - skinhead
 - prank

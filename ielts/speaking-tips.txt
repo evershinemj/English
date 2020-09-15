@@ -1,1 +1,2 @@
+use synonyms to replace words in questions
 strong introduction

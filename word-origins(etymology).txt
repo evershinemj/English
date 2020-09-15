@@ -283,7 +283,7 @@ karaoke: 1970s: from Japanese, literally ‘empty orchestra’.
 toupee: early 18th century (denoting a curl or lock of artificial hair): alteration of French toupet ‘hair tuft’, diminutive of Old French toup ‘tuft’, ultimately of Germanic origin and related to top1.
 melodrama: early 19th century: from French mélodrame, from Greek melos ‘music’ + French drame ‘drama’.
 boutique: 英语单词boutique来自法语，在法语中原指专卖时尚服装的精品小店。进入英语后，变成了一个十分时髦的词，成为了时尚、精致、小众风格的代名词。在中国，曾经有一段时间，一些酒店、商场、小区纷纷以boutique为噱头，甚至还有一个非常高雅的中文译名：“璞邸”。然而这个词的源头跟高雅、时髦毫无关系。它来自希腊语apotheke，本意是“仓库、储物间”。它经由拉丁语（apotheca）、普罗旺斯语（botica）后变成法语boutique，原本可以表示卖各种商品的小店，20世纪专指卖时装的小店。后来带着浓郁的法国浪漫进入英语，用来表示各种“精品店”。
-pepperoni: from Italian peperone ‘chili’.
+pepperoni: from Italian peperone ‘chili’. 来自意大利语peperone,红辣椒，辣椒粉，来自pepper,辣椒，-one,大词后缀。后用于指意大利辣香肠。
 sous-: from French sous ‘under’.
 excursion: ex-, 向外。-cur, 跑，词源同course, current.
 diverge: mid 17th century: from medieval Latin divergere, from Latin dis- ‘in two ways’ + vergere ‘to turn or incline’.
@@ -565,3 +565,31 @@ covenant: c. 1300, covenaunt, "mutual compact to do or not do something, a contr
 tenet: 借用于拉丁语动词tenere(握,持有)的现在时第三人称单数形式tenet。 词根词缀： -ten-握,持有 + et(= -it )名词词尾 → 要紧紧握住的东西
 creed: -cred-相信,信任 → creed
 inception: early 15c., "a beginning, a starting," from Old French inception and directly from Latin inceptionem (nominative inceptio) "a beginning; an undertaking," noun of action from past participle stem of incipere "begin, take in hand," from in- "in, on" (from PIE root *en "in") + -cipere, combining form of capere "take, seize," from PIE root *kap- "to grasp."
+raisin: 来自盎格鲁-诺曼语reysin("dried sweet grape"), 来自古法语raisin("grape"), 来自拉丁语racēmus. 同源于波斯语رز("vine")
+deride: 单词ridiculous（荒谬的）的字面意思就是“可笑的”，词根-rid-指“笑”，来自拉丁语ridere（笑）；可用该词来反向助记这个词根。前缀de-指“向下”，词根-rid-指“笑”，-e为后缀；字面义“向下笑”。derision（嘲笑；笑柄），risible（可笑的；引人发笑的）。
+deliberation: late 14c., deliberacioun, "act of weighing and examining," from Old French deliberation, from Latin deliberationem (nominative deliberatio), noun of action from past-participle stem of deliberare "consider carefully, consult," literally "weigh well," from de, here probably "entirely" (see de-) + -liberare, altered (probably by influence of liberare "to free, liberate") from librare "to balance, make level," from libra "pair of scales, a balance" (see Libra). Sense of "slowness in decision or action" is from early 15c. Meaning "mutual discussion and examination of the reasons for and against a measure" is from late 15c..
+debase: de-, 向下。base, 低，贱，词源同 base metal. 即使低贱，败坏名誉。
+exonerate: ex-, 向外。-oner, 责任，词源同onus.
+dementia: 词根词缀： de-去掉 + -ment-记忆,智力 + -ia名词词尾
+nitty-gritty: "basic facts of a situation or problem," by 1961, knitty-gritty, American English, said to have been chiefly used by black jazz musicians, perhaps ultimately from nit and grits "finely ground corn." 
+subjugate: sub-,在下，-jug,连接，系，词源同 join,yoke,jugular.即系在下面，引申词义制伏，使屈服。
+indigenous: indi-,在内，在里，来自in-的扩大形式，-gen,生育，孕育，词源同gene,generate.即本地产的。
+flamboyant: 来自古法语flamboiier, 闪光，照耀，词源同flame. 拼写受boy影响俗化。1832, originally in reference to a 15c.-16c. architectural style with wavy, flame-like curves, from French flamboyant "flaming, wavy," present participle of flamboyer "to flame," from Old French flamboiier "to flame, flare, blaze, glow, shine" (12c.), from flambe "a flame, flame of love," from flamble, variant of flamme, from Latin flammula "little flame," diminutive of flamma "flame, blazing fire" (from PIE root *bhel- (1) "to shine, flash, burn"). Extended sense of "showy, ornate" is from 1879. Related: Flamboyantly.
+ornate: 来自拉丁语ornare,装饰，来自ordnare,安排，布置，词源同order,adorn.即装饰好的，引申词义装修豪华的，富丽的，堂皇的。
+ornament: 来自拉丁语ornare,装饰，来自ordnare,安排，布置，词源同order,adorn.-ment,名词后缀。引申词义装饰品。
+chaste: 来自古法语chaste("morally pure"), 来自拉丁语castus("pure"). 在古代宗教习俗中，人们在进行宗教活动时特别注意洁净，不仅供品、物品要进行洁净处 理，并且参加活动的人也要提前沐浴更衣，甚至还要求主持宗教活动的祭司在道德上是纯洁无瑕的。有些神殿用处女担任祭司也是出于这种考虑。英语单词 chaste就反映了这种宗教要求。它来自拉丁语castus，与cast（投掷）有关，表示“清洁，与不洁之物及罪恶分开）。英语单词caste（种 姓）与此同源，所以不同种姓之间不能通婚，以保持血统的高贵和纯洁。 chaste：[tʃeɪst] adj.纯洁的，贞洁的，道德高尚的 caste：[kɑːst] n.（印度）种姓，排他性的社会团体，等级严格的社会阶层
+chastise: 来自chaste，使改正，使纯洁。"to inflict pain upon to punish and recall to duty, to punish for the purpose of correcting or reclaiming," c. 1300, chastisen, from Old French chastiier "to warn, advise, instruct; chastise, admonish; punish; dominate, tame" (12c., Modern French châtier), from Latin castigare "to set or keep right, to reprove, chasten, to punish," literally "to make pure" (see castigate). Or perhaps from Middle English chastien (see chasten) + -ise, though this would be early for such a native formation. The form of the modern word "is not easily accounted for" [OED]. Related: Chastised; chastising.
+impromptu: 1660s, from French impromptu (1650s), from Latin in promptu "in readiness," from assimilated form of in- "into, in, on, upon" (from PIE root *en "in") + promptu, ablative of promptus "ready, prepared; set forth, brought forward," from past participle of promere "to bring out," from pro "before, forward, for" (see pro-) + emere "obtain" (from PIE root *em- "to take, distribute"). From 1764 as an adjective; as a noun from 1680s.
+improvise: im-,不，非，-provise,准备，词源同provide.即没准备，临时做的，即兴准备。
+croissant: 来自crescent, 新月形。因形似新月而得名。
+candid: cand-"白"是个很有用的词根，能衍生出丰富的词义：“白”象征纯洁，纯净之人自然坦率真诚，于是有candid；点燃蜡烛，黑暗之中便会升起一团微弱的白色焰火，于是有candle（蜡烛）；古罗马参与选举之人，统一身着白色罩袍，于是有candidate（候选人）。
+maxim: 来自拉丁语maxima,来自maximum的阴性格，-a,表阴性。即最重要的训导，引申词义格言，座右铭。
+adjourn: 发音释义：[ə'dʒɝn] vi. 休会；延期；换地方vt. 推迟；使…中止；使…延期 结构分析：adjourn = ad（去）+journ（day，天）→指定一天（继续开会）→延期、推迟 词源解释：journ←拉丁语diurnus（每日的）。该词原本是指定日期重新开会，后来可以表示“休会”（无论是否择期重开），口语中还可以表示“换个地方开会” 同源词： adjournment（休会期间），journey（旅行，一日之所行），journal（日记），journeyman（熟练工、计时工）
+journey: journey可追溯至拉丁语名词dies, diei，n(一天,白天)。基于dies的形容词diurnus(每天的),名词用法为diurnum(一天的工作量),在古法语中为jornee/jour(一天),进入英语为journey。因此journey原义为“一天的工作量,一天往返的旅程”。到16世纪中期,这一原义消失,只保留了“旅行”的意义。“一天的工作量”在journeyman(熟练工人)中还能找到踪迹。只有能一天完成“一天的工作量”才算得上是“熟练工人”,而其与“旅行”却没有任何的关系。其它基于以上词源的英语词汇还有diary, diurnal。 词根词缀： -journ-一天 + -ey(= -y) 同源词：diary, diurnal, -journ-
+journal: 来自古法语jornel,天，一天时间，一天的工作，来自拉丁语diurnalis,一天的，词源同daily.部分学者认为其拼写变化由字母d到字母j可能是来自后拉丁语时期，字母i变成字母j后导致首字母d脱落造成的。词义由一天的工作引申日志，日报，期刊，一天的新闻等。
+marinate: 来自marine,海的，海水的，-ate,使。比喻用法。
+corporate: 来自词根corp，身体，见corporeal. 即成为一体的，成立法人实体的公司。
+clatter: 拟声词。-er,表反复。
+reindeer: 来自古诺斯语 hreindyri,来自 dyr,动物，鹿，词源同 deer,鹿，hreinn,驯鹿，来自 PIE*ker,角， 词源同 horn.该词 rein-本身已经表示鹿，与 rein（缰绳）没有词源联系，巧合的是，这种鹿 确实大量的被人工驯养并用于拉雪橇。
+luster: 来自拉丁语lucere,发光，词源同light,lumen,lunar,-st,过去分词后缀。
+thistle: thistle蓟（苏格兰民族象征）一种多刺草本植物，来自古英语 thistel,蓟，来自 Proto-Germanic*thistilaz,刺毛，可能来自 PIE*stei,尖刺，词源同 stick,thorn.-el,小词后缀
