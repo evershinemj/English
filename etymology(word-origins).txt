@@ -608,4 +608,5 @@ biceps: mid 17th century: from Latin, literally ‘two-headed’, from bi- ‘tw
 la-la land: la-la, reduplication of LA (i.e. Los Angeles).
 chamber: 来源于希腊语kamara(带拱顶的建筑或房间)在拉丁语中派生的camara或camera,在古法语中派生为chambre。 同源词：camera, chimney
 plausible: 来自拉丁语plaudere,击，打，拍掌，-s,过去分词格，词源同applaud,implosive.引申词义可信的，有道理的。
-
+feasible: late Middle English: from Old French faisible, from fais-, stem of faire ‘do, make’, from Latin facere. 来源于拉丁语动词facere(做,作)在法语中派生的faire(做,作),faire又派生了faisable(可被做的)。 词根词缀： feas(-fac-)做,作 + -ible形容词词尾
+exfoliate: mid 17th century: from late Latin exfoliat- ‘stripped of leaves’, from the verb exfoliare, from ex- ‘out, from’ + folium ‘leaf’.

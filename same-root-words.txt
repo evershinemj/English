@@ -37,4 +37,5 @@ prevail, value, avail
 callous, callus
 crayfish, crab
 philanthropist, misanthrope, anthropology
-
+plausible, applaud
+feasible, fact, beneficent

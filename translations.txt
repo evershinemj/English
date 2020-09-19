@@ -149,3 +149,5 @@ boulevard 林荫大道
 avenue 林荫大道
 clink 叮当响
 tinkle 叮当响
+feasible 可行的
+plausible 可信的

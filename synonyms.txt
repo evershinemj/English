@@ -6162,3 +6162,5 @@ clink, tinkle
 far-fetched, improbable
 plausible, credible, reasonable, likely, tenable
 implausible, unlikely, improbably, far-fetched, preposterous
+declare sth, acknowledge possession of sth
+underlying, fundamental
