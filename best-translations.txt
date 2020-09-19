@@ -1,142 +1,145 @@
-machine gun »ú¹ØÇ¹
-sector ÉÈĞÎ
-segment ¹­ĞÎ
-rampage ºá³åÖ±×²
-stay the course ¼á³Öµ½µ×
-bluff »£ÈË£¬ĞéÕÅÉùÊÆ
-gauze É´²¼£¬±¡É´
-fumigate ÑÌÑ¬
-statute of limitations Ê±Ğ§£¬ËßËÏÊ±Ğ§·¨¹æ
-statute ·¨Áî
-mope ÃÆÃÆ²»ÀÖ£»×ÔÔ¹×Ô°¬
-security deposit Ñº½ğ£¬±£Ö¤½ğ
-ratify Åú×¼
-refrigerant ÖÆÀä¼Á
-slime Õ³Òº
-steed ¿¥Âí
-MSG Î¶¾«
-bite off more than you can chew Ò»¿Ú³Ô³ÉÅÖ×Ó£¬×Ô²»Á¿Á¦
-cut it out ÉÙÀ´ÕâÒ»Ì×
-amethyst ×ÏË®¾§
-timbre ÒôÉ«
-tenable Õ¾µÃ×¡½ÅµÄ
-bony ¶à´ÌµÄ
-designation Ö¸¶¨£»³Æºô
-mozzarella ÂíËÕÀïÀ­
-icing ÌÇËª
-frosting ÌÇËª
-dressing µ÷ÁÏ
-crumbly ´àµÄ
-follow-through ºóĞøĞĞ¶¯
-capacity ÈİÁ¿
-against the clock Õù·Ö¶áÃë
-ravioli Òâ´óÀû·½ĞÎ½È
-penne ¼â¹ÜÍ¨ĞÄ·Û
-macaroni Í¨ĞÄ·Û
-fettuccine ¿íÃæ
-artillery ´óÅÚ
-Bring it on! ·ÅÂí¹ıÀ´£¡
-prostitute yourself ÔãÌ£×Ô¼º
-no sweat Ğ¡ÊÂÒ»×®
-tip sb off Ïò¡­Í¨·ç±¨ĞÅ
-fishmonger Óã··
-vent Í¨·ç¿Ú
-dawdle Ä¥²ä
-doodle Í¿Ñ»
-regimented ËÀ°åµÄ
-retro ¸´¹ÅµÄ
-seizure Í»È»·¢×÷
-chauffeur Ë½ÈËË¾»ú
-oyster ÄµòÃ£¬º£òÃ£¬Éúòº
-scallop ÉÈ±´
-usher Òı×ùÔ±
-dugout ÇòÔ±Ï¯
-misrepresent ÍáÇú
-dismal ÆàÁ¹µÄ
-plummet ±©µø
-vault ±£ÏÕ¿â
-smoked Ñ¬ÖÆµÄ
-proprietor ÒµÖ÷
-carousel ĞĞÀî´«ËÍ´ø
-concentrate Å¨ËõÎï
-housing ×¡·¿
-onslaught ÃÍ¹¥
-granted µÄÈ·
-postage ÓÊ·Ñ
-ridicule ³°Ğ¦
-sneer at ³°Ğ¦
-scorn ±ÉÊÓ
-operator ½ÓÏßÔ±
-switchboard ×Ü»ú
-...grand ...Ç§ÃÀÔª
-scam ÆÛÕ©
-quotation ±¨¼Û£»¹À¼Û
-ransack Ï´½Ù
-geezer ÀÏÍ·
-put sth on the back burner °Ñ...ÔİÊ±¸éÖÃ
-on trial ÊÜÉó
-courtroom ·¨Í¥
-deliberation ÉóÒé
-fat cat ´óºà
-COO (Chief Operations Officer) Ê×Ï¯ÔËÓª¹Ù
-bean sprout ¶¹Ñ¿
-coriander Ïã²Ë
-dementia ³Õ´ô
+machine gun æœºå…³æª
+sector æ‰‡å½¢
+segment å¼“å½¢
+rampage æ¨ªå†²ç›´æ’
+stay the course åšæŒåˆ°åº•
+bluff å”¬äººï¼Œè™šå¼ å£°åŠ¿
+gauze çº±å¸ƒï¼Œè–„çº±
+fumigate çƒŸç†
+statute of limitations æ—¶æ•ˆï¼Œè¯‰è®¼æ—¶æ•ˆæ³•è§„
+statute æ³•ä»¤
+mope é—·é—·ä¸ä¹ï¼›è‡ªæ€¨è‡ªè‰¾
+security deposit æŠ¼é‡‘ï¼Œä¿è¯é‡‘
+ratify æ‰¹å‡†
+refrigerant åˆ¶å†·å‰‚
+slime ç²˜æ¶²
+steed éªé©¬
+MSG å‘³ç²¾
+bite off more than you can chew ä¸€å£åƒæˆèƒ–å­ï¼Œè‡ªä¸é‡åŠ›
+cut it out å°‘æ¥è¿™ä¸€å¥—
+amethyst ç´«æ°´æ™¶
+timbre éŸ³è‰²
+tenable ç«™å¾—ä½è„šçš„
+bony å¤šåˆºçš„
+designation æŒ‡å®šï¼›ç§°å‘¼
+mozzarella é©¬è‹é‡Œæ‹‰
+icing ç³–éœœ
+frosting ç³–éœœ
+dressing è°ƒæ–™
+crumbly è„†çš„
+follow-through åç»­è¡ŒåŠ¨
+capacity å®¹é‡
+against the clock äº‰åˆ†å¤ºç§’
+ravioli æ„å¤§åˆ©æ–¹å½¢é¥º
+penne å°–ç®¡é€šå¿ƒç²‰
+macaroni é€šå¿ƒç²‰
+fettuccine å®½é¢
+artillery å¤§ç‚®
+Bring it on! æ”¾é©¬è¿‡æ¥ï¼
+prostitute yourself ç³Ÿè¹‹è‡ªå·±
+no sweat å°äº‹ä¸€æ¡©
+tip sb off å‘â€¦é€šé£æŠ¥ä¿¡
+fishmonger é±¼è´©
+vent é€šé£å£
+dawdle ç£¨è¹­
+doodle æ¶‚é¸¦
+regimented æ­»æ¿çš„
+retro å¤å¤çš„
+seizure çªç„¶å‘ä½œ
+chauffeur ç§äººå¸æœº
+oyster ç‰¡è›ï¼Œæµ·è›ï¼Œç”Ÿèš
+scallop æ‰‡è´
+usher å¼•åº§å‘˜
+dugout çƒå‘˜å¸­
+misrepresent æ­ªæ›²
+dismal å‡„å‡‰çš„
+plummet æš´è·Œ
+vault ä¿é™©åº“
+smoked ç†åˆ¶çš„
+proprietor ä¸šä¸»
+carousel è¡Œæä¼ é€å¸¦
+concentrate æµ“ç¼©ç‰©
+housing ä½æˆ¿
+onslaught çŒ›æ”»
+granted çš„ç¡®
+postage é‚®è´¹
+ridicule å˜²ç¬‘
+sneer at å˜²ç¬‘
+scorn é„™è§†
+operator æ¥çº¿å‘˜
+switchboard æ€»æœº
+...grand ...åƒç¾å…ƒ
+scam æ¬ºè¯ˆ
+quotation æŠ¥ä»·ï¼›ä¼°ä»·
+ransack æ´—åŠ«
+geezer è€å¤´
+put sth on the back burner æŠŠ...æš‚æ—¶æç½®
+on trial å—å®¡
+courtroom æ³•åº­
+deliberation å®¡è®®
+fat cat å¤§äº¨
+COO (Chief Operations Officer) é¦–å¸­è¿è¥å®˜
+bean sprout è±†èŠ½
+coriander é¦™èœ
+dementia ç—´å‘†
 wholesaler
 retailer
-paralegal ÂÉÊ¦ÖúÀí
-grope ÃşË÷
-flamboyant ìÅÒ«µÄ£»Ò«ÑÛµÄ
-ornate »ªÀöµÄ
-burn the candle at both ends ¹ı¶ÈÀÍÀÛ
-rant Å­ºğ£¬ÅØÏø
-waver ³ì³ù
-chaste ´¿½àµÄ£»½àÉí×ÔºÃµÄ
-chastise Ñµ³â
-authoritative È¨ÍşµÄ
-scumbag ±°±ÉĞ¡ÈË
-rip sb off ÇÃÕ©
-fallacy ÃıÂÛ
-crossant Å£½ÇÃæ°ü
-momentous ÖØ´óµÄ
-candid Ì¹ÂÊµÄ£»Ö±ÑÔ²»»äµÄ
-contingent Ğ¡·Ö¶Ó
-maxim ¸ñÑÔ
-turnover ÓªÒµ¶î
-journeyman ÊìÁ·¹¤
-adjourn Ğİ»á
-note ×¢Òâ
-mark ×¢Òâ
-streak ÌõÎÆ£¬ÌõºÛ
-cutback Ï÷¼õ
-snipe ¾Ñ»÷
-sniper ¾Ñ»÷ÊÖ
-deformity »ûĞÎ
-cracker ±¡´à±ı¸É
-hummus Ó¥×ì¶¹Äà
-reindeer Ñ±Â¹
-rein çÖÉş
-nestle ÒÀÙË
-in spite of oneself ²»ÓÉ×ÔÖ÷µØ
-luster ¹âÔó
-paw ÄÓ
-whimsical ÒìÏëÌì¿ªµÄ£¬ÀëÆæµÄ
-wiggle °Ú¶¯£¬Å¤¶¯
-heartless ÂéÄ¾²»ÈÊ
-callous Àä¿áÎŞÇé£¬ÂéÄ¾²»ÈÊ
-callus ÀÏ¼ë
-reflection Ó³Ïñ
-convoy ³µ¶Ó
-culture vulture ÎÄ»¯¿ñÈÈ·Ö×Ó
-gladiator ½Ç¶·Ê¿
-audit Éó¼Æ
-tread water ¹ü×ã²»Ç°£»ÅÇ»²¹ÛÍû
-cumin powder ×ÎÈ»
-disparity ²îÒì
-discrepancy ²îÒì
-job market ¾ÍÒµÊĞ³¡
-uncharted ÈË¼£º±ÖÁµÄ
-cynicism È®ÈåÖ÷Òå£¬ÍæÊÀ²»¹§£¬·ßÊÀ¼µË×
-fight fire with fire ÒÔÑÀ»¹ÑÀ
-carpet µØÌº
-blanket Ìº×Ó
+paralegal å¾‹å¸ˆåŠ©ç†
+grope æ‘¸ç´¢
+flamboyant ç‚«è€€çš„ï¼›è€€çœ¼çš„
+ornate åä¸½çš„
+burn the candle at both ends è¿‡åº¦åŠ³ç´¯
+rant æ€’å¼ï¼Œå’†å“®
+waver è¸Œèº‡
+chaste çº¯æ´çš„ï¼›æ´èº«è‡ªå¥½çš„
+chastise è®­æ–¥
+authoritative æƒå¨çš„
+scumbag å‘é„™å°äºº
+rip sb off æ•²è¯ˆ
+fallacy è°¬è®º
+crossant ç‰›è§’é¢åŒ…
+momentous é‡å¤§çš„
+candid å¦ç‡çš„ï¼›ç›´è¨€ä¸è®³çš„
+contingent å°åˆ†é˜Ÿ
+maxim æ ¼è¨€
+turnover è¥ä¸šé¢
+journeyman ç†Ÿç»ƒå·¥
+adjourn ä¼‘ä¼š
+note æ³¨æ„
+mark æ³¨æ„
+streak æ¡çº¹ï¼Œæ¡ç—•
+cutback å‰Šå‡
+snipe ç‹™å‡»
+sniper ç‹™å‡»æ‰‹
+deformity ç•¸å½¢
+cracker è–„è„†é¥¼å¹²
+hummus é¹°å˜´è±†æ³¥
+reindeer é©¯é¹¿
+rein ç¼°ç»³
+nestle ä¾å
+in spite of oneself ä¸ç”±è‡ªä¸»åœ°
+luster å…‰æ³½
+paw æŒ 
+whimsical å¼‚æƒ³å¤©å¼€çš„ï¼Œç¦»å¥‡çš„
+wiggle æ‘†åŠ¨ï¼Œæ‰­åŠ¨
+heartless éº»æœ¨ä¸ä»
+callous å†·é…·æ— æƒ…ï¼Œéº»æœ¨ä¸ä»
+callus è€èŒ§
+reflection æ˜ åƒ
+convoy è½¦é˜Ÿ
+culture vulture æ–‡åŒ–ç‹‚çƒ­åˆ†å­
+gladiator è§’æ–—å£«
+audit å®¡è®¡
+tread water è£¹è¶³ä¸å‰ï¼›å¾˜å¾Šè§‚æœ›
+cumin powder å­œç„¶
+disparity å·®å¼‚
+discrepancy å·®å¼‚
+job market å°±ä¸šå¸‚åœº
+uncharted äººè¿¹ç½•è‡³çš„
+cynicism çŠ¬å„’ä¸»ä¹‰ï¼Œç©ä¸–ä¸æ­ï¼Œæ„¤ä¸–å«‰ä¿—
+fight fire with fire ä»¥ç‰™è¿˜ç‰™
+carpet åœ°æ¯¯
+blanket æ¯¯å­
+abs (abdominals) è…¹è‚Œ
+pecs (pectorals)  èƒ¸è‚Œ
+biceps è‚±äºŒå¤´è‚Œ

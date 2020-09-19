@@ -604,3 +604,4 @@ crayfish: 来自古法语crevice，词源同crab, 拼写受fish影响俗化。
 discrepancy: dis-, 分开，散开。-crep, 破裂声，词源同crevice, decrepit. 引申词义争吵，不一致。
 cynic: 单词cynic源于古代希腊的一个哲学流派“犬儒主义”（Cynicism）。人们 一般认为犬儒主义是苏格拉底的弟子安提斯泰尼（Antisthenes，BC445－BC365）创立的，另一人物第欧根尼 （Diogenēs，BC404－BC323）则因住在木桶里的怪异行为而成为更有名的犬儒主义者。犬儒主义者行为怪诞，放浪形骸，因此在希腊语中被称为 kynikos，意为dog-like（像狗一样的），源自希腊语kyno（dog）。英语单词cynic就源自希腊语kynikos。但也有人认 为，cynic一词源自安提斯泰尼讲学所在的一座体育馆的名字Kynosarge（gray dog，灰狗）。 犬儒主义宣扬人要摆脱世俗的利益而追求唯一值得拥有的善，精神上的幸福快乐才是真的 的快乐满足。随着犬儒理念的流行，犬儒主义的内涵发生了微妙的根本变化。早期的犬儒主义者是根据自身的道德原则去蔑视世俗的观念；后期的犬儒主义者依旧蔑 视世俗的观念，但是却丧失了赖为准绳的道德原则，从愤世嫉俗就变成了玩世不恭。 现在，人们通常将“犬儒主义”定义为一种带着厌倦情绪的负面态度，对于他人行为的动机与德性都采取一种不信任和嘲弄的态度，认为人的一切行为都是自私自利驱使的。这也是cynic这个单词在现代的主要含义。 cynic：['sɪnɪk]adj.犬儒学派的n.愤世嫉俗者，犬儒学派的人。 cynical：['sɪnɪk(ə)l]adj.愤世嫉俗的，冷嘲热讽的，挑剔讽刺的。 cynicism：['sɪnɪsɪz(ə)m]n.犬儒主义，玩世不恭，愤世嫉俗，冷嘲热讽。
 misanthrope: miso-,厌恶，-anthrop,人类，词源同anthropology,android.引申词义厌世者。
+biceps: mid 17th century: from Latin, literally ‘two-headed’, from bi- ‘two’ + -ceps (from caput ‘head’).
