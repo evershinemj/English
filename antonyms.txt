@@ -67,3 +67,4 @@ offence, defense
 claustrophobia, agoraphobia
 acquit, convict
 gross, net
+philanthropist, misanthrope

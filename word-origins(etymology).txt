@@ -593,3 +593,14 @@ clatter: 拟声词。-er,表反复。
 reindeer: 来自古诺斯语 hreindyri,来自 dyr,动物，鹿，词源同 deer,鹿，hreinn,驯鹿，来自 PIE*ker,角， 词源同 horn.该词 rein-本身已经表示鹿，与 rein（缰绳）没有词源联系，巧合的是，这种鹿 确实大量的被人工驯养并用于拉雪橇。
 luster: 来自拉丁语lucere,发光，词源同light,lumen,lunar,-st,过去分词后缀。
 thistle: thistle蓟（苏格兰民族象征）一种多刺草本植物，来自古英语 thistel,蓟，来自 Proto-Germanic*thistilaz,刺毛，可能来自 PIE*stei,尖刺，词源同 stick,thorn.-el,小词后缀
+prevail: pre-,在前，领先，-vail,价值，.力量，词源同avail,value.即在力量上超过，胜利，引申词义盛行，流行等。
+callous: 发音释义：['kæləs] adj.结硬块的；起老茧的；冷酷无情的v.（使）变得冷酷无情；（使）硬结；（使）生茧n.硬皮；老茧 词源解释：callous←拉丁语callus或callum（硬皮、老茧）←callere（变硬）←原始印欧语词根kal（硬） 同源词：callose（胼胝质） 衍生词：calloused（无情的、变硬的、生茧的）；callously（冷酷无情地、麻木不仁地）；callosity（无情、硬结、老茧）；callousness（麻木不仁）
+recapitulate: re-,再，重新，-capit,头，词源同 captain,chapter.引申词义重述，概括。
+capitulate: 来自capitulation的回构词，原指协议，条款，来自词根cap, 头。-ul, 小词后缀。指小头，一条一条的条款，后指有条件投降，比较chapter。
+gladiator: 古罗马的角斗士之所以为称为gladiator，是因为他们的主要武器是古罗马短剑（gladius）。罗马短剑是罗马人受西班牙凯尔特人所用武器的启发而制成的。这种剑长度较短，十分锋利，适合刺杀，是古罗马军队中配置的基本武器。古罗马军人选择长度较短的剑，这是由古罗马军队的作战方式决定的。古罗马军队讲究团队作战，步兵通常携带长矛、盾牌和短剑。在距离敌人较长时，可以投掷长矛发动攻击。近距离作战时，步兵用盾牌排列成防守阵型，再用短剑刺杀敌人。由于与战友之间距离很近，长剑挥舞起来不太方便。而且与长剑砍劈相比，短剑刺杀的杀伤力更强，更节省体力。 gladiator：['glædɪeɪtə] n.（古罗马）角斗士，斗剑者
+marinade: 来自marine,海的，海水的，-ade,名词后缀。引申词义盐制品，腌泡汁。
+platter: 来自plate,盘子。
+crayfish: 来自古法语crevice，词源同crab, 拼写受fish影响俗化。
+discrepancy: dis-, 分开，散开。-crep, 破裂声，词源同crevice, decrepit. 引申词义争吵，不一致。
+cynic: 单词cynic源于古代希腊的一个哲学流派“犬儒主义”（Cynicism）。人们 一般认为犬儒主义是苏格拉底的弟子安提斯泰尼（Antisthenes，BC445－BC365）创立的，另一人物第欧根尼 （Diogenēs，BC404－BC323）则因住在木桶里的怪异行为而成为更有名的犬儒主义者。犬儒主义者行为怪诞，放浪形骸，因此在希腊语中被称为 kynikos，意为dog-like（像狗一样的），源自希腊语kyno（dog）。英语单词cynic就源自希腊语kynikos。但也有人认 为，cynic一词源自安提斯泰尼讲学所在的一座体育馆的名字Kynosarge（gray dog，灰狗）。 犬儒主义宣扬人要摆脱世俗的利益而追求唯一值得拥有的善，精神上的幸福快乐才是真的 的快乐满足。随着犬儒理念的流行，犬儒主义的内涵发生了微妙的根本变化。早期的犬儒主义者是根据自身的道德原则去蔑视世俗的观念；后期的犬儒主义者依旧蔑 视世俗的观念，但是却丧失了赖为准绳的道德原则，从愤世嫉俗就变成了玩世不恭。 现在，人们通常将“犬儒主义”定义为一种带着厌倦情绪的负面态度，对于他人行为的动机与德性都采取一种不信任和嘲弄的态度，认为人的一切行为都是自私自利驱使的。这也是cynic这个单词在现代的主要含义。 cynic：['sɪnɪk]adj.犬儒学派的n.愤世嫉俗者，犬儒学派的人。 cynical：['sɪnɪk(ə)l]adj.愤世嫉俗的，冷嘲热讽的，挑剔讽刺的。 cynicism：['sɪnɪsɪz(ə)m]n.犬儒主义，玩世不恭，愤世嫉俗，冷嘲热讽。
+misanthrope: miso-,厌恶，-anthrop,人类，词源同anthropology,android.引申词义厌世者。
