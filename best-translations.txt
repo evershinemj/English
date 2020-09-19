@@ -143,3 +143,9 @@ blanket 毯子
 abs (abdominals) 腹肌
 pecs (pectorals)  胸肌
 biceps 肱二头肌
+tendon 腱
+muscle tone 肌张力
+boulevard 林荫大道
+avenue 林荫大道
+clink 叮当响
+tinkle 叮当响
