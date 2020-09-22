@@ -162,3 +162,4 @@ Cairo 开罗
 at this rate 照这样下去
 meridian 子午线，经线；经脉
 ASMR 自发性知觉经络反应
+nick 缺口
