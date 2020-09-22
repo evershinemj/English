@@ -610,3 +610,7 @@ chamber: 来源于希腊语kamara(带拱顶的建筑或房间)在拉丁语中派
 plausible: 来自拉丁语plaudere,击，打，拍掌，-s,过去分词格，词源同applaud,implosive.引申词义可信的，有道理的。
 feasible: late Middle English: from Old French faisible, from fais-, stem of faire ‘do, make’, from Latin facere. 来源于拉丁语动词facere(做,作)在法语中派生的faire(做,作),faire又派生了faisable(可被做的)。 词根词缀： feas(-fac-)做,作 + -ible形容词词尾
 exfoliate: mid 17th century: from late Latin exfoliat- ‘stripped of leaves’, from the verb exfoliare, from ex- ‘out, from’ + folium ‘leaf’.
+reiterate: late Middle English (in the sense ‘do an action repeatedly’): from Latin reiterat- ‘gone over again’, from the verb reiterare, from re- ‘again’ + iterare ‘do a second time’.
+renege: mid 16th century (in the sense ‘desert’): from medieval Latin renegare, from Latin re- (expressing intensive force) + negare ‘deny’.
+pacify: late 15th century (earlier (late Middle English) as pacification): from Old French pacefier, from Latin pacificare, based on pax, pac- ‘peace’.
+mollify: -ify是动词后缀；主要看词根moll，比较两个同源词melt（融化；熔化）和mild（柔和的），三者主体形式一致，元音部分有些许变化，且都来自印欧词根*mel-（柔，软），“安抚”是使急躁的情绪变柔缓，“融化”是硬的东西变柔软，“柔和的”就无需多言了。

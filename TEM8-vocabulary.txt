@@ -103,3 +103,7 @@ hiatus
 gush
 tendon
 hamstring
+allegiance
+appease
+mollify
+pacify

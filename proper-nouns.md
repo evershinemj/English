@@ -23,6 +23,7 @@ Schrodinger
 Eisenhower
 Robert Schumann
 Florence Nightingale
+Arthur Chamberlain
 
 # names
 
@@ -51,4 +52,5 @@ Ukraine
 
 # cities
 
+Cairo
 Prague

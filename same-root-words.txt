@@ -39,3 +39,6 @@ crayfish, crab
 philanthropist, misanthrope, anthropology
 plausible, applaud
 feasible, fact, beneficent
+victor, invincible
+renege, negate, negative
+mollify, melt, mild
