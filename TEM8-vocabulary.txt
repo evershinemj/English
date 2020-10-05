@@ -107,3 +107,12 @@ allegiance
 appease
 mollify
 pacify
+gusto
+chivalry
+eddy
+freighter
+gauge
+benchmark
+blurb
+croak
+electrode

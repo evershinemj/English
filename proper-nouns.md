@@ -1,5 +1,6 @@
 # celebrities
 
+Mohandas Gandhi
 Dean Norris
 Brian Cranston
 Bob Odenkirk

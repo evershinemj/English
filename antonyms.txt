@@ -68,3 +68,6 @@ claustrophobia, agoraphobia
 acquit, convict
 gross, net
 philanthropist, misanthrope
+fraternity, sorority
+overt, covert
+ecstatic, blue

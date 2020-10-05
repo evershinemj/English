@@ -42,3 +42,5 @@ feasible, fact, beneficent
 victor, invincible
 renege, negate, negative
 mollify, melt, mild
+overt, overture
+pulverize, pollen
