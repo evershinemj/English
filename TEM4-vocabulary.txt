@@ -90,3 +90,7 @@ chariot
 sauna
 scoundrel
 rascal
+imperative
+plunder
+stench
+crimson
